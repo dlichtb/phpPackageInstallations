@@ -1,0 +1,25 @@
+Package: php-streams
+Priority: optional
+Section: universe/php
+Installed-Size: 29
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 0.2-1build1
+Depends: php-common
+Filename: pool/universe/p/php-streams/php-streams_0.2-1build1_all.deb
+Size: 5502
+MD5sum: b56d430748d16e7ec4c593d0b1d6c477
+SHA1: 234d5339145548a528ac5d2ad7d3ddcef1d39260
+SHA256: 76eef680e6ee52cd9363e0202246db1055303b07aa7f1ec856ded91ad24eb9db
+Description-en: A set of generic stream wrappers
+ Generic stream wrappers for PHP, like CallBackWrapper, that can be used
+ to register callbacks on read, write and closing of the stream.
+ .
+ The callbacks are passed in the stream context along with the source
+ stream and can be any valid PHP callable.
+Description-md5: 1d3bda80fee52cbfdf88bccd39687919
+Homepage: https://github.com/icewind1991/Streams
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

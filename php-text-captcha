@@ -1,0 +1,25 @@
+Package: php-text-captcha
+Priority: optional
+Section: universe/php
+Installed-Size: 91
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.0.2-2ubuntu1
+Depends: php-common, php-text-password (>= 1.1.1)
+Recommends: php-numbers-words, php-text-figlet, php-image-text (>= 0.7.0), php-gd
+Filename: pool/universe/p/php-text-captcha/php-text-captcha_1.0.2-2ubuntu1_all.deb
+Size: 18242
+MD5sum: 1fd080731c1fb17733c5a0536759061e
+SHA1: 974e6336081110ba1fe76873d37d03fecf29b6d5
+SHA256: cc2458a56a4d0a6f79cac0faa7f18ef8eb675090ed22aa99faa1edaf7acda00a
+Description-en: Generation of CAPTCHAs
+ .
+ Implementation of CAPTCHAs (completely
+ automated public Turing test to tell computers
+ and humans apart)
+Description-md5: 6138d5f06c16d59c4921dea3b2d9c246
+Homepage: http://pear.php.net/package/Text_CAPTCHA
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

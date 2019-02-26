@@ -1,0 +1,26 @@
+Package: php-symfony-dom-crawler
+Priority: optional
+Section: universe/php
+Installed-Size: 148
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Source: symfony
+Version: 2.7.10-0ubuntu2
+Depends: php-common
+Suggests: php-symfony-css-selector
+Filename: pool/universe/s/symfony/php-symfony-dom-crawler_2.7.10-0ubuntu2_all.deb
+Size: 28006
+MD5sum: f2a7d07def7800ef57f24d0fed47336b
+SHA1: e1f78e955595d1ac57a6194bc6dfe664bf10dbac
+SHA256: ea613fe8c0eea0848532428bcda1f0d48fc5a20612d244c834b4f3093512ae28
+Description-en: ease DOM navigation for HTML and XML documents
+ The Symfony DomCrawler Component provides methods to query and
+ manipulate HTML and XML documents.
+ .
+ Symfony is a PHP framework, a set of tools and a development methodology.
+Description-md5: 924f5cf04b02920148ecf212ea3cf6eb
+Homepage: https://symfony.com/doc/2.7/components/dom_crawler.html
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

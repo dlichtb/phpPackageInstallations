@@ -1,0 +1,30 @@
+Package: php-zeta-base
+Priority: optional
+Section: universe/php
+Installed-Size: 422
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.9-2build1
+Depends: php-common
+Filename: pool/universe/p/php-zeta-base/php-zeta-base_1.9-2build1_all.deb
+Size: 123476
+MD5sum: 27c7d7c984f112d1fc66bb8b192e461b
+SHA1: 1e11769797a6b495e22806da0b0ac42c1dc6bfa5
+SHA256: 4959f8f1677964c8270aafb64675b55cce8f97b1b01fe7845d6579513e58cb19
+Description-en: Zeta Components - Base package
+ The Base package provides the basic infrastructure that all packages rely on.
+ Therefore every component relies on this package.
+ .
+ Zeta Components are a high quality, general purpose library of loosely
+ coupled components for development of applications based on PHP 5.
+ Beside typical modules for web application development, like a Template
+ engine, Database tools and an MVC component, Zeta Components contain
+ command line tools, a chart rendering library, a WebDAV server, a
+ universal document conversion component and many more tools to ease
+ developers live.
+Description-md5: eda9417b8fc7fca01658af8274c8448b
+Homepage: http://zetacomponents.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

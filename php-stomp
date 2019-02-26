@@ -1,0 +1,24 @@
+Package: php-stomp
+Priority: optional
+Section: universe/web
+Installed-Size: 114
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: amd64
+Version: 1.0.9-0ubuntu1
+Depends: libc6 (>= 2.14), php-common (>= 1:7.0+33~), phpapi-20151012
+Filename: pool/universe/p/php-stomp/php-stomp_1.0.9-0ubuntu1_amd64.deb
+Size: 29492
+MD5sum: 19c18061e361f5a79d01fc11a03db7cd
+SHA1: 510661d225ef8cd72b77e4243acb9756cc09b9a9
+SHA256: 725aab9f854d1e1c9a95192a00b595cbdc26b0cbf6f83ff6378bed81313d3501
+Description-en: Streaming Text Oriented Messaging Protocol (STOMP) client module for PHP
+ This extension allows php applications to communicate with any
+ STOMP (Streaming Text Oriented Messaging Protocol) compliant Message
+ Brokers (e.g. Apache ActiveMQ) through easy object oriented and procedural
+ interfaces.
+Description-md5: 27d98aff4dfb4bbab70340e8472cfe25
+Homepage: https://pecl.php.net/package/stomp
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

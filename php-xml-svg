@@ -1,0 +1,21 @@
+Package: php-xml-svg
+Priority: optional
+Section: universe/php
+Installed-Size: 82
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: amd64
+Version: 1.1.0-1build1
+Depends: php-pear, php-common
+Filename: pool/universe/p/php-xml-svg/php-xml-svg_1.1.0-1build1_amd64.deb
+Size: 12754
+MD5sum: de90cd2156faf188a483a763a6be883e
+SHA1: ffb50e0d3e6209583a98878eeb92fa726c3108c9
+SHA256: fd313632fa1d855f955a9ceef7ee5157ab3b18458284f72b854c5a164cf8b5f6
+Description-en: XML_SVG API
+ This package provides an object-oriented API for building SVG documents.
+Description-md5: 478d37e3190d1e00ca98f92f4ce7c9b5
+Homepage: http://pear.php.net/package/XML_SVG
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

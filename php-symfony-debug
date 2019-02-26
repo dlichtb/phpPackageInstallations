@@ -1,0 +1,26 @@
+Package: php-symfony-debug
+Priority: optional
+Section: universe/php
+Installed-Size: 166
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Source: symfony
+Version: 2.7.10-0ubuntu2
+Depends: php-psr-log (>= 1.0.0-2~), php-common, php-psr-log (<< 2~~)
+Breaks: php-symfony-http-kernel (<< 2.3.24~~)
+Filename: pool/universe/s/symfony/php-symfony-debug_2.7.10-0ubuntu2_all.deb
+Size: 32086
+MD5sum: 568979663d7433fc6d588d033cb2aacd
+SHA1: 8c2bf9e6f68790d7c2c39bcf4d4e17d7f0cbb326
+SHA256: 3d4a8cd5540f390c8bd74ebdef37fec8df2ff610cb4cf07e28b0c9e85ed58b26
+Description-en: tools to make debugging of PHP code easier
+ The Symfony Debug Component contains various tools to assist
+ PHP code debugging.
+ .
+ Symfony is a PHP framework, a set of tools and a development methodology.
+Description-md5: 0ec77704ff27294fb4b4208315107350
+Homepage: https://symfony.com/doc/2.7/components/debug/index.html
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

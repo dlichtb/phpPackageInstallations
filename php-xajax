@@ -1,0 +1,24 @@
+Package: php-xajax
+Priority: optional
+Section: universe/web
+Installed-Size: 791
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: David Gil <dgil@telefonica.net>
+Architecture: all
+Version: 0.5-1ubuntu1
+Depends: php | php-cgi | php-cli
+Filename: pool/universe/p/php-xajax/php-xajax_0.5-1ubuntu1_all.deb
+Size: 123060
+MD5sum: a32fc769f755ac40ad8e5eeb173f4a75
+SHA1: 9977b35593475cdc7b0bb867fd3ab8dabfab7af5
+SHA256: 028da9a618e85c76455e02e0ef95311023534a09c0720f9cde830257d95a5e3e
+Description-en: A library to develop Ajax applications
+ Xajax is an open source PHP class library that allows you to easily create
+ powerful, web-based, Ajax applications using HTML, CSS, JavaScript, and PHP.
+ Applications developed with xajax can asynchronously call server-side PHP
+ functions and update content without reloading the page.
+Description-md5: 9fb94eecf34083aa0d954c381a2b9abf
+Homepage: http://xajaxproject.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

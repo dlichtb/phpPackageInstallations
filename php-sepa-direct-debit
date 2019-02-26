@@ -1,0 +1,21 @@
+Package: php-sepa-direct-debit
+Priority: extra
+Section: universe/php
+Installed-Size: 90
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Cyril Bouthors <cyb@debian.org>
+Architecture: all
+Version: 20131216-1ubuntu1
+Depends: php
+Filename: pool/universe/p/php-sepa-direct-debit/php-sepa-direct-debit_20131216-1ubuntu1_all.deb
+Size: 14212
+MD5sum: c961dd810456d726117128d7d95b3118
+SHA1: 1f751dbeb50d348e5d5ccbe03fb469f764cad29a
+SHA256: f38e3e2ea040f141cc7f42fd416e8b2780f52256e60f046b23691bc53241b999
+Description-en: Create Sepa Direct Debit XML Files in PHP
+ Library to create SEPA Direct Debit XML files in PHP
+Description-md5: 701561bf921b7eccc3b54c4de4d18a22
+Homepage: https://github.com/congressus/sepa-direct-debit
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

@@ -1,0 +1,27 @@
+Package: php-symfony-form
+Priority: optional
+Section: universe/php
+Installed-Size: 993
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Source: symfony
+Version: 2.7.10-0ubuntu2
+Depends: php-symfony-event-dispatcher (>= 2.4), php-symfony-property-access (>= 2.4), php-common, php-symfony-event-dispatcher (<< 3~~), php-symfony-intl (>= 2.4), php-symfony-intl (<< 3~~), php-symfony-options-resolver (>= 2.6), php-symfony-options-resolver (<< 3~~), php-symfony-property-access (<< 3~~)
+Suggests: php-symfony-validator, php-symfony-security, php-symfony-twig-bridge, php-symfony-framework-bundle
+Breaks: php-symfony-doctrine-bridge (<< 2.7~~), php-symfony-framework-bundle (<< 2.7~~), php-symfony-twig-bridge (<< 2.7~~)
+Filename: pool/universe/s/symfony/php-symfony-form_2.7.10-0ubuntu2_all.deb
+Size: 115732
+MD5sum: 450325a2cdd628a6ffd43f377efcc603
+SHA1: ad6b3a1211fa8ab79bd3a2fd2e91c5c164da5fe0
+SHA256: 3222a011e775333c95c4da7991d3ad99d924ca5c21b14b1b844b63e6e2d2c904
+Description-en: create HTML forms and process request data
+ The Symfony Form Component provide tools for defining HTML
+ forms, rendering their request data and mapping this to related models.
+ .
+ Symfony is a PHP framework, a set of tools and a development methodology.
+Description-md5: ef776c698e81ff530a4e27727d43a105
+Homepage: https://symfony.com/doc/2.7/components/form/introduction.html
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

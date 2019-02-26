@@ -1,0 +1,46 @@
+Package: php-tcpdf
+Priority: optional
+Section: universe/php
+Installed-Size: 19736
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Laurent Destailleur (eldy) <eldy@users.sourceforge.net>
+Architecture: all
+Source: tcpdf
+Version: 6.0.093+dfsg-1ubuntu1
+Recommends: php-gd, php-mcrypt
+Suggests: php-imagick
+Filename: pool/universe/t/tcpdf/php-tcpdf_6.0.093+dfsg-1ubuntu1_all.deb
+Size: 7880712
+MD5sum: ff56ff25c8af890bf7049af92194ffef
+SHA1: 1161db295981197c89e5b2943527a6aa0e809bae
+SHA256: 41a3e340a33ec50d3730d3907263e8e52c71fc6f56081b0ce8be62ee9c0875ba
+Description-en: PHP class for generating PDF files on-the-fly
+ TCPDF is a library to generate PDF files that does not require external
+ extensions. It also includes a class to extract data from existing PDF
+ documents and classes to generate 1D and 2D barcodes in various formats.
+ .
+ TCPDF has been originally derived from the Public Domain FPDF class by
+ Olivier Plathey (http://www.fpdf.org).
+ .
+ Its main features are:
+ .
+  * an extensive API to control the generated content and its layout
+    (including using XHTML as input);
+  * works without external libraries;
+  * works with any language (UTF-8 and RTL support);
+  * supports TrueTypeUnicode, TrueType, Type1 and CID-0 fonts;
+  * supports all page formats (standardized and customized);
+  * supports most PDF features:
+    - encryption and digital signatures
+    - compression
+    - bookmarks
+    - javascript and forms support
+    - PDF annotations, including links, text and file attachments
+    - XOBject Templates (layers and object visibility, PDF/A-1b support)
+  * supports barcode generation (multiple formats);
+  * automatic hyphenation and page break.
+Description-md5: 89671baa42d4cb50a433650e5dc45008
+Homepage: http://www.tcpdf.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

@@ -1,0 +1,29 @@
+Package: php-symfony-phpunit-bridge
+Priority: optional
+Section: universe/php
+Installed-Size: 74
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Source: symfony
+Version: 2.7.10-0ubuntu2
+Depends: php-common
+Suggests: php-symfony-debug
+Filename: pool/universe/s/symfony/php-symfony-phpunit-bridge_2.7.10-0ubuntu2_all.deb
+Size: 17372
+MD5sum: cb7ad5a5d91df562720f6da7727b9f4d
+SHA1: 00a13143d454294836fe91e589107aebfbb7fefa
+SHA256: 245e9d2f60b50b40eb3008eb4fed92ff45cf587e1a62b9a57a8315aa033d535d
+Description-en: integration for PHPUnit with Symfony Components
+ The Symfony PHPUnit Bridge integrates PHPUnit with various
+ Symfony Components.
+ .
+ PHPUnit is a unit testing suite for the PHP language, modelled on the
+ xUnit testing framework.
+ .
+ Symfony is a PHP framework, a set of tools and a development methodology.
+Description-md5: 77ee802d5294f9b9c892ff8beb50f6e0
+Homepage: https://symfony.com/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

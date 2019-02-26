@@ -1,0 +1,27 @@
+Package: php-symfony-intl
+Priority: optional
+Section: universe/php
+Installed-Size: 8480
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Source: symfony
+Version: 2.7.10-0ubuntu2
+Depends: php-common
+Suggests: php-intl
+Filename: pool/universe/s/symfony/php-symfony-intl_2.7.10-0ubuntu2_all.deb
+Size: 1000438
+MD5sum: 51254571111bc2e3f18bf8e48f0d947c
+SHA1: fbb8206d4a28f25fa22dd3d809b99e7900da3563
+SHA256: 8fce4d620ef2c5402adfece5849283ce3f4345a4ed8c809170f3473fb1788ff4
+Description-en: limited replacement layer for the PHP extension intl
+ The Symfony Intl Component provides a replacement layer for the PHP
+ extension intl that is limited to the English locale and thus can
+ not fully substitute the PHP extension it intends to replace.
+ .
+ Symfony is a PHP framework, a set of tools and a development methodology.
+Description-md5: e5f69f9da5edbf6c511b33a98adf8407
+Homepage: https://symfony.com/doc/2.7/components/intl.html
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

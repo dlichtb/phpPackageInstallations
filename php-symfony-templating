@@ -1,0 +1,28 @@
+Package: php-symfony-templating
+Priority: optional
+Section: universe/php
+Installed-Size: 144
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Source: symfony
+Version: 2.7.10-0ubuntu2
+Depends: php-common
+Suggests: php-psr-log
+Filename: pool/universe/s/symfony/php-symfony-templating_2.7.10-0ubuntu2_all.deb
+Size: 24942
+MD5sum: 592780bd73054d2cc81ee019be52c3d4
+SHA1: 3796628713218aa6f8b91da287339b5eb64a3b7d
+SHA256: d15ccb7a356b5e627ff4a57d2d65df46d47a4d0d9ba009d814c75722ef93d57c
+Description-en: tools needed to build a template system
+ The Symfony Templating Component provides an infrastructure to load
+ template files and optionally monitor them for changes. It also provides
+ a concrete template engine implementation using PHP with additional tools
+ for escaping and separating templates into blocks and layouts.
+ .
+ Symfony is a PHP framework, a set of tools and a development methodology.
+Description-md5: 9d622e976a5f8614d9c99045d3eca768
+Homepage: https://symfony.com/doc/2.7/components/templating/introduction.html
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

@@ -1,0 +1,28 @@
+Package: php-symfony-framework-bundle
+Priority: optional
+Section: universe/php
+Installed-Size: 746
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Source: symfony
+Version: 2.7.10-0ubuntu2
+Depends: php-doctrine-annotations (>= 1.2.4), php-symfony-finder (>= 2.4), php-symfony-stopwatch (>= 2.4), php-symfony-templating (>= 2.4), php-common, php-symfony-asset (>= 2.7), php-symfony-asset (<< 3~~), php-symfony-dependency-injection (>= 2.6.2), php-symfony-dependency-injection (<< 3~~), php-symfony-config (>= 2.4), php-symfony-config (<< 3~~), php-symfony-event-dispatcher (>= 2.5), php-symfony-event-dispatcher (<< 3~~), php-symfony-finder (<< 3~~), php-symfony-http-foundation, php-symfony-http-kernel (>= 2.7), php-symfony-http-kernel (<< 3~~), php-symfony-filesystem (>= 2.3), php-symfony-filesystem (<< 3~~), php-symfony-routing (>> 2.6.4), php-symfony-routing (<< 3~~), php-symfony-security (>= 2.6), php-symfony-security (<< 3~~), php-symfony-stopwatch (<< 3~~), php-symfony-templating (<< 3~~), php-symfony-translation (>= 2.7), php-symfony-translation (<< 3~~), php-doctrine-annotations (<< 2~~)
+Suggests: php-symfony-console, php-symfony-form, php-symfony-serializer, php-symfony-validator, php-symfony-yaml, php-symfony-process, php-doctrine-cache
+Filename: pool/universe/s/symfony/php-symfony-framework-bundle_2.7.10-0ubuntu2_all.deb
+Size: 93874
+MD5sum: debd4353eaf93a4275185ba40c2cce6b
+SHA1: 7b61ce80258a6c64ffd6169e37175a06e7f7f260
+SHA256: 4710ced3d15fa8f90b7f2e14cbc9d13b05f98a509603c4d636a47d04517260df
+Description-en: basic, robust and flexible MVC framework
+ Symfony FrameworkBundle contains most of the base framework
+ functionality and can be configured by an application using it,
+ including settings related to sessions, translation, forms,
+ validation, routing and more.
+ .
+ Symfony is a PHP framework, a set of tools and a development methodology.
+Description-md5: 9a947d91c567199ccb78a5bf72697f1e
+Homepage: https://symfony.com/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

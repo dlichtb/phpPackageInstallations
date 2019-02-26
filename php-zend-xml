@@ -1,0 +1,24 @@
+Package: php-zend-xml
+Priority: optional
+Section: universe/php
+Installed-Size: 30
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.0.2-1build1
+Provides: php-zendframework-zendxml
+Depends: php-common
+Filename: pool/universe/p/php-zend-xml/php-zend-xml_1.0.2-1build1_all.deb
+Size: 7064
+MD5sum: f4b08c4796f68a935cb36177fd395f81
+SHA1: 7a63ee62d0677878b3cf48106ed17eaad4215417
+SHA256: f20cd13566625d74c6e4d5fd4dec04750069c63e8ec739b8cec059a2b4887bbe
+Description-en: Zend Framework - Xml component
+ Utility library for XML usage, best practices, and security in PHP.
+ .
+ Zend is a PHP framework for developing web applications and services.
+Description-md5: 4afbc93ca1efe6eee87b5f983f2f3d8f
+Homepage: http://framework.zend.com/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

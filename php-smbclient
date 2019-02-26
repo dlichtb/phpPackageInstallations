@@ -1,0 +1,46 @@
+Package: php-smbclient
+Architecture: amd64
+Version: 0.8.0~rc1-2build1
+Priority: optional
+Section: universe/php
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PECL Maintainers <pkg-php-pecl@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 84
+Provides: php-libsmbclient
+Depends: ucf, php-common (>= 1:7.0+33~), phpapi-20151012, libc6 (>= 2.14), libsmbclient (>= 2:4.1.1)
+Filename: pool/universe/p/php-smbclient/php-smbclient_0.8.0~rc1-2build1_amd64.deb
+Size: 20312
+MD5sum: 74b262d6d531b1eb972412a902641d85
+SHA1: 4b9a7709c0532c4f03c09599683ec6ff71a62101
+SHA256: dfbe0a7cf3857f45c5bae3536a8305e860970aeabc45957277f4e0fcb973cd1d
+Homepage: http://pecl.php.net/smbclient
+Description-en: PHP wrapper for libsmbclient
+ smbclient is a PHP extension that uses Samba's libsmbclient library
+ to provide Samba related functions and 'smb' streams to PHP programs.
+Description-md5: ef04673e23cac4e7ee46d8ebdd60beff
+
+Package: php-smbclient
+Priority: optional
+Section: universe/php
+Installed-Size: 82
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PECL Maintainers <pkg-php-pecl@lists.alioth.debian.org>
+Architecture: amd64
+Version: 0.8.0~rc1-2
+Provides: php-libsmbclient
+Depends: ucf, phpapi-20151012, libc6 (>= 2.14), libsmbclient (>= 2:4.1.1)
+Filename: pool/universe/p/php-smbclient/php-smbclient_0.8.0~rc1-2_amd64.deb
+Size: 20020
+MD5sum: 54bc31497d47b06718135a61383bcc39
+SHA1: fa8284d9310450956178bc7d4cb2d191823c1699
+SHA256: 99e67ce346af288439cfb2a54dfec6fb5b39a7a009962b09562e622fdc25b1c0
+Description-en: PHP wrapper for libsmbclient
+ smbclient is a PHP extension that uses Samba's libsmbclient library
+ to provide Samba related functions and 'smb' streams to PHP programs.
+Description-md5: ef04673e23cac4e7ee46d8ebdd60beff
+Homepage: http://pecl.php.net/smbclient
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

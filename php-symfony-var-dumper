@@ -1,0 +1,27 @@
+Package: php-symfony-var-dumper
+Priority: optional
+Section: universe/php
+Installed-Size: 212
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Source: symfony
+Version: 2.7.10-0ubuntu2
+Depends: php-common
+Suggests: php-symfony-debug
+Filename: pool/universe/s/symfony/php-symfony-var-dumper_2.7.10-0ubuntu2_all.deb
+Size: 37980
+MD5sum: 1ffa48bc44d5992e9b40944f2a6cf7f5
+SHA1: 703121a27efeb9d81de27d1804b30a794217a58c
+SHA256: c20fc601e868669f877cf3cc4fb4884233b45798c86c3089c6a10759cc9700d0
+Description-en: Symfony mechanism for exploring and dumping PHP variables
+ The Symfony VarDumper Component provides mechanisms to walk through
+ any arbitrary PHP variable. Build on top of those, it features a dump()
+ function as an improved alternative to the php build-in var_dump().
+ .
+ Symfony is a PHP framework, a set of tools and a development methodology.
+Description-md5: e076874e7e61413220095340e5a7a10e
+Homepage: https://symfony.com/doc/2.7/components/var_dumper/introduction.html
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

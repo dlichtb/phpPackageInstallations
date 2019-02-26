@@ -1,0 +1,23 @@
+Package: php-text-languagedetect
+Priority: optional
+Section: universe/php
+Installed-Size: 440
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: amd64
+Version: 0.3.0-1build1
+Depends: php-pear, php-common
+Recommends: php-mbstring
+Filename: pool/universe/p/php-text-languagedetect/php-text-languagedetect_0.3.0-1build1_amd64.deb
+Size: 75386
+MD5sum: 7b5c426bff900251656012e9e85f664e
+SHA1: 0bdeeb7d2c6aaff4677876b7fd9a892300b26ede
+SHA256: 2f0db65fbe703db728943ace07837a7655c15ef47f0fbf17805195e12f801854
+Description-en: Language detection class
+ Text_LanguageDetect can identify 52 human languages from text samples and
+ return confidence scores for each.
+Description-md5: f1df2b55b6f782dc5ba681e96644e80a
+Homepage: http://pear.php.net/package/Text_LanguageDetect
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

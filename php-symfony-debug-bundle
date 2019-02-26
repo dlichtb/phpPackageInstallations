@@ -1,0 +1,26 @@
+Package: php-symfony-debug-bundle
+Priority: optional
+Section: universe/php
+Installed-Size: 86
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Source: symfony
+Version: 2.7.10-0ubuntu2
+Depends: php-common, php-symfony-http-kernel (>= 2.6), php-symfony-http-kernel (<< 3~~), php-symfony-twig-bridge (>= 2.6), php-symfony-twig-bridge (<< 3~~), php-symfony-var-dumper (>= 2.6), php-symfony-var-dumper (<< 3~~)
+Suggests: php-symfony-config, php-symfony-dependency-injection
+Filename: pool/universe/s/symfony/php-symfony-debug-bundle_2.7.10-0ubuntu2_all.deb
+Size: 15698
+MD5sum: 90d8129c79cb55352ece49bd7a8fa30d
+SHA1: 53faed3ebca3982cae2694912d5adc738c611225
+SHA256: 456a8477720c3e441709a0a60204c22b530a2148ddf51aff886e2b028cb8c546
+Description-en: debugging tools for the Symfony framework
+ Symfony DebugBundle allows an application using it to
+ dump variables from PHP or Twig in the web debug toolbar.
+ .
+ Symfony is a PHP framework, a set of tools and a development methodology.
+Description-md5: 2065529ae7d1929a2fdb76f7e59a91a1
+Homepage: https://symfony.com/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

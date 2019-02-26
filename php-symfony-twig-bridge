@@ -1,0 +1,28 @@
+Package: php-symfony-twig-bridge
+Priority: optional
+Section: universe/php
+Installed-Size: 246
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Source: symfony
+Version: 2.7.10-0ubuntu2
+Depends: php-common, php-twig (>= 1.23), php-twig (<< 3~~)
+Suggests: php-symfony-finder, php-symfony-asset, php-symfony-form, php-symfony-http-kernel, php-symfony-routing, php-symfony-templating, php-symfony-translation, php-symfony-yaml, php-symfony-security, php-symfony-stopwatch, php-symfony-var-dumper, php-symfony-expression-language
+Filename: pool/universe/s/symfony/php-symfony-twig-bridge_2.7.10-0ubuntu2_all.deb
+Size: 40140
+MD5sum: c5bd3791df0777a020f662b6c950452f
+SHA1: ee7871e7ec168a7ea766b66c116ced8ad9af9edb
+SHA256: 2b8332785e070561b397396172f7c9d3bf2cd55068130f84c40133324855322e
+Description-en: integration for Twig with Symfony Components
+ The Symfony Twig Bridge integrates Twig with various
+ Symfony Components.
+ .
+ Twig is a flexible, fast, and secure template engine for PHP.
+ .
+ Symfony is a PHP framework, a set of tools and a development methodology.
+Description-md5: 251f86281b349843d33dc81db9a32088
+Homepage: https://symfony.com/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

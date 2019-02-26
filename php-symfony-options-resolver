@@ -1,0 +1,27 @@
+Package: php-symfony-options-resolver
+Priority: optional
+Section: universe/php
+Installed-Size: 124
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Source: symfony
+Version: 2.7.10-0ubuntu2
+Depends: php-common
+Filename: pool/universe/s/symfony/php-symfony-options-resolver_2.7.10-0ubuntu2_all.deb
+Size: 22334
+MD5sum: 700a0914969be2b8e457c0b935884f72
+SHA1: 7a174a6d96d8e4333f975d3818f02c48ba9989a5
+SHA256: a3b9ee71ccedad9d330c07cf9edf75d40bff315c6de2b76fecc7a74666225d21
+Description-en: configure objects with option arrays
+ The Symfony OptionsResolver Component allows the configuration of objects
+ with option arrays by supporting default values on different levels
+ of class hierarchy, option constraints and lazy options whose default
+ value depends on the value of another option.
+ .
+ Symfony is a PHP framework, a set of tools and a development methodology.
+Description-md5: 475754b8f3b3ae26ddd6a4fe2bb3cdc8
+Homepage: https://symfony.com/doc/2.7/components/options_resolver.html
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

@@ -1,0 +1,56 @@
+Package: php-sybase
+Architecture: all
+Version: 1:7.0+35ubuntu6.1
+Priority: optional
+Section: universe/php
+Source: php-defaults (35ubuntu6.1)
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 11
+Depends: php-common, php7.0-sybase
+Filename: pool/universe/p/php-defaults/php-sybase_7.0+35ubuntu6.1_all.deb
+Size: 1934
+MD5sum: e0d473d16cade9d8ebb9ee1d5928f162
+SHA1: 1c8216daa3b7de3a7609492a9899d81ae1e0cc9c
+SHA256: 7f96914e9b60e2b6e369489c714ec236d04360efee276056426a0cdc8213f716
+Description-en: Sybase module for PHP [default]
+ This package provides a Sybase module for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+ .
+ This package is a dependency package, which depends on Debian's default
+ PHP version (currently 7.0).
+Description-md5: 281500ad87a99907a37fd7df1e156b23
+
+Package: php-sybase
+Priority: optional
+Section: universe/php
+Installed-Size: 11
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Architecture: all
+Source: php-defaults (35ubuntu6)
+Version: 1:7.0+35ubuntu6
+Depends: php-common, php7.0-sybase
+Filename: pool/universe/p/php-defaults/php-sybase_7.0+35ubuntu6_all.deb
+Size: 1928
+MD5sum: 12cfaaa3c32112ee59c6de6490c84d6f
+SHA1: 9f9e063769b470f7c3939b8651f2d4957f44785e
+SHA256: 6a7c18ad9b999a294cc3025b037161dcfe32e3fb04dfa17d850ab73a36a602b9
+Description-en: Sybase module for PHP [default]
+ This package provides a Sybase module for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+ .
+ This package is a dependency package, which depends on Debian's default
+ PHP version (currently 7.0).
+Description-md5: 281500ad87a99907a37fd7df1e156b23
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

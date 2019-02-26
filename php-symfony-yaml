@@ -1,0 +1,25 @@
+Package: php-symfony-yaml
+Priority: optional
+Section: universe/php
+Installed-Size: 140
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Source: symfony
+Version: 2.7.10-0ubuntu2
+Depends: php-common
+Filename: pool/universe/s/symfony/php-symfony-yaml_2.7.10-0ubuntu2_all.deb
+Size: 26608
+MD5sum: b88cae361e802bea01a1f9a403eb6b1a
+SHA1: 635edfbf830065b993c03c96a569c263beb2b98b
+SHA256: 1047c0bcd84c6fbc8b145923f1007ae8c1ad2ebc877efaddc079539bbf6dd54b
+Description-en: convert YAML to PHP arrays and the other way around
+ The Symfony Yaml Component converts YAML strings into PHP arrays.
+ It also can be used to convert PHP arrays to YAML strings.
+ .
+ Symfony is a PHP framework, a set of tools and a development methodology.
+Description-md5: 53821297c9974ad1eee5a69ecdb7d9c7
+Homepage: https://symfony.com/doc/2.7/components/yaml/introduction.html
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

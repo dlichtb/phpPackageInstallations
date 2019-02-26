@@ -1,0 +1,28 @@
+Package: php-symfony-console
+Priority: optional
+Section: universe/php
+Installed-Size: 473
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Source: symfony
+Version: 2.7.10-0ubuntu2
+Depends: php-common
+Suggests: php-symfony-event-dispatcher, php-symfony-process, php-psr-log
+Filename: pool/universe/s/symfony/php-symfony-console_2.7.10-0ubuntu2_all.deb
+Size: 67104
+MD5sum: 31dbd396ee79edd48d5c6daff3714e1f
+SHA1: 5f788e46d098dec7252d6757f986350ca78e698b
+SHA256: 5f5807bfef35fef7cf994b868fd51d81aad99ef8d4830b3dc3f717946ee21def
+Description-en: run tasks from the command line
+ The Symfony Console Component can be used to implement recurring
+ or long running tasks, such as cronjobs, imports or other batch
+ jobs. Additionally it assists the creation of nice looking command
+ line interfaces.
+ .
+ Symfony is a PHP framework, a set of tools and a development methodology.
+Description-md5: 1569b7c3031ce5cf720dddb0ed7582d9
+Homepage: https://symfony.com/doc/2.7/components/console/introduction.html
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

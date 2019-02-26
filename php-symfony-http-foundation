@@ -1,0 +1,26 @@
+Package: php-symfony-http-foundation
+Priority: optional
+Section: universe/php
+Installed-Size: 484
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Source: symfony
+Version: 2.7.10-0ubuntu2
+Depends: php-common
+Filename: pool/universe/s/symfony/php-symfony-http-foundation_2.7.10-0ubuntu2_all.deb
+Size: 78786
+MD5sum: dbf56c7efde8d55921a18db984512a23
+SHA1: 46579c17c4618e9f6a5de30d24b7aa67146d8055
+SHA256: 8c8308d96044d5b0b6bd7d1ab983249709f245bcb80f404cdce1dc3a896c0af2
+Description-en: object-oriented layer for the HTTP specification
+ The Symfony HttpFoundation Component provides an object-oriented
+ abstraction for dealing with requests, responses,
+ uploaded files, cookies and sessions.
+ .
+ Symfony is a PHP framework, a set of tools and a development methodology.
+Description-md5: d53a90c044793b166e5b9ae8cf6b45b3
+Homepage: https://symfony.com/doc/2.7/components/http_foundation/introduction.html
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

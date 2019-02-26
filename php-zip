@@ -1,0 +1,56 @@
+Package: php-zip
+Architecture: all
+Version: 1:7.0+35ubuntu6.1
+Priority: optional
+Section: universe/php
+Source: php-defaults (35ubuntu6.1)
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 11
+Depends: php-common, php7.0-zip
+Filename: pool/universe/p/php-defaults/php-zip_7.0+35ubuntu6.1_all.deb
+Size: 1930
+MD5sum: 43e52087b308874d513c7e976f162337
+SHA1: a9442a291c0b268a2f73edca806a6a77ff1af4f8
+SHA256: 22e787a5d21a81d788462a7546f743cf2abad38ea232e777527beac98edf264d
+Description-en: Zip module for PHP [default]
+ This package provides a Zip module for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+ .
+ This package is a dependency package, which depends on Debian's default
+ PHP version (currently 7.0).
+Description-md5: 21fb2fb9aac16fb37b3d0cec536da9a0
+
+Package: php-zip
+Priority: optional
+Section: universe/php
+Installed-Size: 11
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Architecture: all
+Source: php-defaults (35ubuntu6)
+Version: 1:7.0+35ubuntu6
+Depends: php-common, php7.0-zip
+Filename: pool/universe/p/php-defaults/php-zip_7.0+35ubuntu6_all.deb
+Size: 1928
+MD5sum: cca205c6d68739f59d496a2689ff6fb3
+SHA1: 987fd5ec28cb950463e1ca5f967c95f3ee882b69
+SHA256: d0026f3f7d9d417ab9875508285614f1d5e752ddae84fd4acc584d255b861d45
+Description-en: Zip module for PHP [default]
+ This package provides a Zip module for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+ .
+ This package is a dependency package, which depends on Debian's default
+ PHP version (currently 7.0).
+Description-md5: 21fb2fb9aac16fb37b3d0cec536da9a0
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

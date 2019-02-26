@@ -1,0 +1,28 @@
+Package: php-symfony-translation
+Priority: optional
+Section: universe/php
+Installed-Size: 349
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Source: symfony
+Version: 2.7.10-0ubuntu2
+Depends: php-common
+Suggests: php-symfony-config, php-symfony-yaml, php-psr-log
+Breaks: php-symfony-config (<< 2.7~~)
+Filename: pool/universe/s/symfony/php-symfony-translation_2.7.10-0ubuntu2_all.deb
+Size: 48138
+MD5sum: a3c078c4a5564d8729e2d607a1e40ec2
+SHA1: 01726027a72a22325579718726919e38ea090a9d
+SHA256: cee56b1bc4144d36550fbbe85fc061d71cd81a1c808c512b4598bd2ac1e6717e
+Description-en: tools to internationalize an application
+ The Symfony Translation Component provides tools for loading
+ translation files in order to generate translated strings
+ from them by respecting pluralization.
+ .
+ Symfony is a PHP framework, a set of tools and a development methodology.
+Description-md5: aaeb9bb9d9b29bde6e7640fd354967b7
+Homepage: https://symfony.com/doc/2.7/components/translation/introduction.html
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

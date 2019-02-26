@@ -1,0 +1,36 @@
+Package: php-services-json
+Priority: optional
+Section: universe/web
+Installed-Size: 61
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: PKG-PHP-PEAR team <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.0.3-1build1
+Depends: php-pear
+Filename: pool/universe/p/php-services-json/php-services-json_1.0.3-1build1_all.deb
+Size: 13618
+MD5sum: 31d0dda9cf7cd59593d736b12b53b04a
+SHA1: f42cf83363ca001839c7ecb1e39e5c8e2cbdff5d
+SHA256: bd3af98a432a4256bc65b56f7ac07e29e9234b242a3f9d03be2c1f82c9f022f7
+Description-en: PHP implementaion of json_encode/decode
+ JSON (JavaScript Object Notation, http://json.org) is a lightweight
+ data-interchange format. It is easy for humans to read and write. It is easy
+ for machines to parse and generate. It is based on a subset of the JavaScript
+ Programming Language, Standard ECMA-262 3rd Edition - December 1999. This
+ feature can also be found in Python. JSON is a text format that is completely
+ language independent but uses conventions that are familiar to programmers of
+ the C-family of languages, including C, C++, C#, Java, JavaScript, Perl, Tcl,
+ and many others. These properties make JSON an ideal data-interchange
+ language.
+ .
+ This package provides a simple encoder and decoder for JSON notation. It is
+ intended for use with client-side Javascript applications that make use of
+ HTTPRequest to perform server communication functions - data can be encoded
+ into JSON notation for use in a client-side javascript, or decoded from
+ incoming Javascript requests. JSON format is native to Javascript, and can be
+ directly eval()'ed with no further parsing overhead.
+Description-md5: b493cb2de352ff70c1bc795d08e02f1d
+Homepage: http://pear.php.net/package/Services_JSON/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

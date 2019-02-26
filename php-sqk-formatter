@@ -1,0 +1,23 @@
+Package: php-sql-formatter
+Priority: optional
+Section: universe/php
+Installed-Size: 60
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.2.17-1build1
+Depends: php-common
+Filename: pool/universe/p/php-sql-formatter/php-sql-formatter_1.2.17-1build1_all.deb
+Size: 15134
+MD5sum: 09c3a25af8f55d5e4831c4f3e17f72c3
+SHA1: 604303f1b6cb9c5d39a9c375336d586ce089649c
+SHA256: 48e93f898250998d57ca9107a2769a9ebf30ce39300a87e4b0c003086190d1e4
+Description-en: a PHP SQL highlighting library
+ SqlFormatter is a lightweight PHP class to format SQL statements.
+ It can automatically indent and add line breaks in addition to syntax
+ highlighting.
+Description-md5: bd0489d57efc409ce83770e4c3cf5cc8
+Homepage: https://github.com/jdorn/sql-formatter
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

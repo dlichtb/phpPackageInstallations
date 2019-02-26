@@ -1,0 +1,23 @@
+Package: php-webmozart-assert
+Priority: optional
+Section: universe/php
+Installed-Size: 44
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.0.2-1build1
+Depends: php-common
+Filename: pool/universe/p/php-webmozart-assert/php-webmozart-assert_1.0.2-1build1_all.deb
+Size: 8194
+MD5sum: 091429343afde1c3ec25be73ff97536b
+SHA1: 9413889b4e367082988046b45cf9438af195082f
+SHA256: f7e8aff92e44afebf3ff1c546901b0ebdf5c97926f2684e460717129a9950d4b
+Description-en: Assertions to validate method input/output with nice error messages
+ This library contains efficient assertions to test the input and output
+ of methods. With these assertions, one can greatly reduce the amount of
+ coding needed to write a safe implementation.
+Description-md5: 58bae8c0242ba92d78081d7ddcede8ac
+Homepage: http://phpdoc.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

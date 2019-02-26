@@ -1,0 +1,27 @@
+Package: php-xml-htmlsax3
+Priority: extra
+Section: universe/web
+Installed-Size: 103
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 3.0.0+really3.0.0-3
+Depends: php-common
+Filename: pool/universe/p/php-xml-htmlsax3/php-xml-htmlsax3_3.0.0+really3.0.0-3_all.deb
+Size: 25396
+MD5sum: 40987c7363b13ba15e5f5fc5f745eb5d
+SHA1: 1ef3f9d8e05a92e495d4be5805319e3874f7e1b4
+SHA256: 375716a5bce61b86e0f3ff7ac2d543accada8d85ba33030fec6835e5bdd89f2c
+Description-en: SAX parser for HTML and other badly formed XML documents
+ php-xml-htmlsax3 provides an API very similar to the native
+ PHP XML extension (http://www.php.net/xml), allowing handlers
+ using one to be easily adapted to the other.
+ .
+ The key difference is php-xml-htmlsax3 will not break
+ on badly formed XML, allowing it to be used for parsing
+ HTML documents.
+Description-md5: f26d21e2a872c1a35dc4c36adbc36139
+Homepage: http://pear.php.net/package/XML_HTMLSax3/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

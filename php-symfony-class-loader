@@ -1,0 +1,26 @@
+Package: php-symfony-class-loader
+Priority: optional
+Section: universe/php
+Installed-Size: 132
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Source: symfony
+Version: 2.7.10-0ubuntu2
+Depends: php-common, php-apcu
+Filename: pool/universe/s/symfony/php-symfony-class-loader_2.7.10-0ubuntu2_all.deb
+Size: 23808
+MD5sum: efad0171a23dab8ebbb919fed574e344
+SHA1: 0a31762f492083a4874c6df65eb1aaaf9cc70de6
+SHA256: 8adb8287751855f2eb8d03e4eb49687cf741a2d6ae728df5f10a75afb909b7c2
+Description-en: load PHP classes automatically
+ The Symfony ClassLoader Component makes it possible to automatically
+ load PHP classes if they follow some standard PHP conventions such
+ as the PSR-0 standard or the PEAR naming convention.
+ .
+ Symfony is a PHP framework, a set of tools and a development methodology.
+Description-md5: fa204c41f4fdf2f8a3365b40c2cba7c1
+Homepage: https://symfony.com/doc/2.7/components/class_loader/introduction.html
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

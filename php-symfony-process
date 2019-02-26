@@ -1,0 +1,30 @@
+Package: php-symfony-process
+Priority: optional
+Section: universe/php
+Installed-Size: 163
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Source: symfony
+Version: 2.7.10-0ubuntu2
+Depends: php-common
+Filename: pool/universe/s/symfony/php-symfony-process_2.7.10-0ubuntu2_all.deb
+Size: 30398
+MD5sum: f1e4882e9729e736fb3a71ddaeb70ce4
+SHA1: 029e456d7fdca8c86e2c579ca43476075857eaa2
+SHA256: 7a40acc32e344425bce057c9c17b6d3e364aa093cd992ba29e1973411a4e1652
+Description-en: execute commands in sub-processes
+ The Symfony Process Component helps with executing commands in
+ sub-processes by providing easy access to standard and error output
+ in real-time. It is especially handy for dealing with long running
+ sub-processes due to its feature to run them asynchronously, while
+ still providing access to their full and incremental output. It
+ additionally supports signals, provides the PID of a sub-process
+ and allows the definition of process timeouts.
+ .
+ Symfony is a PHP framework, a set of tools and a development methodology.
+Description-md5: 59c0b81a006da12ce1ef874262e1e20b
+Homepage: https://symfony.com/doc/2.7/components/process.html
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

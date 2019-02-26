@@ -1,0 +1,26 @@
+Package: php-symfony-asset
+Priority: optional
+Section: universe/php
+Installed-Size: 96
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Source: symfony
+Version: 2.7.10-0ubuntu2
+Depends: php-common
+Suggests: php-symfony-http-foundation
+Filename: pool/universe/s/symfony/php-symfony-asset_2.7.10-0ubuntu2_all.deb
+Size: 19720
+MD5sum: 02b8d1dfcf9ed2e8a11fa53a505f2f7a
+SHA1: 811e351d48bc3091bb1742e035d855561c9ba83e
+SHA256: 0c335e4dbfe4fc8f2287a7c4160ac0251d5e745f78bee766d3af819869944f23
+Description-en: manage asset URLs
+ The Symfony Asset Component manages URL generation and versioning of
+ web assets such as CSS stylesheets, JavaScript files and image files.
+ .
+ Symfony is a PHP framework, a set of tools and a development methodology.
+Description-md5: 88a909d373c0ea1ef4bed59e6fdd1714
+Homepage: https://symfony.com/components/Asset
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

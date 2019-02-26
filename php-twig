@@ -1,0 +1,24 @@
+Package: php-twig
+Priority: optional
+Section: universe/php
+Installed-Size: 590
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Source: twig
+Version: 1.23.1-1ubuntu4
+Depends: php-common
+Suggests: php-twig-doc
+Filename: pool/universe/t/twig/php-twig_1.23.1-1ubuntu4_all.deb
+Size: 74874
+MD5sum: ba49a9be0490a7f6bd376f43c5915e4d
+SHA1: 1dd344056eb02bad97c97a24c2d856c7d4f6fcdd
+SHA256: 9e8d3f13a60c88226f771d53c450216b7be9f38f6db7cbffaef2b6c6686e77e4
+Description-en: Flexible, fast, and secure template engine for php
+ Twig is a fast, secure and flexible template engine for php, implementing an
+ own domain specific language which originated from Jinja and Django templates.
+Description-md5: 7bfc0f47033c95b051e107aa865af346
+Homepage: http://twig.sensiolabs.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

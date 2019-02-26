@@ -1,0 +1,23 @@
+Package: php-text-template
+Priority: optional
+Section: universe/php
+Installed-Size: 16
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.2.1-1build2
+Depends: php-common
+Filename: pool/universe/p/php-text-template/php-text-template_1.2.1-1build2_all.deb
+Size: 4136
+MD5sum: 4b0516da80b551d8788962c86beb268f
+SHA1: 7d3601a2cf52df137037704d3af0959391514e1e
+SHA256: e0119214d69410bd3c89f95a420861efff1bc8df7d83bbc72606dc87ef9b53e8
+Description-en: Simple template engine
+ Text_Template is a simple PHP templating engine used by PHPUnit.
+ PHPUnit is a unit testing suite for the PHP language, modelled on the
+ xUnit testing framework, designed by Kent Beck and Erich Gamma.
+Description-md5: 524e36518a432c647f0097b7d95d6d20
+Homepage: https://github.com/sebastianbergmann/php-text-template
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

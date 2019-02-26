@@ -1,0 +1,25 @@
+Package: php-symfony-stopwatch
+Priority: optional
+Section: universe/php
+Installed-Size: 80
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Source: symfony
+Version: 2.7.10-0ubuntu2
+Depends: php-common
+Filename: pool/universe/s/symfony/php-symfony-stopwatch_2.7.10-0ubuntu2_all.deb
+Size: 16722
+MD5sum: 7cb5dc29b9cbb1d6a35b4a94cde6feb9
+SHA1: ae287d879c72fbfb2d0ae1870622df9fe3640d1b
+SHA256: 4434afbea4604003bec19d098745548166edfe522a3ee9ef7561b11455dbccb2
+Description-en: profile PHP code
+ The Symfony Stopwatch Component provides an easy and consistent way
+ to measure execution time of certain parts of PHP code.
+ .
+ Symfony is a PHP framework, a set of tools and a development methodology.
+Description-md5: 30acc09f66c2e723fc2b5c01c79d1bb0
+Homepage: https://symfony.com/doc/2.7/components/stopwatch.html
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

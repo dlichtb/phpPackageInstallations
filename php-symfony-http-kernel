@@ -1,0 +1,29 @@
+Package: php-symfony-http-kernel
+Priority: optional
+Section: universe/php
+Installed-Size: 553
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Source: symfony
+Version: 2.7.10-0ubuntu2
+Depends: php-common, php-symfony-event-dispatcher (>= 2.6.7), php-symfony-event-dispatcher (<< 3~~), php-symfony-http-foundation (>= 2.5.4), php-symfony-http-foundation (<< 3~~), php-symfony-debug (>= 2.6.2), php-symfony-debug (<< 3~~), php-psr-log (>= 1.0), php-psr-log (<< 2~~)
+Suggests: php-symfony-browser-kit, php-symfony-class-loader, php-symfony-config, php-symfony-console, php-symfony-dependency-injection, php-symfony-finder, php-symfony-var-dumper
+Breaks: php-symfony-config (<< 2.7~~)
+Filename: pool/universe/s/symfony/php-symfony-http-kernel_2.7.10-0ubuntu2_all.deb
+Size: 74578
+MD5sum: e413ddc4933ce1db247ad4cde0d47c33
+SHA1: d6f614733a4a0f5513e66e34be567745953eff3a
+SHA256: 96192eeeb701449161b7a86bdd758bb2457fe5a9d51ce27b8f20f1a4a376944b
+Description-en: building blocks for flexible and fast HTTP-based frameworks
+ The Symfony HttpKernel Component provides a structured process for
+ converting requests into responses and is flexible enough to build
+ full-stack frameworks like Symfony as well as micro frameworks
+ like Silex on top of it.
+ .
+ Symfony is a PHP framework, a set of tools and a development methodology.
+Description-md5: c939e66572524bf5395e9b5e6788d97b
+Homepage: https://symfony.com/doc/2.7/components/http_kernel/introduction.html
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

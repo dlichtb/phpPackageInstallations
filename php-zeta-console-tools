@@ -1,0 +1,31 @@
+Package: php-zeta-console-tools
+Priority: optional
+Section: universe/php
+Installed-Size: 1585
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.7-2ubuntu2
+Depends: php-common, php-zeta-base (>= 1.9-2), php-zeta-base (<< 2~~)
+Filename: pool/universe/p/php-zeta-console-tools/php-zeta-console-tools_1.7-2ubuntu2_all.deb
+Size: 473920
+MD5sum: d2e5f46746dbc2f4561c2ba9633f3b85
+SHA1: b2336cceab6538dd8dd04d6dcceef808f285a347
+SHA256: 14f020661b144de805be349a5efd6ed656648e76ff440025f87364aea68ef902
+Description-en: Zeta Components - ConsoleTools package
+ A set of classes to do different actions with the console (also called shell).
+ It can render a progress bar, tables and a status bar and contains a class for
+ parsing command line options.
+ .
+ Zeta Components are a high quality, general purpose library of loosely
+ coupled components for development of applications based on PHP 5.
+ Beside typical modules for web application development, like a Template
+ engine, Database tools and an MVC component, Zeta Components contain
+ command line tools, a chart rendering library, a WebDAV server, a
+ universal document conversion component and many more tools to ease
+ developers live.
+Description-md5: 15206a2dc54cfc0636147ab5931ae50b
+Homepage: http://zetacomponents.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

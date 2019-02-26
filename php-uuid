@@ -1,0 +1,21 @@
+Package: php-uuid
+Priority: optional
+Section: universe/php
+Installed-Size: 36
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PECL Maintainers <pkg-php-pecl@lists.alioth.debian.org>
+Architecture: amd64
+Version: 1.0.4-1
+Depends: ucf, libc6 (>= 2.14), libuuid1 (>= 2.16), phpapi-20151012
+Filename: pool/universe/p/php-uuid/php-uuid_1.0.4-1_amd64.deb
+Size: 6870
+MD5sum: e893162ac767571d119d0a15d33807c0
+SHA1: 91b06361396e51e62d8c2cc164f0491625ebb1ef
+SHA256: bb2d022e6076165f4a9ce1b1fb4c29adf6d4743761c0473da345f8821a6eba8d
+Description-en: PHP UUID extension
+ A thin wrapper around libuuid from the ext2utils project
+Description-md5: ff7f565225f60f10e8abbb382116bdff
+Homepage: https://pecl.php.net/package/uuid
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

@@ -1,0 +1,29 @@
+Package: php-symfony-expression-language
+Priority: optional
+Section: universe/php
+Installed-Size: 138
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Source: symfony
+Version: 2.7.10-0ubuntu2
+Depends: php-common
+Filename: pool/universe/s/symfony/php-symfony-expression-language_2.7.10-0ubuntu2_all.deb
+Size: 24612
+MD5sum: 5f513e7f400e5e9c97914b8df1ef88bb
+SHA1: 687dccd586c409991c063cd3d368834fa194e4a1
+SHA256: 27b97a077dd02d5767c77fcc352ab1a8109d261948d1de463f276c931ace5d87
+Description-en: compile and evaluate expressions
+ The Symfony ExpressionLanguage Component provides an engine that can compile
+ and evaluate expressions. An expression is a one-liner that returns a value
+ (mostly, but not limited to, Booleans).
+ .
+ By default, the engine implements simple math and logic functions, method
+ calls, property accesses, and array accesses.
+ .
+ Symfony is a PHP framework, a set of tools and a development methodology.
+Description-md5: 61eb76d07c97273dce968594b943678e
+Homepage: https://symfony.com/doc/2.7/components/expression_language/introduction.html
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

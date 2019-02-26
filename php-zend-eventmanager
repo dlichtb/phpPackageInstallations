@@ -1,0 +1,33 @@
+Package: php-zend-eventmanager
+Priority: optional
+Section: universe/php
+Installed-Size: 171
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 2.6.2-1build1
+Provides: php-zendframework-zend-eventmanager
+Depends: php-common, php-zend-stdlib (>= 2.5), php-zend-stdlib (<< 3~~)
+Breaks: zendframework
+Filename: pool/universe/p/php-zend-eventmanager/php-zend-eventmanager_2.6.2-1build1_all.deb
+Size: 15418
+MD5sum: aec5f8ecb0abfb9336212f84de74ff8d
+SHA1: 4a94e1a65b14887093497415b9d492c3d641f8f9
+SHA256: 442e1f9a2e04127458b5624f4923f4132636d57e9c81ae05da5f7aae6dcce37b
+Description-en: Zend Framework - EventManager component
+ The `Zend\EventManager` is a component designed for the following use cases:
+ .
+  * Implementing simple subject/observer patterns.
+  * Implementing Aspect-Oriented designs.
+  * Implementing event-driven architectures.
+ .
+ The basic architecture allows you to attach and detach listeners to named
+ events, both on a per-instance basis as well as via shared collections;
+ trigger events; and interrupt execution of listeners.
+ .
+ Zend is a PHP framework for developing web applications and services.
+Description-md5: aff21711df9ee6a65f14865e94fa9e05
+Homepage: http://framework.zend.com/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

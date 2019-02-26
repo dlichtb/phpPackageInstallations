@@ -1,0 +1,43 @@
+Package: php-solr
+Priority: optional
+Section: universe/web
+Installed-Size: 336
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: amd64
+Version: 2.4.0-1
+Depends: php-curl, php-common (>= 1:7.0+33~), phpapi-20151012, libc6 (>= 2.14), libcurl3 (>= 7.16.2), libxml2 (>= 2.7.4)
+Filename: pool/universe/p/php-solr/php-solr_2.4.0-1_amd64.deb
+Size: 78234
+MD5sum: 449fe6b37d79de9f4de80d32863e02c7
+SHA1: bb7425fd62de8b4a3d345dd475e8c3b036c84d4c
+SHA256: d9aa358e34ca4bf96c0a2f1487f83c54d0124a7bd4069e9af0065cca6a46a2b0
+Description-en: PHP extension for communicating with Apache Solr server
+ The Apache Solr PHP extension is an extremely fast, light-weight,
+ feature-rich library that allows PHP applications to communicate
+ easily and efficiently with Apache Solr server instances using an
+ object-oriented API.
+ .
+ It effectively simplifies the process of interacting
+ with Apache Solr using PHP and it already comes with built-in
+ readiness for the latest features.
+ .
+ The extension has features such as built-in, serializable query
+ string builder objects which effectively simplifies the manipulation
+ of name-value pair request parameters across repeated requests.  The
+ response from the Solr server is also automatically parsed into
+ native php objects whose properties can be accessed as array keys or
+ object properties without any additional configuration on the
+ client-side.
+ .
+ Its advanced HTTP client reuses the same connection across multiple
+ requests and provides built-in support for connecting to Solr servers
+ secured behind HTTP Authentication or HTTP proxy servers.  It is also
+ able to connect to SSL-enabled containers.
+ .
+ PECL Solr 2+ is only compatible with Apache Solr Server 4.0+.
+Description-md5: d404cb885f81e4bef1b57c8bb1c01e9b
+Homepage: http://pecl.php.net/package/solr
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

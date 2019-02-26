@@ -1,0 +1,30 @@
+Package: php-zeta-unit-test
+Priority: optional
+Section: universe/php
+Installed-Size: 207
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.0.2-2ubuntu1
+Depends: php-common
+Filename: pool/universe/p/php-zeta-unit-test/php-zeta-unit-test_1.0.2-2ubuntu1_all.deb
+Size: 140614
+MD5sum: 3f47784b98a16e00f207b1e4a1ff3547
+SHA1: 2c4ee931ce30768de03bd6561eb71f02941c1c34
+SHA256: 7d22f82e830349b7249be2b4d1535dd53c83fd8f494a05eddd2bfa314e6e18fd
+Description-en: Zeta Components - UnitTest package
+ UnitTest is an internal component which extends PhpUnit to facilitate
+ test running and reports of the components themselves.
+ .
+ Zeta Components are a high quality, general purpose library of loosely
+ coupled components for development of applications based on PHP 5.
+ Beside typical modules for web application development, like a Template
+ engine, Database tools and an MVC component, Zeta Components contain
+ command line tools, a chart rendering library, a WebDAV server, a
+ universal document conversion component and many more tools to ease
+ developers live.
+Description-md5: 4800480439b6296e037002276171092b
+Homepage: http://zetacomponents.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

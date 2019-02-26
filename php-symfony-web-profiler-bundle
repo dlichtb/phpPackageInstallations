@@ -1,0 +1,28 @@
+Package: php-symfony-web-profiler-bundle
+Priority: optional
+Section: universe/php
+Installed-Size: 323
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Source: symfony
+Version: 2.7.10-0ubuntu2
+Depends: php-symfony-routing (>= 2.4), php-common, php-symfony-http-kernel (>= 2.4), php-symfony-http-kernel (<< 3~~), php-symfony-routing (<< 3~~), php-symfony-twig-bridge (>= 2.7), php-symfony-twig-bridge (<< 3~~)
+Filename: pool/universe/s/symfony/php-symfony-web-profiler-bundle_2.7.10-0ubuntu2_all.deb
+Size: 58214
+MD5sum: 28e712b4c5d80bb5eb719fd12ca31711
+SHA1: 78de3ca84ac6c5276b74f162d0307263f21cf778
+SHA256: e950b695567f5bbdaf3d90e4ccc7506128a3c3822660526509ef7168d4526a4b
+Description-en: collect requests information for analysis and debugging
+ Symfony WebProfilerBundle collects information about each request
+ made to an application using it and stores them for later analysis.
+ It includes a visual interface for analyzing profiling data as well as
+ a toolbar for instant access to a lot of interesting information for
+ debugging purposes.
+ .
+ Symfony is a PHP framework, a set of tools and a development methodology.
+Description-md5: 204363f432ac642e05027694f91b814e
+Homepage: https://symfony.com/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

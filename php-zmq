@@ -1,0 +1,22 @@
+Package: php-zmq
+Priority: optional
+Section: universe/php
+Installed-Size: 124
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PECL Maintainers <pkg-php-pecl@lists.alioth.debian.org>
+Architecture: amd64
+Version: 1.1.3-3
+Depends: php-common (>= 1:7.0+33~), phpapi-20151012, libc6 (>= 2.17), libzmq5 (>= 4.0.1+dfsg)
+Filename: pool/universe/p/php-zmq/php-zmq_1.1.3-3_amd64.deb
+Size: 31976
+MD5sum: 5a00d010855f483030b47677de4ca74a
+SHA1: eb1effd84ef6cf0c1dad6ada745e465e51675277
+SHA256: b7d849e712487533f9f0f0aed8831660b4a26f032537caefc153d075ae437a86
+Description-en: ZeroMQ messaging bindings for PHP
+ ZeroMQ is a software library that lets you quickly design and
+ implement a fast message-based applications.
+Description-md5: 6326bbe8256d4850dafb75ece0300e6c
+Homepage: http://pecl.php.net/package/zmq
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

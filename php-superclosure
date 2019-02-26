@@ -1,0 +1,25 @@
+Package: php-superclosure
+Priority: optional
+Section: universe/php
+Installed-Size: 59
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 2.2.0-1build1
+Depends: php-common, php-parser (>= 1.2), php-parser (<< 3.0~~)
+Filename: pool/universe/p/php-superclosure/php-superclosure_2.2.0-1build1_all.deb
+Size: 11302
+MD5sum: 222b00f367eb09714de25a4d17e7a0ca
+SHA1: b51cdfbf6ad68bf051a320cf46310b27c26fc099
+SHA256: d5858a06ee8a39a537236bdfed03f6a5485af745f2be2e68c15767b33eaa2bbb
+Description-en: Serialize Closure objects, including their context and binding
+ SuperClosure is a PHP Library for serializing closures and anonymous
+ functions. It comes with two different Closure Analyzers, which each
+ support different features regarding the serialization of closures.
+ The TokenAnalyzer is not as robust as the AstAnalyzer, but it is around
+ 20-25 times faster.
+Description-md5: d8860dbd34ce567c1889fad4ef05d48b
+Homepage: https://github.com/jeremeamia/super_closure
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

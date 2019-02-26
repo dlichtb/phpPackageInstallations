@@ -1,0 +1,32 @@
+Package: php-symfony-security
+Priority: optional
+Section: universe/php
+Installed-Size: 1105
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Source: symfony
+Version: 2.7.10-0ubuntu2
+Depends: php-common, php-random-compat (>= 1.0), php-random-compat (<< 2~~), php-symfony-event-dispatcher (>= 2.2), php-symfony-event-dispatcher (<< 3~~), php-symfony-http-foundation (>= 2.1), php-symfony-http-foundation (<< 3~~), php-symfony-http-kernel (>= 2.4), php-symfony-http-kernel (<< 3~~)
+Suggests: php-symfony-class-loader, php-symfony-finder, php-symfony-form, php-symfony-validator, php-symfony-routing, php-doctrine-dbal, php-symfony-expression-language, php-ircmaxell-password-compat
+Filename: pool/universe/s/symfony/php-symfony-security_2.7.10-0ubuntu2_all.deb
+Size: 103916
+MD5sum: ab3dcb95e20deb9ebe2403e37b2160d9
+SHA1: c28f150bc8ca6b4c9fbce58f32db75473024d835
+SHA256: c4a3aafb5fdf71364f2c35066138e131b30211de0f17ecdae910b8a63cd2244f
+Description-en: infrastructure for sophisticated authorization systems
+ The Symfony Security Component makes it possible to easily separate
+ authorization logic from user providers that hold the users credentials.
+ It ships with facilities for authenticating using HTTP basic or digest
+ authentication, interactive form login or X.509 certificate login.
+ Furthermore it optionally also allows an application to implement its
+ own authentication strategies.
+ In addition the component contains an advanced ACL system and provides
+ ways to authorize authenticated users based on their roles.
+ .
+ Symfony is a PHP framework, a set of tools and a development methodology.
+Description-md5: 94e3d30300c308f4cd9a51790ccf140c
+Homepage: https://symfony.com/doc/2.7/components/security/introduction.html
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

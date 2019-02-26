@@ -1,0 +1,28 @@
+Package: php-symfony-locale
+Priority: optional
+Section: universe/oldlibs
+Installed-Size: 111
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Source: symfony
+Version: 2.7.10-0ubuntu2
+Depends: php-common, php-symfony-intl (>= 2.7), php-symfony-intl (<< 3~~)
+Filename: pool/universe/s/symfony/php-symfony-locale_2.7.10-0ubuntu2_all.deb
+Size: 15898
+MD5sum: a164bc6c8721aeaa811455f766853b71
+SHA1: 255681b2745ded8a7e6a895593333cddbff2cd06
+SHA256: 84052c9a72cfa3c649c16a4553ea3f659a6b446313ed92369358cfb31132cf9b
+Description-en: deprecated replacement layer for the PHP extension intl
+ The Symfony Locale Component provides fallback code to handle
+ cases when the PHP intl extension is missing. Since version 2.3 of
+ Symfony Components it is deprecated and will be removed in Symfony 3.0.
+ Additionally it only implements the English locale and thus can not be
+ a full replacement of the PHP intl extension.
+ .
+ Symfony is a PHP framework, a set of tools and a development methodology.
+Description-md5: e295f3ef2e0c294edf171e0e686f6453
+Homepage: https://symfony.com/components/Locale
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

@@ -1,0 +1,23 @@
+Package: php-timer
+Priority: optional
+Section: universe/php
+Installed-Size: 19
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.0.7-1ubuntu1
+Depends: php-common
+Filename: pool/universe/p/php-timer/php-timer_1.0.7-1ubuntu1_all.deb
+Size: 4508
+MD5sum: 63c900c31d7ecb59cbf7e49e61712f37
+SHA1: c389e33ca03bfc98403cf0a0c591e00acb754d67
+SHA256: de89302a1d921da5e1df11fcc14344326418b868a2bb2be2901121d06ef91a81
+Description-en: Utility class for timing
+ PHP_Timer is a utility class for timing used by PHPUnit. PHPUnit is
+ a unit testing suite for the PHP language, modelled on the xUnit
+ testing framework.
+Description-md5: 437ed909504fba359c182045a9e99047
+Homepage: https://github.com/sebastianbergmann/php-timer
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

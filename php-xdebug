@@ -1,0 +1,37 @@
+Package: php-xdebug
+Priority: optional
+Section: universe/php
+Installed-Size: 1226
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PECL Maintainers <pkg-php-pecl@lists.alioth.debian.org>
+Architecture: amd64
+Source: xdebug
+Version: 2.4.0-1
+Depends: ucf, php-common (>= 1:7.0+33~), phpapi-20151012, libc6 (>= 2.15)
+Filename: pool/universe/x/xdebug/php-xdebug_2.4.0-1_amd64.deb
+Size: 315746
+MD5sum: 4eedb6e945b70c16ba8971fd3a8f7b0a
+SHA1: ab18294be9c5a057c2b28724fea99038fca530a4
+SHA256: 35c6349176b385ddba81e12657aac394bb000a9e447b570fcfdaf558d8be0d69
+Description-en: Xdebug Module for PHP
+ The Xdebug extension helps you debugging your script by providing a lot of
+ valuable debug information. The debug information that Xdebug can provide
+ includes the following:
+ .
+    * stack traces and function traces in error messages with:
+       - full parameter display for user defined functions
+       - function name, file name and line indications
+       - support for member functions
+    * memory allocation
+    * protection for infinite recursions
+ .
+ Xdebug also provides:
+ .
+    * profiling information for PHP scripts
+    * script execution analysis
+    * capabilities to debug your scripts interactively with a debug client
+Description-md5: 0f0798e7431f8c626ceea9d500b3e977
+Homepage: http://xdebug.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

@@ -1,0 +1,34 @@
+Package: php-zend-stdlib
+Priority: optional
+Section: universe/php
+Installed-Size: 302
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 2.7.5-1build1
+Provides: php-zendframework-zend-stdlib
+Depends: php-common, php-zend-hydrator (>= 1.0), php-zend-hydrator (<< 2~~)
+Suggests: php-zend-eventmanager, php-zend-serializer, php-zend-servicemanager, php-zend-filter
+Breaks: zendframework
+Filename: pool/universe/p/php-zend-stdlib/php-zend-stdlib_2.7.5-1build1_all.deb
+Size: 28804
+MD5sum: 3ee5c479d213d5133f2d9de0a8227d90
+SHA1: fddc92f4e6a172ea7877e64fee26284b3f6069e2
+SHA256: 6228adf738bd62f7a54d1581a03c67a537e84bc55fc611aed9a5201caedd2f6f
+Description-en: Zend Framework - Stdlib component
+ `Zend\Stdlib` is a set of components that implements general purpose utility
+ class for different scopes like:
+ .
+  * array utilities functions;
+  * hydrators;
+  * json serializable interfaces;
+  * general messaging systems;
+  * strin wrappers;
+  * etc.
+ .
+ Zend is a PHP framework for developing web applications and services.
+Description-md5: d72e159cb42ce8cef72050940526cfe6
+Homepage: http://framework.zend.com/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

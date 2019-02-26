@@ -1,0 +1,28 @@
+Package: php-validate
+Priority: optional
+Section: universe/php
+Installed-Size: 92
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Dario Minnucci <midget@debian.org>
+Architecture: all
+Version: 0.8.5-4build1
+Depends: php-common
+Recommends: php-date, php-net-idna (>= 0.7.1)
+Filename: pool/universe/p/php-validate/php-validate_0.8.5-4build1_all.deb
+Size: 23548
+MD5sum: a2423b82d0a5b0dc939cd65a5c209dfc
+SHA1: 607a7b70fd50693b09c2494788952130dc844b7f
+SHA256: c42bc5cbe8d4c9250d909f4ad0341d68d8019d0a5b69fab73b3a018c321e3f16
+Description-en: validation class
+ This package provides a PEAR package for validating data, including:
+  * numbers (min/max, decimal or not);
+  * email (syntax, domain check, RFC 822 compliance);
+  * strings (predefined type alpha upper and/or lowercase, numeric, etc.);
+  * dates (min/max, RFC 822 compliance);
+  * URIs (RFC 2396 compliance).
+ Multiple checks can be performed by a single method call (::multiple).
+Description-md5: 5387a80d66c2c2dcc071cea7b33238d4
+Homepage: http://pear.php.net/package/Validate
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

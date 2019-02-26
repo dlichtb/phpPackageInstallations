@@ -1,0 +1,29 @@
+Package: php-symfony-routing
+Priority: optional
+Section: universe/php
+Installed-Size: 291
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Source: symfony
+Version: 2.7.10-0ubuntu2
+Depends: php-common
+Suggests: php-symfony-http-foundation, php-symfony-config, php-symfony-yaml, php-symfony-expression-language, php-doctrine-annotations
+Breaks: php-symfony-config (<< 2.7~~)
+Filename: pool/universe/s/symfony/php-symfony-routing_2.7.10-0ubuntu2_all.deb
+Size: 46050
+MD5sum: a4a4f957feb91552596373abb7dddd2d
+SHA1: ec02b7c31ef593dd75aaa787c9c4f1c70748c756
+SHA256: dc7f05973fe4fa75ed678a62fbaeb3618f2f8179f5167080ed3f84e9cecde1ab
+Description-en: associate a request with code that generates a response
+ The Symfony Routing Component makes it easy to map HTTP requests to
+ the code of an application that is able to process the request and
+ generates a corresponding response. It thus serves as a router for an
+ application, but should not be confused with a network router.
+ .
+ Symfony is a PHP framework, a set of tools and a development methodology.
+Description-md5: c757fffcf018426da9cb7cba87a7e9b9
+Homepage: https://symfony.com/doc/2.7/components/routing/introduction.html
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

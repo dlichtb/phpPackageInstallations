@@ -1,0 +1,25 @@
+Package: php-symfony-css-selector
+Priority: optional
+Section: universe/php
+Installed-Size: 225
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Source: symfony
+Version: 2.7.10-0ubuntu2
+Depends: php-common
+Filename: pool/universe/s/symfony/php-symfony-css-selector_2.7.10-0ubuntu2_all.deb
+Size: 30816
+MD5sum: 86b34e442e9abaef217c583258627c0e
+SHA1: 4575ece476bd1547e9648104c508ac1bad2f5718
+SHA256: ff30a056f9036a8864be3d440df22cb50a3df2830d841c3955fa85c6eb7b3103
+Description-en: convert CSS selectors to XPath expressions
+ The Symfony CssSelector Component can be used to convert CSS selectors
+ to XPath expressions. It basically is a port of the Python lxml library.
+ .
+ Symfony is a PHP framework, a set of tools and a development methodology.
+Description-md5: 116c5f752f6f8c12d73cc780f3ee9813
+Homepage: https://symfony.com/doc/2.7/components/css_selector.html
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

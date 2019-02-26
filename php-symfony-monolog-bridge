@@ -1,0 +1,28 @@
+Package: php-symfony-monolog-bridge
+Priority: optional
+Section: universe/php
+Installed-Size: 95
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Source: symfony
+Version: 2.7.10-0ubuntu2
+Depends: php-monolog (>= 1.13), php-common, php-monolog (<< 2~~)
+Suggests: php-symfony-http-kernel, php-symfony-console, php-symfony-event-dispatcher
+Filename: pool/universe/s/symfony/php-symfony-monolog-bridge_2.7.10-0ubuntu2_all.deb
+Size: 19204
+MD5sum: c90c84f025dcf7ee832b394edb62cb6a
+SHA1: caa5aa083ad44c5c8209761345bbcdce37e4f2a1
+SHA256: 2109eb623597eb1949bea4fd4937919439d9d28458863289a1ee26bffa7e1f92
+Description-en: integration for Monolog with Symfony Components
+ The Symfony Monolog Bridge integrates Monolog with various
+ Symfony Components.
+ .
+ Monolog can be used to send logs to various destination and web services.
+ .
+ Symfony is a PHP framework, a set of tools and a development methodology.
+Description-md5: 848175192661a328104a676e6dfc1c25
+Homepage: https://symfony.com/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

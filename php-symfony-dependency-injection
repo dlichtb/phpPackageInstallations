@@ -1,0 +1,27 @@
+Package: php-symfony-dependency-injection
+Priority: optional
+Section: universe/php
+Installed-Size: 472
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Source: symfony
+Version: 2.7.10-0ubuntu2
+Depends: php-common
+Suggests: php-symfony-yaml, php-symfony-config, php-symfony-proxy-manager-bridge
+Breaks: php-symfony-expression-language (<< 2.6~~)
+Filename: pool/universe/s/symfony/php-symfony-dependency-injection_2.7.10-0ubuntu2_all.deb
+Size: 63640
+MD5sum: 7572d53a1afb0bc34ea6c484c05e39a0
+SHA1: 96ac1afa5b360d09e763f3eaa30eb10e67c4a020
+SHA256: 2974009e43d48742f81e563afd3191e1e08fa7cac3c33d33b6178c00708838b1
+Description-en: standardize and centralize construction of objects
+ The Symfony DependencyInjection Component standardizes and centralizes
+ the way objects are constructed in an application.
+ .
+ Symfony is a PHP framework, a set of tools and a development methodology.
+Description-md5: ad53f72bd89233731e3bed605af700b4
+Homepage: https://symfony.com/doc/2.7/components/dependency_injection/introduction.html
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

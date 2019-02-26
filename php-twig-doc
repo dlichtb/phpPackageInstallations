@@ -1,0 +1,26 @@
+Package: php-twig-doc
+Priority: optional
+Section: universe/doc
+Installed-Size: 1336
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Source: twig
+Version: 1.23.1-1ubuntu4
+Depends: libjs-sphinxdoc (>= 1.0)
+Filename: pool/universe/t/twig/php-twig-doc_1.23.1-1ubuntu4_all.deb
+Size: 126594
+MD5sum: 87c4d74d855aaf906c467c09313a4701
+SHA1: 51081b9ea05c9d1cb72d3dc86dbc5466eaab00b1
+SHA256: 0c8ea478dfad2629bec59cef9a1b43be2e7a90c7f35f266dbdf0ce5582d0e7f6
+Description-en: Twig template engine documentation
+ This documentation describes the internals of Twig and the use of
+ it from the perspective of a template designer as well as from the
+ perspective of a developer.
+ .
+ Twig itself is a flexible, fast and secure template engine for php.
+Description-md5: 43bec081cdefbccb7188520fea552b2c
+Homepage: http://twig.sensiolabs.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

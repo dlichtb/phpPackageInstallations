@@ -1,0 +1,26 @@
+Package: php-symfony-security-bundle
+Priority: optional
+Section: universe/php
+Installed-Size: 270
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Source: symfony
+Version: 2.7.10-0ubuntu2
+Depends: php-common, php-symfony-security (>= 2.7), php-symfony-security (<< 3~~), php-symfony-http-kernel (>= 2.2), php-symfony-http-kernel (<< 3~~)
+Filename: pool/universe/s/symfony/php-symfony-security-bundle_2.7.10-0ubuntu2_all.deb
+Size: 36166
+MD5sum: 43f90c99be93c06663c5430798f82d48
+SHA1: 6f26ac34ad08b5e0472f7a339c4df3ce9a247cf9
+SHA256: 74d8f9e83dfaf51a3ec00e21754a7213ec3e75a62ad19b6ab5eca76aa6aef6a1
+Description-en: configurable security system for the Symfony framework
+ Symfony SecurityBundle allows an application using it to
+ configure security related matters like authentication and
+ authorization within the Symfony framework.
+ .
+ Symfony is a PHP framework, a set of tools and a development methodology.
+Description-md5: c24d30656781255a806ab744b355c79b
+Homepage: https://symfony.com/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

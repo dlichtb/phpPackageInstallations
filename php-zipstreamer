@@ -1,0 +1,23 @@
+Package: php-zipstreamer
+Priority: optional
+Section: universe/php
+Installed-Size: 56
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 0.7-1ubuntu1
+Depends: php-mbstring, php-common
+Recommends: php-pecl-http
+Filename: pool/universe/p/php-zipstreamer/php-zipstreamer_0.7-1ubuntu1_all.deb
+Size: 12614
+MD5sum: 19792e1e316fdc6751ac9d8875f64d56
+SHA1: 61e522a3fbd14497434d33bf1ddbab6909a4af71
+SHA256: 1c971ff4880272e8503c944fb4ae23809492d8faad7df99e6478974893869383
+Description-en: Stream zip files without i/o overhead
+ Simple Class to create ZIP files on the fly and stream directly to the
+ HTTP client as the content is added (without using temporary files).
+Description-md5: 5bb4c9dd60c7967711c9f88cc00fc8bd
+Homepage: https://github.com/McNetic/PHPZipStreamer
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

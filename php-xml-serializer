@@ -1,0 +1,32 @@
+Package: php-xml-serializer
+Priority: optional
+Section: universe/web
+Installed-Size: 203
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: PKG-PHP-PEAR team <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 0.20.2-3ubuntu1
+Depends: php-pear, php-xml-parser (>= 1.2.6)
+Suggests: php-cli
+Filename: pool/universe/p/php-xml-serializer/php-xml-serializer_0.20.2-3ubuntu1_all.deb
+Size: 34788
+MD5sum: c71a48c54a5d911c6ca9bd1b3b2e60a0
+SHA1: 298683237d227348d335a5e02c77d6bb6f72ec62
+SHA256: 1e97ba1c5ab0b9257ec160f7ccb94971d86caa53a2dd6d9df76bf08e7a866524
+Description-en: swiss-army knife for reading and writing XML files
+ XML_Serializer creates XML files from data structures and vice versa.
+ It serializes complex data structures like arrays or objects as XML
+ documents. You can create any XML document without the need for DOM
+ access.
+ This package includes an unserializer facility that creates PHP data
+ structures (like arrays and objects) from XML documents, if type hints
+ are available. If not, it will try to guess how it has to be
+ unserialized, doing exactly what you expect it to do in most cases.
+ .
+ Since version 0.8.0 the package is able to treat XML documents similar
+ to the simplexml extension of PHP 5.
+Description-md5: cf78310c17836451375b49af74792445
+Homepage: http://pear.php.net/package/XML_Serializer
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

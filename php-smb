@@ -1,0 +1,26 @@
+Package: php-smb
+Priority: optional
+Section: universe/php
+Installed-Size: 106
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.0.5-1ubuntu1
+Depends: php-smbclient | smbclient, php-common, php-streams (>= 0.2), php-streams (<< 0.3~~)
+Filename: pool/universe/p/php-smb/php-smb_1.0.5-1ubuntu1_all.deb
+Size: 15304
+MD5sum: bf5e85a5dcbbe862f1a069019956aafd
+SHA1: d5cbd90c21368ad74afe022f4472bd659d37c9c8
+SHA256: 456c20c7ea0ef20626c3b4de9cddaf0e716ac6019f9a97b69d606be75af8cd2e
+Description-en: php wrapper for smbclient and libsmbclient-php
+ PHP wrapper for smbclient and php-smbclient:
+  * Reuses a single smbclient instance for multiple requests
+  * Doesn't leak the password to the process list
+  * Simple 1-on-1 mapping of SMB commands
+  * A stream-based API to remove the need for temporary files
+  * Support for using libsmbclient directly trough php-smbclient
+Description-md5: f78a3ef47d38818fcaedc7fb40371a6e
+Homepage: https://github.com/icewind1991/SMB
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+
