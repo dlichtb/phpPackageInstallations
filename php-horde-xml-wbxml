@@ -1,0 +1,27 @@
+Package: php-horde-xml-wbxml
+Priority: extra
+Section: universe/php
+Installed-Size: 143
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.0.3-1ubuntu1
+Depends: php-common, php-horde-util (>= 2.0.0), php-horde-util (<< 3.0.0~alpha1)
+Recommends: php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-xml-wbxml/php-horde-xml-wbxml_2.0.3-1ubuntu1_all.deb
+Size: 22480
+MD5sum: 0b65bcf58fdb755643e21edfb9c1e8c0
+SHA1: 10674f077b915d56f8c1c1c7dfeb13288920ce09
+SHA256: 43be5bd6d6315fc7ab8924147f1b096ecca1cb7aa07eb411ecea03923264f79b
+Description-en: Horde_Xml_Wbxml provides an API for encoding and decoding WBXML documents used in SyncML and other wireless applications
+ Encoding and decoding of WBXML (Wireless Binary XML) documents. WBXML is used
+ in SyncML for transferring smaller amounts of data with wireless devices.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 826256a190b9e5572f735251e9dd671d
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

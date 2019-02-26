@@ -1,0 +1,26 @@
+Package: php-http-webdav-server
+Priority: optional
+Section: universe/php
+Installed-Size: 164
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.0.0RC6-2build1
+Depends: php-common
+Filename: pool/universe/p/php-http-webdav-server/php-http-webdav-server_1.0.0RC6-2build1_all.deb
+Size: 33890
+MD5sum: 284b6190cf82342f7386f842d8652921
+SHA1: a6a8916fb9339438250ee31ea468a95f209c2927
+SHA256: 0cbdf3c65c2c0693e4b5b63bf0eb8964cda0e6e4ddbe5f0c61785fbcbe6e7bdb
+Description-en: WebDAV Server Baseclass
+ RFC2518 compliant helper class for WebDAV server implementation.
+ .
+ Web-based Distributed Authoring and Versioning, or WebDAV, is a set of
+ extensions to the Hypertext Transfer Protocol (HTTP) that allows
+ computer-users to edit and manage files collaboratively on remote World Wide
+ Web servers. RFC 4918 defines the extensions.
+Description-md5: bb4bba2eb611ffcdccbb3cc3bd6cb338
+Homepage: http://pear.php.net/package/HTTP_WebDAV_Server/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

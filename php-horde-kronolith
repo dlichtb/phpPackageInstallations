@@ -1,0 +1,32 @@
+Package: php-horde-kronolith
+Priority: extra
+Section: universe/php
+Installed-Size: 9546
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 4.2.13-1ubuntu1
+Provides: kronolith
+Depends: php-cli, php-common, php-horde-content (>= 2.0.5), php-horde-content (<< 3.0.0~alpha1), php-horde (>= 5.0.0), php-horde (<< 6.0.0~alpha1), php-horde-auth (>= 2.0.0), php-horde-auth (<< 3.0.0~alpha1), php-horde-autoloader (>= 2.0.0), php-horde-autoloader (<< 3.0.0~alpha1), php-horde-core (>= 2.21.0), php-horde-core (<< 3.0.0~alpha1), php-horde-data (>= 2.0.0), php-horde-data (<< 3.0.0~alpha1), php-horde-date (>= 2.0.8), php-horde-date (<< 3.0.0~alpha1), php-horde-date-parser (>= 2.0.0), php-horde-date-parser (<< 3.0.0~alpha1), php-horde-dav (>= 1.0.0), php-horde-dav (<< 2.0.0~alpha1), php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-form (>= 2.0.0), php-horde-form (<< 3.0.0~alpha1), php-horde-group (>= 2.0.0), php-horde-group (<< 3.0.0~alpha1), php-horde-http (>= 2.0.0), php-horde-http (<< 3.0.0~alpha1), php-horde-history (>= 2.1.0), php-horde-history (<< 3.0.0~alpha1), php-horde-icalendar (>= 2.0.0), php-horde-icalendar (<< 3.0.0~alpha1), php-horde-image (>= 2.0.0), php-horde-image (<< 3.0.0~alpha1), php-horde-lock (>= 2.0.0), php-horde-lock (<< 3.0.0~alpha1), php-horde-logintasks (>= 2.0.0), php-horde-logintasks (<< 3.0.0~alpha1), php-horde-mail (>= 2.0.0), php-horde-mail (<< 3.0.0~alpha1), php-horde-mime (>= 2.0.0), php-horde-mime (<< 3.0.0~alpha1), php-horde-nls (>= 2.0.0), php-horde-nls (<< 3.0.0~alpha1), php-horde-notification (>= 2.0.0), php-horde-notification (<< 3.0.0~alpha1), php-horde-perms (>= 2.0.0), php-horde-perms (<< 3.0.0~alpha1), php-horde-serialize (>= 2.0.0), php-horde-serialize (<< 3.0.0~alpha1), php-horde-share (>= 2.0.0), php-horde-share (<< 3.0.0~alpha1), php-horde-support (>= 2.0.0), php-horde-support (<< 3.0.0~alpha1), php-horde-text-filter (>= 2.0.0), php-horde-text-filter (<< 3.0.0~alpha1), php-horde-timezone (>= 1.0.0), php-horde-timezone (<< 2.0.0~alpha1), php-horde-url (>= 2.0.0), php-horde-url (<< 3.0.0~alpha1), php-horde-util (>= 2.0.0), php-horde-util (<< 3.0.0~alpha1), php-horde-view (>= 2.0.0), php-horde-view (<< 3.0.0~alpha1), php-date, php-json, php-xml
+Recommends: php-horde-nag (>= 4.2.0), php-horde-nag (<< 5.0.0~alpha1), php-horde-timeobjects (>= 2.0.0), php-horde-timeobjects (<< 3.0.0~alpha1), php-horde-activesync (>= 2.4.0), php-horde-activesync (<< 3.0.0~alpha1), php-horde-db (>= 2.0.0), php-horde-db (<< 3.0.0~alpha1), php-horde-openxchange (>= 1.0.0), php-horde-openxchange (<< 2.0.0~alpha1), php-horde-test (>= 2.0.0), php-horde-test (<< 3.0.0~alpha1), php-date-holidays (>= 0.21.0)
+Filename: pool/universe/p/php-horde-kronolith/php-horde-kronolith_4.2.13-1ubuntu1_all.deb
+Size: 1312166
+MD5sum: a06e834a2cbcf833c416489c18b21d78
+SHA1: 2d7bad3eb2c3d270fdc46b9ce73c560bc8b8bf56
+SHA256: 81ec1ea45c6187fba243fc6eb520ffac6b97ce067f652cd7970f23ea34a4dc28
+Description-en: A web based calendar
+ Kronolith is the Horde calendar application. It provides web-based calendars
+ backed by a SQL database or a Kolab server. Supported features include Ajax
+ and mobile interfaces, shared calendars, remote calendars, invitation
+ management (iCalendar/iTip), free/busy management, resource management,
+ alarms, recurring events, and a sophisticated day/week view which handles
+ arbitrary numbers of overlapping events.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 19add30d4e67d55b1a1a35ff1c248125
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

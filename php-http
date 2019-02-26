@@ -1,0 +1,23 @@
+Package: php-http
+Priority: optional
+Section: universe/web
+Installed-Size: 43
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.4.1-2build1
+Depends: php-pear
+Filename: pool/universe/p/php-http/php-http_1.4.1-2build1_all.deb
+Size: 10068
+MD5sum: 311d7f58c9a235aa76ff889470a9e979
+SHA1: e08fffe0cd87b2c806a9887899230df80b0dc046
+SHA256: ff23f0ac08f3be2655bbba188385ff2928177e0d8ee0b42fe8d15c8db8ae36c8
+Description-en: PHP PEAR module for HTTP related stuff
+ The HTTP class is a class with static methods for doing
+ miscellaneous HTTP related stuff like date formatting,
+ language negotiation or HTTP redirection.
+Description-md5: 291fd928d7b2a9f65165fbda49df298f
+Homepage: http://pear.php.net/package/Http
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

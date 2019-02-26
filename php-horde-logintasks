@@ -1,0 +1,26 @@
+Package: php-horde-logintasks
+Priority: extra
+Section: universe/php
+Installed-Size: 316
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.0.6-1ubuntu1
+Depends: php-common, php-horde-translation (>= 2.2.0), php-horde-translation (<< 3.0.0~alpha1)
+Recommends: php-horde-date (>= 2.0.0), php-horde-date (<< 3.0.0~alpha1), php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-logintasks/php-horde-logintasks_2.0.6-1ubuntu1_all.deb
+Size: 28236
+MD5sum: 4fabdd82077f7b15134a662d22edb93c
+SHA1: 172efb85757479d6e99af018f421dd8a12166b15
+SHA256: b285544bf307bc160867c81c9164f3aa624b19550b6d41264876d591b6478acf
+Description-en: Horde Login Tasks System
+ An API for dealing with tasks run upon login to Horde applications.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: ca0c2e95fa6c97f0f6d5be57f713b614
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

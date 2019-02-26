@@ -1,0 +1,27 @@
+Package: php-horde-support
+Priority: extra
+Section: universe/php
+Installed-Size: 131
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.1.5-1ubuntu1
+Depends: php-common, php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-stream-wrapper (>= 2.0.0), php-horde-stream-wrapper (<< 3.0.0~alpha1), php-horde-util (>= 2.0.0), php-horde-util (<< 3.0.0~alpha1)
+Recommends: php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-support/php-horde-support_2.1.5-1ubuntu1_all.deb
+Size: 23850
+MD5sum: 8bd7faab8260f876fd0c85b3a0e68a81
+SHA1: bc7dc7a4b5d59898bfb6f184f768d38261c12f26
+SHA256: 2f94b23358e5f88c91ee8551e10f280833220e7bb27c6a8b6659b516b5948249
+Description-en: Horde support package
+ Support classes not tied to Horde but is used by it. These classes can be used
+ outside of Horde as well.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 6919ffd95129b8712bebdc84441cb7e1
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

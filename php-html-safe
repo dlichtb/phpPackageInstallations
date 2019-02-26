@@ -1,0 +1,33 @@
+Package: php-html-safe
+Priority: extra
+Section: universe/web
+Installed-Size: 42
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 0.10.1-3build1
+Depends: php-common, php-xml-htmlsax3 (>= 3.0.0~RC1)
+Filename: pool/universe/p/php-html-safe/php-html-safe_0.10.1-3build1_all.deb
+Size: 9260
+MD5sum: f595cff9a4912e582e8a618d03c1423d
+SHA1: 6bfe7685af594f689978059749201776891ed75e
+SHA256: 144cdcf0c064431027e95f8eb27a9fe161c52976d7884e5baf967852382c57ad
+Description-en: strip down all potentially dangerous content within HTML
+ This parser strips down all potentially dangerous content within HTML:
+  * opening tag without its closing tag
+  * closing tag without its opening tag
+  * any of these tags: "base", "basefont", "head", "html", "body", "applet",
+    "object", "iframe", "frame", "frameset", "script", "layer", "ilayer",
+    "embed", "bgsound", "link", "meta", "style", "title", "blink", "xml", etc.
+  * any of these attributes: on*, data*, dynsrc
+  * javascript:/vbscript:/about: etc. protocols
+  * expression/behavior etc. in styles
+  * any other active content
+ .
+ It also tries to convert code to XHTML valid, but htmltidy is far better
+ solution for this task.
+Description-md5: 70bfb155f6b1bb9fb2a675fc8311e97c
+Homepage: http://pear.php.net/package/HTML_Safe
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

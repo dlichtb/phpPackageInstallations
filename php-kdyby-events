@@ -1,0 +1,23 @@
+Package: php-kdyby-events
+Priority: optional
+Section: universe/php
+Installed-Size: 112
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 2.4.0-2
+Filename: pool/universe/p/php-kdyby-events/php-kdyby-events_2.4.0-2_all.deb
+Size: 17040
+MD5sum: c0afa7a4700196ddcc9ef462369f4fcf
+SHA1: 350ca198e6d2c65bbf9a0fcc0a2bdb5137a89361
+SHA256: eb408c0de32ea23da6eb181142393a8d2f5324378db18cd18d9177084bf20a0d
+Description-en: Events for Nette Framework
+ Kdyby/Events provides event extensions to the Nette Framework.
+ .
+ They are also compatible with events dispatcher in php-doctrine-common,
+ and can also be used with Doctrine.
+Description-md5: 1763b6db1e5fbdc981f20f7071f88595
+Homepage: https://github.com/Kdyby/Events
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

@@ -1,0 +1,27 @@
+Package: php-horde-notification
+Priority: extra
+Section: universe/php
+Installed-Size: 97
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.0.4-2
+Depends: php-common, php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-util (>= 2.0.0), php-horde-util (<< 3.0.0~alpha1)
+Recommends: php-horde-alarm (>= 2.0.0), php-horde-alarm (<< 3.0.0~alpha1), php-horde-nls (>= 2.0.0), php-horde-nls (<< 3.0.0~alpha1), php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-notification/php-horde-notification_2.0.4-2_all.deb
+Size: 15494
+MD5sum: 6fcaad2408c238ecedcd95b57aff5962
+SHA1: 254b856f010a478453240f9b501df8f2e0827740
+SHA256: 31b871859b60532fdc25086f5031068fed30aeb97693641558db14de4cc25ede
+Description-en: Horde Notification System
+ A library implementing a subject-observer pattern for raising and showing
+ messages of different types and to different listeners.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 5f73db46b4a57ca41c47dbd03f53b94f
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

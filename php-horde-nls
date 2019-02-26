@@ -1,0 +1,27 @@
+Package: php-horde-nls
+Priority: extra
+Section: universe/php
+Installed-Size: 2256
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.1.0-1build1
+Depends: php-common, php-horde-translation (>= 2.2.0), php-horde-translation (<< 3.0.0~alpha1), php-horde-util (>= 2.0.0), php-horde-util (<< 3.0.0~alpha1)
+Recommends: php-net-dns2, php-geoip
+Filename: pool/universe/p/php-horde-nls/php-horde-nls_2.1.0-1build1_all.deb
+Size: 209834
+MD5sum: 75ed3b79f5ea3d9b00eb5ce93894a7c9
+SHA1: 0aeaa7f10057305e753512ca36e1f3a57b3c3b87
+SHA256: 5e5f77ce0304a07784a35e0f362c41d9f0595a0705647d4e54998ee223386ad5
+Description-en: Native Language Support (NLS)
+ Common methods for handling language data, timezones, and hostname->country
+ lookups.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 096c770847bebe8ecbd65807f7229c7d
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

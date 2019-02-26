@@ -1,0 +1,26 @@
+Package: php-horde-text-diff
+Priority: extra
+Section: universe/php
+Installed-Size: 143
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.1.2-1ubuntu1
+Depends: php-common, php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-util (>= 2.0.0), php-horde-util (<< 3.0.0~alpha1)
+Recommends: php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1), php-xdiff
+Filename: pool/universe/p/php-horde-text-diff/php-horde-text-diff_2.1.2-1ubuntu1_all.deb
+Size: 23532
+MD5sum: 2ace0e2a1ce5623f0bb3d0e553486e14
+SHA1: 445ab6fe04f375a4f15909e61a4ba40125ad80be
+SHA256: 861cc9dde19b2ee217687b907897f0e7732d2d9ba782bee311e5e7493078e364
+Description-en: Engine for performing and rendering text diffs
+ A text-based diff engine and renderers for multiple diff output formats.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: da024a8a090722f6d1d1f079c9593cb7
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

@@ -1,0 +1,23 @@
+Package: php-jwt
+Priority: optional
+Section: universe/php
+Installed-Size: 33
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 3.0.0-1build1
+Depends: php-common
+Filename: pool/universe/p/php-jwt/php-jwt_3.0.0-1build1_all.deb
+Size: 6308
+MD5sum: bd30c275d9a45f00cf62611cdc74d1b2
+SHA1: 4e8f9b638f26104ce00df6e5329d297280c3aa9f
+SHA256: a2125fdd379228b1dde752b354779157d91d55c1860d0f134e4e07c7a52fb998
+Description-en: encode and decode JSON Web Tokens (JWT)
+ A simple library to encode and decode JSON Web Tokens (JWT) in PHP. Should
+ conform to the current spec
+ http://tools.ietf.org/html/draft-ietf-oauth-json-web-token-06
+Description-md5: bf0bc4b79535b0504b8d664de55fbfe7
+Homepage: https://github.com/firebase/php-jwt
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

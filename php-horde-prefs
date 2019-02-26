@@ -1,0 +1,28 @@
+Package: php-horde-prefs
+Priority: extra
+Section: universe/php
+Installed-Size: 471
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.7.5-1ubuntu1
+Depends: php-cli, php-common, php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-mail (>= 2.0.0), php-horde-mail (<< 3.0.0~alpha1), php-horde-mime (>= 2.0.0), php-horde-mime (<< 3.0.0~alpha1), php-horde-translation (>= 2.2.0), php-horde-translation (<< 3.0.0~alpha1), php-horde-util (>= 2.0.0), php-horde-util (<< 3.0.0~alpha1), php-json
+Recommends: php-horde-autoloader (>= 2.0.0), php-horde-autoloader (<< 3.0.0~alpha1), php-horde-cache (>= 2.0.0), php-horde-cache (<< 3.0.0~alpha1), php-horde-db (>= 2.2.0), php-horde-db (<< 3.0.0~alpha1), php-horde-image (>= 2.0.0), php-horde-image (<< 3.0.0~alpha1), php-horde-imsp (>= 2.0.0), php-horde-imsp (<< 3.0.0~alpha1), php-horde-kolab-storage (>= 2.0.0), php-horde-kolab-storage (<< 3.0.0~alpha1), php-horde-ldap (>= 2.0.0), php-horde-ldap (<< 3.0.0~alpha1), php-horde-mongo (>= 1.0.0), php-horde-mongo (<< 2.0.0~alpha1), php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-prefs/php-horde-prefs_2.7.5-1ubuntu1_all.deb
+Size: 50694
+MD5sum: e37c9c702b92abdd3748a699542c5597
+SHA1: ca79d774fca61ae1d442af3d6fc5277e96dfbdd3
+SHA256: c6dcf52fbc9eecf0d40f56bf5bacdb59d8b2b76957cb1621d8320787095d452f
+Description-en: Horde Preferences API
+ The Horde_Prefs package provides a common abstracted interface into the
+ various preferences storage mediums. It also includes all of the functions for
+ retrieving, storing, and checking preference values.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 6c1e23293e3e2e71144914d22700b7b7
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

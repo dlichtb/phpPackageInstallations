@@ -1,0 +1,28 @@
+Package: php-horde-token
+Priority: extra
+Section: universe/php
+Installed-Size: 343
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.0.8-1ubuntu1
+Depends: php-common, php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-translation (>= 2.2.0), php-horde-translation (<< 3.0.0~alpha1), php-horde-url (>= 2.0.0), php-horde-url (<< 3.0.0~alpha1), php-horde-util (>= 2.0.0), php-horde-util (<< 3.0.0~alpha1)
+Recommends: php-horde-db (>= 2.0.0), php-horde-db (<< 3.0.0~alpha1), php-horde-mongo (>= 1.0.0), php-horde-mongo (<< 2.0.0~alpha1), php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-token/php-horde-token_2.0.8-1ubuntu1_all.deb
+Size: 30598
+MD5sum: d3f08114875b9ff9ae227dbca83269f2
+SHA1: 9185bba5cc7f38f3bcb89d54f1c1ea129124c381
+SHA256: 54320d8d1ecd7cf67a22eac5981cf4fbd895fff5ccf674e67c33884ff8772ecf
+Description-en: Horde Token API
+ The Horde_Token:: class provides a common abstracted interface into the
+ various token generation mediums. It also includes all of the functions for
+ retrieving, storing, and checking tokens.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 28f814ae336958639aa81003004ea02e
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

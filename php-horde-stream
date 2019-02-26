@@ -1,0 +1,28 @@
+Package: php-horde-stream
+Priority: extra
+Section: universe/php
+Installed-Size: 70
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 1.6.3-1ubuntu1
+Depends: php-common, php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1)
+Recommends: php-horde-stream-wrapper (>= 2.1.0), php-horde-stream-wrapper (<< 3.0.0~alpha1), php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1), php-horde-util (>= 2.0.0), php-horde-util (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-stream/php-horde-stream_1.6.3-1ubuntu1_all.deb
+Size: 12802
+MD5sum: 035a7619df6ad80b6b6687d80903a175
+SHA1: b3d2c38ff9546d9021bcb081991bcdd8018f6ff6
+SHA256: db0216342198deed535f38eac45d77cdd5c61b23db71cd11e5e124c66361c260
+Description-en: Horde stream handler
+ An object-oriented interface to assist in creating and storing PHP stream
+ resources, and to provide utility methods to access and manipulate the stream
+ contents.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 18a4f72322ac539f5bb312c315b7531a
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

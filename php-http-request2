@@ -1,0 +1,30 @@
+Package: php-http-request2
+Priority: optional
+Section: universe/php
+Installed-Size: 427
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Sascha Girrulat <sascha@girrulat.de>
+Architecture: all
+Version: 2.2.1-2build1
+Depends: php-common, php-net-url2 (>= 2.1.1), php-pear (>= 1.9.2)
+Recommends: php-curl
+Filename: pool/universe/p/php-http-request2/php-http-request2_2.2.1-2build1_all.deb
+Size: 78630
+MD5sum: e63f2761c1421c4d583d1fab6d5ceaca
+SHA1: 4a1e7135f52b14a081947878580530b59bf89555
+SHA256: 693d8a8fc7297d2e1d4568a3d938365eade005694074a5a6a7643a504a79ee49
+Description-en: Provides an easy way to perform HTTP requests
+ PHP5 rewrite of HTTP_Request package (with parts of HTTP_Client). Provides
+ cleaner API and pluggable Adapters:
+  * Socket adapter, based on old HTTP_Request code,
+  * Curl adapter, wraps around PHP's cURL extension,
+  * Mock adapter, to use for testing packages dependent on HTTP_Request2.
+ Supports POST requests with data and file uploads, basic and digest
+ authentication, cookies, managing cookies across requests, proxies, gzip and
+ deflate encodings, redirects, monitoring the request progress with
+ Observers...
+Description-md5: 8f2681e255f2d09f394880debb83d15e
+Homepage: http://pear.php.net/package/HTTP_Request2/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

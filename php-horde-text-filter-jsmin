@@ -1,0 +1,26 @@
+Package: php-horde-text-filter-jsmin
+Priority: extra
+Section: multiverse/php
+Installed-Size: 39
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 1.0.2-2
+Depends: php-common, php-horde-text-filter (>= 2.2.0), php-horde-text-filter (<< 3.0.0~alpha1)
+Filename: pool/multiverse/p/php-horde-text-filter-jsmin/php-horde-text-filter-jsmin_1.0.2-2_all.deb
+Size: 7394
+MD5sum: 9475b40d08a971fb64d9b3e9a220d2bc
+SHA1: da9d88eca7b453710f25f2b0c6e30c754c2b8c1b
+SHA256: 5210cfa271261d128d5b7727a4b48e371e806b3e06f8f5d3aa6076dc744fbad9
+Description-en: Horde Text Filter - Jsmin PHP Driver
+ The JSMin javascript minifier driver for use with the Horde_Text_Filter
+ package.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 4dbc43bfc4c544b7bdeb8deb1214dbfa
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

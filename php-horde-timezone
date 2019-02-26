@@ -1,0 +1,27 @@
+Package: php-horde-timezone
+Priority: extra
+Section: universe/php
+Installed-Size: 72
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 1.0.10-1ubuntu1
+Depends: php-common, php-horde-date (>= 2.0.0), php-horde-date (<< 3.0.0~alpha1), php-horde-icalendar (>= 2.0.0), php-horde-icalendar (<< 3.0.0~alpha1), php-horde-vfs (>= 2.0.0), php-horde-vfs (<< 3.0.0~alpha1)
+Recommends: php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-timezone/php-horde-timezone_1.0.10-1ubuntu1_all.deb
+Size: 13578
+MD5sum: 96ce8173bda86f637f8d225e461185a9
+SHA1: 00c35408fdddf70b540c9eedc983fea6b4e1ad7e
+SHA256: 5e478be721a128960664a313e2d48bb3b502f6ffd6b7cc7cfe3adf681ee3000b
+Description-en: Timezone library
+ Library for parsing timezone databases and generating VTIMEZONE iCalendar
+ components.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: ef1609f930878137d8b12fcf13acdd3d
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

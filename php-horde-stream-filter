@@ -1,0 +1,26 @@
+Package: php-horde-stream-filter
+Priority: extra
+Section: universe/php
+Installed-Size: 48
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.0.4-1ubuntu1
+Depends: php-common
+Recommends: php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-stream-filter/php-horde-stream-filter_2.0.4-1ubuntu1_all.deb
+Size: 8896
+MD5sum: 437a9011e21ba2e491b2f644472bf01f
+SHA1: 27a0a3114aa39c575606144e24476c7e79a8e23e
+SHA256: ff98600058ce9216eecff5a3f7dcb93944ea91d861dd1591b870ad58dc36a70a
+Description-en: Horde Stream filters
+ A collection of various stream filters.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 265a66b1bb70f59f5cfd4fc3fbbbfa80
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

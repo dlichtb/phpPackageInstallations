@@ -1,0 +1,26 @@
+Package: php-horde-kolab-session
+Priority: extra
+Section: universe/php
+Installed-Size: 113
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.0.3-1ubuntu1
+Depends: php-common, php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1)
+Recommends: php-horde-imap-client (>= 2.0.0), php-horde-imap-client (<< 3.0.0~alpha1), php-horde-kolab-server (>= 2.0.0), php-horde-kolab-server (<< 3.0.0~alpha1), php-horde-log (>= 2.0.0), php-horde-log (<< 3.0.0~alpha1), php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-kolab-session/php-horde-kolab-session_2.0.3-1ubuntu1_all.deb
+Size: 14888
+MD5sum: d13482fbdd514797787cc0a40163a4e0
+SHA1: c7dfedcb2b2d1c5275454533c2c10a1ef7c0fe7a
+SHA256: 38d3735e6173ed6cc462216b7499549ac60e121d22e0a499f274ced87108fc70
+Description-en: A package managing an active Kolab session
+ This package stores Kolab specific user data in the session.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: fcafbd2d2ef71d11955b4160a4b3ffb0
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

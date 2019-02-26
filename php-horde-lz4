@@ -1,0 +1,26 @@
+Package: php-horde-lz4
+Priority: extra
+Section: universe/php
+Installed-Size: 51
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: amd64
+Version: 1.0.9-1ubuntu1
+Depends: libc6 (>= 2.14), liblz4-1 (>= 0.0~r114), php-common, phpapi-20151012
+Filename: pool/universe/p/php-horde-lz4/php-horde-lz4_1.0.9-1ubuntu1_amd64.deb
+Size: 11282
+MD5sum: 5bc00074f3252fd316ea762774c526e4
+SHA1: 6dab2c5f312ae23cffa5474bd405ad4579d0addc
+SHA256: 920c040eb6055c4010a04c7df7caa48c2bc9e8d5c151e12b3c22dc9ab29c9670
+Description-en: Horde LZ4 Compression Extension
+ PHP extension that implements the LZ4 compression algorithm - an extremely
+ fast lossless compression algorithm.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 3539f35b6c521853e84ca73b3fb1ec0d
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

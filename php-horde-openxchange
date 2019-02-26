@@ -1,0 +1,25 @@
+Package: php-horde-openxchange
+Priority: extra
+Section: universe/php
+Installed-Size: 56
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 1.0.0-5build1
+Depends: php-common, php-horde-date (>= 2.0.0), php-horde-date (<< 3.0.0~alpha1), php-horde-http (>= 2.0.0), php-horde-http (<< 3.0.0~alpha1), php-horde-perms (>= 2.0.0), php-horde-perms (<< 3.0.0~alpha1), php-horde-url (>= 2.0.0), php-horde-url (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-openxchange/php-horde-openxchange_1.0.0-5build1_all.deb
+Size: 9278
+MD5sum: f3d58d7ffd5f32394f865b2d61b191b6
+SHA1: f8fcc3f4c781fd15a0610caaeaf53c9fceccc491
+SHA256: 0127274413f16b4eb1a53329064365238d252e3e4cd86b6708762af94a22687f
+Description-en: Open-Xchange Connector
+ Library to interact with Open-Xchange servers.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 2a8f8e3b075012bdaf74e02abcfad7e1
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

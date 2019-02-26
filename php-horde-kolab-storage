@@ -1,0 +1,28 @@
+Package: php-horde-kolab-storage
+Priority: extra
+Section: universe/php
+Installed-Size: 1266
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.2.1-1ubuntu1
+Depends: php-common, php-horde-cache (>= 2.0.0), php-horde-cache (<< 3.0.0~alpha1), php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-kolab-format (>= 2.0.0), php-horde-kolab-format (<< 3.0.0~alpha1), php-horde-mime (>= 2.0.0), php-horde-mime (<< 3.0.0~alpha1), php-horde-translation (>= 2.2.0), php-horde-translation (<< 3.0.0~alpha1), php-horde-support (>= 2.0.0), php-horde-support (<< 3.0.0~alpha1), php-horde-util (>= 2.0.0), php-horde-util (<< 3.0.0~alpha1)
+Recommends: php-horde-imap-client (>= 2.14.0), php-horde-imap-client (<< 3.0.0~alpha1), php-horde-history (>= 2.0.0), php-horde-history (<< 3.0.0~alpha1), php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1), php-http-request, php-net-imap (>= 1.1.0), php-imap
+Filename: pool/universe/p/php-horde-kolab-storage/php-horde-kolab-storage_2.2.1-1ubuntu1_all.deb
+Size: 124660
+MD5sum: 20f29412f1b997f56bf31462c12da568
+SHA1: 4bc2cc68e08e5eff432e216b019c78fad5d9a75b
+SHA256: eb582607c3c14deb3808e75c1419d21ecc2b64df4f2f08d5deb706a8e6766043
+Description-en: A package for handling Kolab data stored on an IMAP server
+ Storing user data in an IMAP account belonging to the user is one of the Kolab
+ server core concepts. This package provides all the necessary means to deal
+ with this type of data storage effectively.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 144cb8d8653b2f578b890a9c642ca4a1
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

@@ -1,0 +1,26 @@
+Package: php-horde-lock
+Priority: extra
+Section: universe/php
+Installed-Size: 73
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.1.2-1ubuntu1
+Depends: php-common, php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-support (>= 2.0.0), php-horde-support (<< 3.0.0~alpha1)
+Recommends: php-horde-db (>= 2.0.0), php-horde-db (<< 3.0.0~alpha1), php-horde-log (>= 2.0.0), php-horde-log (<< 3.0.0~alpha1), php-horde-mongo (>= 1.0.0), php-horde-mongo (<< 2.0.0~alpha1)
+Filename: pool/universe/p/php-horde-lock/php-horde-lock_2.1.2-1ubuntu1_all.deb
+Size: 12516
+MD5sum: aaf16d778306771fbbc8a9f72ad6a3ff
+SHA1: 35f2801ccf491bf273bb93191d2f27e22cca1a6a
+SHA256: 5ab90ceb28a1cd0d7355224a56eba02aa713ed91f08f43abe084d01f13b850df
+Description-en: Horde Resource Locking System
+ The Horde resource locking system.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: e26054641d22200faca9a1a2cce00b17
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

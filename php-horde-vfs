@@ -1,0 +1,36 @@
+Package: php-horde-vfs
+Priority: extra
+Section: universe/php
+Installed-Size: 564
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.3.1-1ubuntu1
+Depends: php-cli, php-common, php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-translation (>= 2.2.0), php-horde-translation (<< 3.0.0~alpha1), php-horde-util (>= 2.0.0), php-horde-util (<< 3.0.0~alpha1)
+Recommends: php-horde-auth (>= 2.0.0), php-horde-auth (<< 3.0.0~alpha1), php-horde-core (>= 2.0.0), php-horde-core (<< 3.0.0~alpha1), php-horde-db (>= 2.2.0), php-horde-db (<< 3.0.0~alpha1), php-horde-kolab-session (>= 2.0.0), php-horde-kolab-session (<< 3.0.0~alpha1), php-horde-mime (>= 2.0.0), php-horde-mime (<< 3.0.0~alpha1), php-horde-perms (>= 2.0.0), php-horde-perms (<< 3.0.0~alpha1), php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1), php-ssh2 (>= 0.12)
+Filename: pool/universe/p/php-horde-vfs/php-horde-vfs_2.3.1-1ubuntu1_all.deb
+Size: 60350
+MD5sum: 8eb06db3d3113626e90c630e5fe9c722
+SHA1: b2308c437811b27b37a30d9aa4b22412e1b23e8a
+SHA256: d095f55b4b0b0d5c089b9ff5235e1a3fcbc3cd502b2e783df047db036d145e93
+Description-en: Virtual File System API
+ A Virtual File System API, with backends for:
+ .
+  * SQL
+  * FTP
+  * Local filesystems
+  * Hybrid SQL and filesystem
+  * Samba
+  * SSH2/SFTP
+  * MongoDB
+ .
+ Reading, writing and listing of files are all supported.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 6b3e80e2616e5fa293ae79e12064be87
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

@@ -1,0 +1,56 @@
+Package: php-intl
+Architecture: all
+Version: 1:7.0+35ubuntu6.1
+Priority: optional
+Section: universe/php
+Source: php-defaults (35ubuntu6.1)
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 11
+Depends: php-common, php7.0-intl
+Filename: pool/universe/p/php-defaults/php-intl_7.0+35ubuntu6.1_all.deb
+Size: 1934
+MD5sum: a5a1be97ab73de25411194314d6e12d2
+SHA1: 5ec7a754d7264b598a9a316202eff445025da19e
+SHA256: 12bb046bc96dc501370a18e4d80b2b7c39f910b758baaf257f20ad863b1b2af7
+Description-en: Internationalisation module for PHP [default]
+ This package provides a Internationalisation module for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+ .
+ This package is a dependency package, which depends on Debian's default
+ PHP version (currently 7.0).
+Description-md5: 6970832edfe0e221b006ab2fca43427d
+
+Package: php-intl
+Priority: optional
+Section: universe/php
+Installed-Size: 11
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Architecture: all
+Source: php-defaults (35ubuntu6)
+Version: 1:7.0+35ubuntu6
+Depends: php-common, php7.0-intl
+Filename: pool/universe/p/php-defaults/php-intl_7.0+35ubuntu6_all.deb
+Size: 1936
+MD5sum: e5a609bbde5e13f85bd3d8ae9487a353
+SHA1: 5768af5e320a00e93f102945d7e32bb4e22b739d
+SHA256: d2d5c0cce4ba4b785448b7bc02453320e8b674d5fb713f541a226509aadc1be1
+Description-en: Internationalisation module for PHP [default]
+ This package provides a Internationalisation module for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+ .
+ This package is a dependency package, which depends on Debian's default
+ PHP version (currently 7.0).
+Description-md5: 6970832edfe0e221b006ab2fca43427d
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

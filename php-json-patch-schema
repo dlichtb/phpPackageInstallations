@@ -1,0 +1,29 @@
+Package: php-json-schema
+Priority: optional
+Section: universe/php
+Installed-Size: 129
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.6.1-1build1
+Depends: php-cli, php-common
+Filename: pool/universe/p/php-json-schema/php-json-schema_1.6.1-1build1_all.deb
+Size: 21134
+MD5sum: a9b50f0eac886e62f152b9eff2981ef9
+SHA1: 3af09ab052a3aea60443d67748fd9b833f31f346
+SHA256: edcab69fbee5f299ec83b1cae57fd15803eb93f54f88edf92b84ff4bbef206b8
+Description-en: implementation of JSON schema
+ JSON Schema defines the media type "application/schema+json", a JSON
+ based format for defining the structure of JSON data. JSON Schema
+ provides a contract for what JSON data is required for a given
+ application and how to interact with it. JSON Schema is intended to
+ define validation, documentation, hyperlink navigation, and interaction
+ control of JSON data.
+ .
+ This package provides a PHP library for validating JSON Structures
+ against a given Schema.
+Description-md5: 68ab844afeb3e68d916f8151290246a4
+Homepage: https://github.com/justinrainbow/json-schema
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

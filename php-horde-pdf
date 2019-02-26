@@ -1,0 +1,26 @@
+Package: php-horde-pdf
+Priority: extra
+Section: universe/php
+Installed-Size: 237
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.0.7-1ubuntu1
+Depends: php-common, php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-util (>= 2.0.0), php-horde-util (<< 3.0.0~alpha1)
+Recommends: php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-pdf/php-horde-pdf_2.0.7-1ubuntu1_all.deb
+Size: 31072
+MD5sum: 14d46b8b1dd22ccc89d57545683e70a4
+SHA1: ecc18de6f07a27453d796d288ca07cbc57351238
+SHA256: e806fd5d1090c8f2d9aab89cbf56e40c57d2d001bdb4c102a06366e526d30636
+Description-en: Horde PDF library
+ PDF generation using only PHP, without requiring any external libraries.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 82e663fec4b76edf9ec552db121e85e9
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

@@ -1,0 +1,26 @@
+Package: php-horde-serialize
+Priority: extra
+Section: universe/php
+Installed-Size: 53
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.0.5-1ubuntu1
+Depends: php-common, php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-util (>= 2.0.0), php-horde-util (<< 3.0.0~alpha1)
+Recommends: php-horde-imap-client (>= 2.0.0), php-horde-imap-client (<< 3.0.0~alpha1), php-horde-mime (>= 2.0.0), php-horde-mime (<< 3.0.0~alpha1), php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1), php-lzf (>= 1.5.2), php-bz2, php-json, php-xml
+Filename: pool/universe/p/php-horde-serialize/php-horde-serialize_2.0.5-1ubuntu1_all.deb
+Size: 9788
+MD5sum: 0e5fd6652cc98f8505e78c1344ca274f
+SHA1: 9bb371eca8d3e0d4f44b5b047c10779a5075745c
+SHA256: ab77a37a3d77ecc4fb42c9dc58f6a5471e9b085b9bee06b046f943a49d0b397e
+Description-en: Data Encapulation API
+ An interface to various methods of encapsulating data.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 2c790e2638651a6a412810c4eb090a7f
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

@@ -1,0 +1,25 @@
+Package: php-horde-service-facebook
+Priority: extra
+Section: universe/php
+Installed-Size: 395
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.0.8-3build1
+Depends: php-common, php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-http (>= 2.0.0), php-horde-http (<< 3.0.0~alpha1), php-horde-translation (>= 2.2.0), php-horde-translation (<< 3.0.0~alpha1), php-horde-support (>= 2.0.0), php-horde-support (<< 3.0.0~alpha1), php-horde-util (>= 2.0.0), php-horde-util (<< 3.0.0~alpha1), php-json, php-xml
+Filename: pool/universe/p/php-horde-service-facebook/php-horde-service-facebook_2.0.8-3build1_all.deb
+Size: 40158
+MD5sum: 6785fb1afb3d0a9dd11dcc586050fcbd
+SHA1: 37821338346f62e84892434f40c107aa1f3c4571
+SHA256: 593d0d1cb26b1ad40b9014fbe92dec0bd126dfb45b59f3e32b053f3c3aa98c45
+Description-en: Horde Facebook client
+ Client libraries for the Facebook REST API.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 77c79e8ff90730ec8d7882d4d339557e
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

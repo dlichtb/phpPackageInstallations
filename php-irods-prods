@@ -1,0 +1,28 @@
+Package: php-irods-prods
+Priority: optional
+Section: universe/php
+Installed-Size: 349
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Source: php-irods
+Version: 3.3.0~beta1-2ubuntu1
+Depends: php | php-cli
+Filename: pool/universe/p/php-irods/php-irods-prods_3.3.0~beta1-2ubuntu1_all.deb
+Size: 52148
+MD5sum: 0d994185bd1b4585dd1cccc2ed366347
+SHA1: d80195651ff9c1af7997706d4b67af596ee2c8a5
+SHA256: bb708c50e8e7a24127a305ffd3ede1ec65b2793c66d5e890232e22a516a44376
+Description-en: PHP client API for iRODS
+ PRODS is a PHP client API for iRODS (http://www.irods.org). It talks
+ to iRODS server directly via sockets with native iRODS XML protocol.
+ .
+ iRODS, the integrated Rule-Oriented Data-management System, is a
+ community-driven, open source, data grid software solution. It helps
+ researchers, archivists and others manage (organize, share, protect,
+ and preserve) large sets of computer files.
+Description-md5: 2c6cf9a061adea6bea0a2fd7e2d4651f
+Homepage: https://code.renci.org/gf/project/irodsphp/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

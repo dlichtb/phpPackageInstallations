@@ -1,0 +1,26 @@
+Package: php-horde-view
+Priority: extra
+Section: universe/php
+Installed-Size: 190
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.0.6-1ubuntu1
+Depends: php-common, php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-support (>= 2.0.0), php-horde-support (<< 3.0.0~alpha1), php-horde-util (>= 2.0.0), php-horde-util (<< 3.0.0~alpha1)
+Recommends: php-horde-controller (>= 2.0.0), php-horde-controller (<< 3.0.0~alpha1), php-horde-routes (>= 2.0.0), php-horde-routes (<< 3.0.0~alpha1), php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1), php-json
+Filename: pool/universe/p/php-horde-view/php-horde-view_2.0.6-1ubuntu1_all.deb
+Size: 32508
+MD5sum: 0406d1e4b8b57349167852527ced3fcf
+SHA1: fb83dc4b25a65d0b2c5e7e14e529c4fa4033556c
+SHA256: 1412bcd3c4f9a14325272bde5ab717ca4bf97d426ecb87d6286c5c676c2e0ae0
+Description-en: Horde View API
+ A simple View pattern implementation.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 30975401582aa9a78193af520ee1ebde
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

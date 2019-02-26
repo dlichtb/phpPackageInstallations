@@ -1,0 +1,27 @@
+Package: php-horde-sessionhandler
+Priority: extra
+Section: universe/php
+Installed-Size: 121
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.2.7-1ubuntu1
+Depends: php-common, php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-support (>= 2.0.0), php-horde-support (<< 3.0.0~alpha1)
+Recommends: php-horde-db (>= 2.2.0), php-horde-db (<< 3.0.0~alpha1), php-horde-hashtable (>= 1.1.0), php-horde-hashtable (<< 2.0.0~alpha1), php-horde-log (>= 2.0.0), php-horde-log (<< 3.0.0~alpha1), php-horde-mongo (>= 1.0.0), php-horde-mongo (<< 2.0.0~alpha1), php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-sessionhandler/php-horde-sessionhandler_2.2.7-1ubuntu1_all.deb
+Size: 19664
+MD5sum: cf4a89d7ddd0af1276b7d2e3c6270885
+SHA1: 45b2edf6b5d361be9d236425072cf5d6a1be7b65
+SHA256: 45100df417fd9051451416919994bc345d1cd7f13f1a3ce07edaaae2834d62cc
+Description-en: Horde Session Handler API
+ Horde_SessionHandler defines an API for implementing custom session handlers
+ for PHP.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: bf936a3eceb601d782d4d56fdc9f3ef9
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

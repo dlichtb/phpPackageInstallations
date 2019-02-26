@@ -1,0 +1,24 @@
+Package: php-jmespath
+Priority: optional
+Section: universe/php
+Installed-Size: 109
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Source: jmespath.php
+Version: 2.3.0-1build1
+Depends: php-cli, php-common
+Filename: pool/universe/j/jmespath.php/php-jmespath_2.3.0-1build1_all.deb
+Size: 19970
+MD5sum: d1e71215a400b25e0135b24dc19d6525
+SHA1: bcec5d69b783987d65ef4fe96b467760d1881483
+SHA256: 0f3c17b5518365b8fd14fe3fe6cb6dc64110de50e4572c04fd931126775aff04
+Description-en: Declaratively specify how to extract elements from a JSON document
+ JMESPath (pronounced "jaymz path") allows one to declaratively specify
+ how to extract elements from a JSON document. jmespath.php allows one
+ to use JMESPath in PHP applications with PHP data structures.
+Description-md5: 382fea3a9530adbc3ae769c2341df5e3
+Homepage: http://jmespath.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

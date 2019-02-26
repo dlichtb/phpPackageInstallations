@@ -1,0 +1,54 @@
+Package: php-icinga
+Architecture: all
+Version: 2.1.0-1ubuntu1.2
+Priority: extra
+Section: universe/php
+Source: icingaweb2
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian Nagios Maintainer Group <pkg-nagios-devel@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 1573
+Depends: php, zend-framework
+Recommends: php-mysql | php-mysqlnd | php-pgsql, php-json
+Filename: pool/universe/i/icingaweb2/php-icinga_2.1.0-1ubuntu1.2_all.deb
+Size: 215064
+MD5sum: aee8971973d959500eb2f69449136109
+SHA1: 7faf91bfac7726263ccd320a4c925afbb335b7f1
+SHA256: ef0ed1a185a1b6daebbcea50598b197f52b9f529bbda3225a2cac6e9ac6cce1d
+Homepage: https://www.icinga.org
+Description-en: PHP library to communicate with and use Icinga
+ Icinga is a PHP library providing a PHP API to interact with Icinga's data.
+ .
+ The main dependency here is the Zend Framework.
+ .
+ This library is mainly used by Icinga Web 2 to get its data.
+Description-md5: 1eb0c93403ecfc233a7bbcbc62bd1674
+
+Package: php-icinga
+Priority: extra
+Section: universe/php
+Installed-Size: 1572
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian Nagios Maintainer Group <pkg-nagios-devel@lists.alioth.debian.org>
+Architecture: all
+Source: icingaweb2
+Version: 2.1.0-1ubuntu1
+Depends: php, zend-framework
+Recommends: php-mysql | php-mysqlnd | php-pgsql, php-json
+Filename: pool/universe/i/icingaweb2/php-icinga_2.1.0-1ubuntu1_all.deb
+Size: 214348
+MD5sum: 4c8f4dc2355c0150da7b475c36851c65
+SHA1: a57aec5a9c88d2390eb3e4c426fe7600fdd8b2e9
+SHA256: cb318a19e79f5d49bd1e1e13dfa4f3a57ff9a5370d3556c0b361624caf1c8104
+Description-en: PHP library to communicate with and use Icinga
+ Icinga is a PHP library providing a PHP API to interact with Icinga's data.
+ .
+ The main dependency here is the Zend Framework.
+ .
+ This library is mainly used by Icinga Web 2 to get its data.
+Description-md5: 1eb0c93403ecfc233a7bbcbc62bd1674
+Homepage: https://www.icinga.org
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

@@ -1,0 +1,26 @@
+Package: php-horde-test
+Priority: extra
+Section: universe/php
+Installed-Size: 186
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.6.0+debian0-1build1
+Depends: php-common, php-horde-support (>= 2.0.0), php-horde-support (<< 3.0.0~alpha1), php-horde-util (>= 2.0.0), php-horde-util (<< 3.0.0~alpha1), phpunit (>= 3.7)
+Recommends: php-horde-cli (>= 2.0.0), php-horde-cli (<< 3.0.0~alpha1), php-horde-log (>= 2.0.0), php-horde-log (<< 3.0.0~alpha1), php-xml, php-json
+Filename: pool/universe/p/php-horde-test/php-horde-test_2.6.0+debian0-1build1_all.deb
+Size: 67824
+MD5sum: 2dcb46440a4d651b72dfa819c13b03c5
+SHA1: 1ad36c432e26aed6d93dbbc77c0e2d9b31703028
+SHA256: 160f28926ad73bc95ca2aa3846c745b8392c16a893ccb84a679d9f6161ae131f
+Description-en: Horde testing base classes
+ Horde-specific PHPUnit base classes.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: c10595d186c79bf67f543d8bde83fa2d
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

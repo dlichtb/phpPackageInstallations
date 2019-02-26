@@ -1,0 +1,27 @@
+Package: php-htmlawed
+Priority: extra
+Section: universe/php
+Installed-Size: 295
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Bhuvan Krishna <bhuvan@swecha.net>
+Architecture: all
+Version: 1.1.20-1
+Filename: pool/universe/p/php-htmlawed/php-htmlawed_1.1.20-1_all.deb
+Size: 88762
+MD5sum: 04985bb1526e6fedc4742580940e2e46
+SHA1: 440bcc3a6bd5d33e829842a7e0edff5bebfc0489
+SHA256: f3c48d6b85a4f833580b6aee638ee86ce5132677aab81884839d6d7123a54ff0
+Description-en: htmLawed PHP code to purify & filter HTML
+ htmLawed is a PHP script to process text with HTML markup to make it
+ more compliant with HTML standards and administrative policies. It
+ works by making HTML well-formed with balanced and properly nested
+ tags, neutralizing code that may be used for cross-site scripting
+ (XSS) attacks, allowing only specified HTML tags and attributes, and
+ so on. Such lawing in of HTML in text used in (X)HTML or XML documents
+ ensures that it is in accordance with the aesthetics, safety and
+ usability requirements set by administrators.
+Description-md5: 9fc08222e82006d7e2a383b893b831fd
+Homepage: http://www.bioinformatics.org/phplabware/internal_utilities/htmLawed/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

@@ -1,0 +1,34 @@
+Package: php-kit-pathjoin
+Priority: optional
+Section: universe/php
+Installed-Size: 26
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.1.2-1build1
+Depends: php-common
+Filename: pool/universe/p/php-kit-pathjoin/php-kit-pathjoin_1.1.2-1build1_all.deb
+Size: 7216
+MD5sum: b8216455448f107cd83e1341fd0b62b7
+SHA1: 20b4b5ec803b11243c0835ca79fe7e4e15bc9ce4
+SHA256: 73d900d5ed6f39eada43b04aefd6647d00f7600660450c1d7fc83c19a17594cf
+Description-en: Cross-platform library for normalizing and joining file system paths
+ PathJoin is a PHP library to normalize and join file system paths.
+ The purpose of this library is to make easier to work with file system
+ paths regardless of the platform and the system directory separator.
+ .
+ The purpose of file path normalization is to provide a single and
+ consistent file path representation. In other words, the normalization
+ in this library will resolve “.” and “..” directory references and also
+ condense multiple directory separators into one. This makes it much
+ easier to avoid common problems when comparing paths against each other.
+ .
+ While PHP provides a built in function realpath(), it is not usable in
+ every case since it works by using the file system. This library simply
+ combines and normalizes the paths using string handling. There is no
+ requirement for the files or directories to be readable or even exist.
+Description-md5: d266f617e6f241121fc4a84d7ac02d36
+Homepage: http://kit.riimu.net/#pathjoin
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

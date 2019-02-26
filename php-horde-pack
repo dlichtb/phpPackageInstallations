@@ -1,0 +1,27 @@
+Package: php-horde-pack
+Priority: extra
+Section: universe/php
+Installed-Size: 62
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 1.0.6-1ubuntu1
+Depends: php-common, php-horde-compress-fast (>= 1.0.0), php-horde-compress-fast (<< 2.0.0~alpha1), php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1)
+Recommends: php-horde-test (>= 2.0.0), php-horde-test (<< 3.0.0~alpha1), php-igbinary (>= 1.2.0), php-msgpack, php-json
+Filename: pool/universe/p/php-horde-pack/php-horde-pack_1.0.6-1ubuntu1_all.deb
+Size: 11314
+MD5sum: d2e74daf17c7c258d38c31ffdd7df947
+SHA1: ee1a53641e4a727e95223edd127a1d4b4a9550c0
+SHA256: 28426fe845a6c06318c12e9ba4ab4506d2cc49207be5d3beeb34690ae81a81eb
+Description-en: Horde Pack Utility
+ A replacement for serialize()/json_encode() that will automatically use the
+ most efficient serialization available based on the input.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 74bd2af127000cab84a1f422fb8f0703
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

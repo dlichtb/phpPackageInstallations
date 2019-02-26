@@ -1,0 +1,27 @@
+Package: php-horde-smtp
+Priority: extra
+Section: universe/php
+Installed-Size: 158
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 1.9.2-1ubuntu1
+Depends: php-common, php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-mail (>= 2.0.0), php-horde-mail (<< 3.0.0~alpha1), php-horde-socket-client (>= 2.0.0), php-horde-socket-client (<< 3.0.0~alpha1), php-horde-support (>= 2.0.0), php-horde-support (<< 3.0.0~alpha1), php-horde-translation (>= 2.2.0), php-horde-translation (<< 3.0.0~alpha1), php-horde-util (>= 2.0.0), php-horde-util (<< 3.0.0~alpha1)
+Recommends: php-horde-imap-client (>= 2.0.0), php-horde-imap-client (<< 3.0.0~alpha1), php-horde-secret (>= 2.0.0), php-horde-secret (<< 3.0.0~alpha1), php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-smtp/php-horde-smtp_1.9.2-1ubuntu1_all.deb
+Size: 27372
+MD5sum: fea58a5b39a494b89176f271f56bedb1
+SHA1: 2002cbbb3689f7b418d310c89a9097b6fe423d5b
+SHA256: 77369f6772844f89659fa2802dcaeacb4304e73997a1295d779eac8abacaff8e
+Description-en: Horde SMTP Client
+ Provides interfaces for connecting to a SMTP (RFC 5321) server to send e-mail
+ messages.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 2b55faf3f145e31756d7dbc2647b0ee8
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

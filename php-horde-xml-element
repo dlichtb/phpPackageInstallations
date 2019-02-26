@@ -1,0 +1,29 @@
+Package: php-horde-xml-element
+Priority: extra
+Section: universe/php
+Installed-Size: 62
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.0.4-1ubuntu1
+Depends: php-common, php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-util (>= 2.0.0), php-horde-util (<< 3.0.0~alpha1), php-xml
+Recommends: php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-xml-element/php-horde-xml-element_2.0.4-1ubuntu1_all.deb
+Size: 12664
+MD5sum: f80e2840b24f1fe0cb1bc1a766cfaa78
+SHA1: cb01381872cd05e2529ceaada746a34b1ab8d6da
+SHA256: d121f1297b0b2c805b2cf1bcd4dfbe72e0419607a5df5b60842f43dc03c20e70
+Description-en: Horde Xml Element object
+ An element object that can be used to provide SimpleXML-like functionality
+ over a DOM object. The main advantage over using SimpleXML is the ability to
+ add multiple levels of new elements in a single call, without introducing
+ "ghost" objects.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 940e41bab2e67d4c01e3bf2f76105eea
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

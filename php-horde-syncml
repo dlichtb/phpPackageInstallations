@@ -1,0 +1,26 @@
+Package: php-horde-syncml
+Priority: extra
+Section: universe/php
+Installed-Size: 866
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.0.6-1build1
+Depends: php-common, php-horde-date (>= 2.0.0), php-horde-date (<< 3.0.0~alpha1), php-horde-icalendar (>= 2.0.0), php-horde-icalendar (<< 3.0.0~alpha1), php-horde-log (>= 2.0.0), php-horde-log (<< 3.0.0~alpha1), php-horde-support (>= 2.0.0), php-horde-support (<< 3.0.0~alpha1), php-horde-util (>= 2.0.0), php-horde-util (<< 3.0.0~alpha1), php-horde-xml-wbxml (>= 2.0.0), php-horde-xml-wbxml (<< 3.0.0~alpha1), php-horde-translation (>= 2.2.0), php-horde-translation (<< 3.0.0~alpha1)
+Recommends: php-horde-auth (>= 2.0.0), php-horde-auth (<< 3.0.0~alpha1), php-horde-core (>= 2.0.0), php-horde-core (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-syncml/php-horde-syncml_2.0.6-1build1_all.deb
+Size: 95720
+MD5sum: 2f4adf083112a4ad80c570d06ad76851
+SHA1: 05b72890befc79feacadc1e5f54b8eab43c284aa
+SHA256: cd97753f07b4159b5e9c612da1811aeef91143ab3b585be4ea170e8235c43d4c
+Description-en: Horde_SyncMl provides an API for processing SyncML requests
+ Classes for implementing a SyncML server.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: e885fdfd5e56d26ab3b0d46a845ee51c
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

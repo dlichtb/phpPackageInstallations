@@ -1,0 +1,28 @@
+Package: php-horde-routes
+Priority: extra
+Section: universe/php
+Installed-Size: 148
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.0.5-1ubuntu1
+Depends: php-common, php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-util (>= 2.0.0), php-horde-util (<< 3.0.0~alpha1)
+Recommends: php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-routes/php-horde-routes_2.0.5-1ubuntu1_all.deb
+Size: 37376
+MD5sum: 63f29df6b215bf9e47ab8e61eecf39a1
+SHA1: f318d583d9b31f973eac44469e75711f72d497a1
+SHA256: 525d6bec3c1e19d937d901302cc6c99b4252c21abdf71d7850afe168fcb2cb33
+Description-en: Horde Routes URL mapping system
+ Classes for mapping URLs into the controllers and actions of an MVC system. It
+ is a port of a Python library, Routes, by Ben Bangert
+ (http://routes.groovie.org).
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: d8360ab6b9e921ae329ee717a08b5836
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

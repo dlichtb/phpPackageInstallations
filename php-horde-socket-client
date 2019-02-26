@@ -1,0 +1,25 @@
+Package: php-horde-socket-client
+Priority: extra
+Section: universe/php
+Installed-Size: 39
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.1.0-1build1
+Depends: php-common, php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-socket-client/php-horde-socket-client_2.1.0-1build1_all.deb
+Size: 8494
+MD5sum: 37499022d84c4bfcd9054dd0f34ce9fb
+SHA1: 99623e62c8368a83167494bfdee7f2a2576e358f
+SHA256: ada6e729e64a83c6575ac9c060914e3d72887499d3ae75a1aa6ff433c8e00e48
+Description-en: Horde Socket Client
+ Provides abstract class for use in creating PHP network socket clients.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 0e03001dc40b7485fbac9fd5e0ee1bf4
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

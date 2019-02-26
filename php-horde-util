@@ -1,0 +1,26 @@
+Package: php-horde-util
+Priority: extra
+Section: universe/php
+Installed-Size: 146
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.5.7-1ubuntu1
+Depends: php-common, php-xml
+Recommends: php-horde-imap-client (>= 2.0.0), php-horde-imap-client (<< 3.0.0~alpha1), php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1), php-intl, php-json, php-mbstring
+Filename: pool/universe/p/php-horde-util/php-horde-util_2.5.7-1ubuntu1_all.deb
+Size: 28480
+MD5sum: e384423d94225b8eda8f5ce82e533206
+SHA1: 4e8b47784e1461b77b9902122cf1fa5a0c31c273
+SHA256: 5696483cbf5881765699d48973accf6da493e1ec7144685ff2fcbe199e0d9e77
+Description-en: Horde Utility Libraries
+ These classes provide functionality useful for all kind of applications.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 2878d8a9f1779a55732163466ca73938
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

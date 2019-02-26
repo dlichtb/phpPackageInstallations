@@ -1,0 +1,27 @@
+Package: php-horde-text-filter
+Priority: extra
+Section: universe/php
+Installed-Size: 399
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.3.3-1ubuntu1
+Depends: php-common, php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-idna (>= 1.0.0), php-horde-idna (<< 2.0.0~alpha1), php-horde-util (>= 2.0.0), php-horde-util (<< 3.0.0~alpha1)
+Recommends: php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1), php-horde-text-flowed (>= 2.0.0), php-horde-text-flowed (<< 3.0.0~alpha1), php-horde-translation (>= 2.2.0), php-horde-translation (<< 3.0.0~alpha1), php-tidy
+Suggests: php-horde-text-filter-jsmin
+Filename: pool/universe/p/php-horde-text-filter/php-horde-text-filter_2.3.3-1ubuntu1_all.deb
+Size: 42516
+MD5sum: 3cb6b8f2a895b484115b10df1200050d
+SHA1: ad5e3b624f60c75bac4e27a9ec2123b469370772
+SHA256: 38524678f662ac11dc7d9b60b4a1de6d8e0040117bbbfdc72d66d4ad69322fc4
+Description-en: Horde Text Filter API
+ Common methods for fitering and converting text.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 2a0d15db12753616ff815615285792c2
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

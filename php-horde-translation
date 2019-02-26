@@ -1,0 +1,26 @@
+Package: php-horde-translation
+Priority: extra
+Section: universe/php
+Installed-Size: 67
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.2.1-1ubuntu1
+Depends: php-common
+Recommends: php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-translation/php-horde-translation_2.2.1-1ubuntu1_all.deb
+Size: 10588
+MD5sum: db4db5acb8e198328251b77fbec403f6
+SHA1: ead0640ec74ab369a1055f8adad33a8287f7a908
+SHA256: 60733457348456f0df3818dd87549a86ce2fef42a94379084b7824c972aab067
+Description-en: Horde translation library
+ Translation wrappers.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: ea67deaadb418c5b6075366b6074d0a1
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

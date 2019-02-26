@@ -1,0 +1,26 @@
+Package: php-http-request
+Priority: optional
+Section: universe/web
+Installed-Size: 135
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: PKG-PHP-PEAR team <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.4.4-4
+Depends: php-net-url, php-net-socket
+Pre-Depends: php-pear (>= 5.3)
+Filename: pool/universe/p/php-http-request/php-http-request_1.4.4-4_all.deb
+Size: 27236
+MD5sum: 046013248e4a49ee67f2c1f5321c1bac
+SHA1: 2544904a56fbff86f44a6ae1040abe024c46b2c4
+SHA256: 651944d5eb0883afc5f351bc167ffd0a90417e4c7889b29dc88f170ee7a5bb80
+Description-en: PEAR class to provide an easy way to perform HTTP requests
+ php-http-request is a PEAR class that implements the HTTP protocol, and allows
+ you to perform web queries in a simple way. It supports all the standard forms
+ of HTTP queries like GET, POST, HEAD, TRACE, PUT or DELETE, and also can
+ use the Basic authentication, Proxy, Proxy Authentication, SSL, file uploads,
+ and more etc.
+Description-md5: 4527490a3f3b5f609b6c29c9ceec6bb0
+Homepage: http://pear.php.net/package/HTTP_Request/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

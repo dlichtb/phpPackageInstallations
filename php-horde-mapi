@@ -1,0 +1,52 @@
+Package: php-horde-mapi
+Architecture: all
+Version: 1.0.6-2ubuntu0.1
+Priority: extra
+Section: universe/php
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 55
+Depends: php-common, php-horde-date (>= 2.0.0), php-horde-date (<< 3.0.0~alpha1), php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-seclib (<< 2~)
+Filename: pool/universe/p/php-horde-mapi/php-horde-mapi_1.0.6-2ubuntu0.1_all.deb
+Size: 12378
+MD5sum: 4c15631e4432c11b134f162635fc65f3
+SHA1: 27b7df7f32d5effd3c62a265977f63e9b0157735
+SHA256: cf8388ce25dd21ce357a74fa5df090df69f0bd26ba84ad37affd4025a886ed31
+Homepage: http://www.horde.org/
+Description-en: MAPI utility library
+ Provides various utility classes for dealing with Microsoft MAPI structured
+ data.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 7c63a4319a6ea47ecd35e1214c8ec9ec
+
+Package: php-horde-mapi
+Priority: extra
+Section: universe/php
+Installed-Size: 55
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 1.0.6-2
+Depends: php-common, php-horde-date (>= 2.0.0), php-horde-date (<< 3.0.0~alpha1), php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-seclib (<< 2~)
+Filename: pool/universe/p/php-horde-mapi/php-horde-mapi_1.0.6-2_all.deb
+Size: 12242
+MD5sum: 4d9213b2ae35449670516d47760e7aa0
+SHA1: ebda7c7382d06d2b29525c4074cf5ff4d21ca3d1
+SHA256: 3cf9d40455d043d99481cacf3ca925aec9926d02f0fd01822e2765575c7f791b
+Description-en: MAPI utility library
+ Provides various utility classes for dealing with Microsoft MAPI structured
+ data.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 7c63a4319a6ea47ecd35e1214c8ec9ec
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

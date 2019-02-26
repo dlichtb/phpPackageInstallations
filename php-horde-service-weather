@@ -1,0 +1,27 @@
+Package: php-horde-service-weather
+Priority: extra
+Section: universe/php
+Installed-Size: 773
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.3.2-1ubuntu1
+Depends: php-common, php-horde-date (>= 2.0.0), php-horde-date (<< 3.0.0~alpha1), php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-http (>= 2.0.0), php-horde-http (<< 3.0.0~alpha1), php-horde-translation (>= 2.2.0), php-horde-translation (<< 3.0.0~alpha1), php-horde-url (>= 2.0.0), php-horde-url (<< 3.0.0~alpha1)
+Recommends: php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-service-weather/php-horde-service-weather_2.3.2-1ubuntu1_all.deb
+Size: 172562
+MD5sum: 84e7fdc36aed010daaf341c338a5430f
+SHA1: 12b0c1667fa4477ec27920fdaabba61be4780984
+SHA256: af7a8176dfd165a0f17cdd326f4ffa8a29c8de495eb2dc93d54954131e27049c
+Description-en: Horde Weather Provider
+ Set of classes that provide an abstraction to various online weather service
+ providers. Includes drivers for WeatherUnderground and WorldWeatherOnline.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 7cc5c867154fca9dd211310e63790dc5
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

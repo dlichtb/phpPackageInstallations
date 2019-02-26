@@ -1,0 +1,33 @@
+Package: php-horde-webmail
+Priority: extra
+Section: universe/php
+Installed-Size: 241
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 5.2.12-1build1
+Replaces: horde-bundle
+Provides: horde-bundle, webmail
+Depends: php-cli, php-common, php-horde-content (>= 2.0.5), php-horde-content (<< 3.0.0~alpha1), php-horde-gollem (>= 3.0.6), php-horde-gollem (<< 4.0.0~alpha1), php-horde (>= 5.2.9), php-horde (<< 6.0.0~alpha1), php-horde-imp (>= 6.2.12), php-horde-imp (<< 7.0.0~alpha1), php-horde-ingo (>= 3.2.8), php-horde-ingo (<< 4.0.0~alpha1), php-horde-kronolith (>= 4.2.12), php-horde-kronolith (<< 5.0.0~alpha1), php-horde-mnemo (>= 4.2.9), php-horde-mnemo (<< 5.0.0~alpha1), php-horde-nag (>= 4.2.7), php-horde-nag (<< 5.0.0~alpha1), php-horde-timeobjects (>= 2.1.1), php-horde-timeobjects (<< 3.0.0~alpha1), php-horde-trean (>= 1.1.4), php-horde-trean (<< 2.0.0~alpha1), php-horde-turba (>= 4.2.12), php-horde-turba (<< 5.0.0~alpha1)
+Conflicts: horde-bundle
+Breaks: php-horde-groupware
+Filename: pool/universe/p/php-horde-webmail/php-horde-webmail_5.2.12-1build1_all.deb
+Size: 36376
+MD5sum: 82d30799c20dbfcf165554e2f0c8b260
+SHA1: b0a16306b3e3a7349cf60551ef9a6df72e32cf1d
+SHA256: f68284ce37c0b03dd2cf184dda0c9b806928a974d8430718754d011fadb273f3
+Description-en: Horde Groupware Webmail Edition
+ Horde Groupware Webmail Edition is a free, enterprise ready, browser based
+ communication suite. Users can read, send and organize email messages with
+ three different webmail interfaces and manage and share calendars, contacts,
+ tasks and notes with the standards compliant components from the Horde
+ Project.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: d6577c1ba680e3f5f9450946b43e73ab
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

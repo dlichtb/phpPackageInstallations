@@ -1,0 +1,27 @@
+Package: php-horde-template
+Priority: extra
+Section: universe/php
+Installed-Size: 44
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.0.3-1ubuntu1
+Depends: php-common
+Recommends: php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-template/php-horde-template_2.0.3-1ubuntu1_all.deb
+Size: 9976
+MD5sum: 9ceaab27ce75c7ded6f4b9b3c25fcd21
+SHA1: 0692a32b5cbb5061c91f2e19fae20522aef1e580
+SHA256: 6c30ed3735c6a23915d29f7b1c1bf8faa9a9b60f3e664011bfabad3daae84a48
+Description-en: Horde Template System
+ Horde Template system. Adapted from bTemplate, by Brian Lozier
+ <brian@massassi.net>.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 2bfc5df15bc6f14fd101706cb719b2c0
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

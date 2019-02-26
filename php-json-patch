@@ -1,0 +1,22 @@
+Package: php-json-patch
+Priority: optional
+Section: universe/php
+Installed-Size: 33
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 0.1.0-2build1
+Depends: php-common
+Filename: pool/universe/p/php-json-patch/php-json-patch_0.1.0-2build1_all.deb
+Size: 6624
+MD5sum: e5925558292281ad117f20de829f6c86
+SHA1: b7edc448cacb2fb0bc110ef17b09f1bc5afefa1d
+SHA256: 8eda3c413e7d6a733ec624af15da2be79be1e42af0be8f9b5874a8a6fe587c43
+Description-en: Produce and apply json-patch objects
+ json-patch-php implements IETF JSON-patch (RFC 6902) and
+ JSON-pointer (RFC 6901).
+Description-md5: f133102c84885d5534649a4701021586
+Homepage: https://github.com/mikemccabe/json-patch-php
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

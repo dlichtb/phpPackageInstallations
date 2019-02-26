@@ -1,0 +1,25 @@
+Package: php-igbinary
+Priority: optional
+Section: universe/php
+Installed-Size: 77
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PECL Maintainers <pkg-php-pecl@lists.alioth.debian.org>
+Architecture: amd64
+Version: 1.2.1-10-ge0e66b9+1.2.1-2
+Depends: php-common (>= 1:7.0+33~), phpapi-20151012, libc6 (>= 2.14)
+Filename: pool/universe/p/php-igbinary/php-igbinary_1.2.1-10-ge0e66b9+1.2.1-2_amd64.deb
+Size: 20124
+MD5sum: eb805a62de078288bde8617efcff3b51
+SHA1: 1ac715d9c5012b337ed55782f01e74d33cc2c706
+SHA256: 61326adf8924308e4501e78559d42d63dedb954203e247109856f1023742730c
+Description-en: igbinary PHP serializer
+ Igbinary is a drop in replacement for the standard PHP serializer.
+ Instead of time and space consuming textual representation, igbinary
+ stores PHP data structures in a compact binary form.  Savings are
+ significant when using memcached or similar memory based storages for
+ serialized data.
+Description-md5: e9c521ff0630ca54a4d3fd9765e09ab3
+Homepage: http://pecl.php.net/package/igbinary
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

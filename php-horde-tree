@@ -1,0 +1,26 @@
+Package: php-horde-tree
+Priority: extra
+Section: universe/php
+Installed-Size: 82
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.0.4-3build1
+Depends: php-common, php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-url (>= 2.0.0), php-horde-url (<< 3.0.0~alpha1), php-horde-util (>= 2.0.0), php-horde-util (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-tree/php-horde-tree_2.0.4-3build1_all.deb
+Size: 15220
+MD5sum: 767afdc5280b14f9f202008f905dd006
+SHA1: 380fb3e373f8b14845b6d46900694fa695818f79
+SHA256: 4788d760c7ad11845bd4596a5240ad6c11666f72c4542e1d38633894fc07c008
+Description-en: Horde Tree API
+ A tree view of hierarchical information. It allows for expanding/collapsing of
+ branches and maintains their state.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: e6e0d2932809f7b0381d24d185c3e5ac
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

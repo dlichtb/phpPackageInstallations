@@ -1,0 +1,26 @@
+Package: php-horde-sesha
+Priority: extra
+Section: universe/php
+Installed-Size: 768
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 1.0.0~beta1-11ubuntu1
+Depends: php-cli, php-common, php-horde (>= 5.0.0~beta1), php-horde (<< 6.0.0~alpha1), php-horde-auth (>= 2.0.0~beta1), php-horde-auth (<< 3.0.0~alpha1), php-horde-autoloader (>= 2.0.0~beta1), php-horde-autoloader (<< 3.0.0~alpha1), php-horde-core (>= 2.0.0~beta1), php-horde-core (<< 3.0.0~alpha1), php-horde-db (>= 2.0.0~beta1), php-horde-db (<< 3.0.0~alpha1), php-horde-exception (>= 2.0.0~beta1), php-horde-exception (<< 3.0.0~alpha1), php-horde-form (>= 2.0.0~beta1), php-horde-form (<< 3.0.0~alpha1), php-horde-perms (>= 2.0.0~beta1), php-horde-perms (<< 3.0.0~alpha1), php-horde-prefs (>= 2.0.0~beta1), php-horde-prefs (<< 3.0.0~alpha1), php-horde-rdo (>= 2.0.0~beta1), php-horde-rdo (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-sesha/php-horde-sesha_1.0.0~beta1-11ubuntu1_all.deb
+Size: 151706
+MD5sum: b9eb81dd64c8d5c89cf5d6032fac1b30
+SHA1: 8a53d0f0aedacd13ceef2d2c886c96436354153b
+SHA256: fcd9166d81ce9113cb96c58a75f5b9c3e1ef1b26ba0ab2ba091291221512ce24
+Description-en: A simple Inventory App for Horde
+ Sesha allows you to define categories with a rich set of attributes to manage
+ your inventory stock
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 738381c7ce0c6ba469e3c95352fe8e11
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

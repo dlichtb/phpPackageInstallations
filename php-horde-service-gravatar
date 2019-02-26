@@ -1,0 +1,26 @@
+Package: php-horde-service-gravatar
+Priority: extra
+Section: universe/php
+Installed-Size: 41
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 1.0.1-1ubuntu1
+Depends: php-common, php-horde-http (>= 2.0.0), php-horde-http (<< 3.0.0~alpha1), php-horde-url (>= 2.0.0), php-horde-url (<< 3.0.0~alpha1)
+Recommends: php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-service-gravatar/php-horde-service-gravatar_1.0.1-1ubuntu1_all.deb
+Size: 7978
+MD5sum: c1f1d8452dfd0d74d6140ec66a2632ad
+SHA1: ace894b137972a132f7538d1f0e2c1a63ddda094
+SHA256: ae8148f4fa1f9c160ad59bc25c069f6678522b6bcd5a2e45f1ea894abdd3cfbe
+Description-en: API accessor for gravatar.com
+ A library for accessing the Avatar services at gravatar.com.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: c87731b860161e841798c1b78894484d
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

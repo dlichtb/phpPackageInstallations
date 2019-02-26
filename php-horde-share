@@ -1,0 +1,27 @@
+Package: php-horde-share
+Priority: extra
+Section: universe/php
+Installed-Size: 475
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.0.8-1ubuntu1
+Depends: php-common, php-horde-db (>= 2.0.0), php-horde-db (<< 3.0.0~alpha1), php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-group (>= 2.0.0), php-horde-group (<< 3.0.0~alpha1), php-horde-perms (>= 2.1.0), php-horde-perms (<< 3.0.0~alpha1), php-horde-support (>= 2.0.0), php-horde-support (<< 3.0.0~alpha1), php-horde-translation (>= 2.2.0), php-horde-translation (<< 3.0.0~alpha1), php-horde-url (>= 2.0.0), php-horde-url (<< 3.0.0~alpha1), php-horde-util (>= 2.0.0), php-horde-util (<< 3.0.0~alpha1)
+Recommends: php-horde-kolab-storage (>= 2.0.0), php-horde-kolab-storage (<< 3.0.0~alpha1), php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-share/php-horde-share_2.0.8-1ubuntu1_all.deb
+Size: 47260
+MD5sum: cd65c11f28f54253863b40725ddf4857
+SHA1: 62ae46b98baf5c65b57bb0c3027aac0d511074d6
+SHA256: a468318903b244b353373301d8b48e549071d7b64016a64f691aa529395861f8
+Description-en: Horde Shared Permissions System
+ Horde_Share provides an interface to all shared resources a user
+ owns or has access to.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 2c984b4ed6819a46313bc12cc1c12504
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

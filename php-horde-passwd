@@ -1,0 +1,27 @@
+Package: php-horde-passwd
+Priority: extra
+Section: universe/php
+Installed-Size: 3157
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 5.0.4-1ubuntu1
+Depends: php-common, php-horde (>= 5.0.0), php-horde (<< 6.0.0~alpha1), php-horde-auth (>= 2.0.0), php-horde-auth (<< 3.0.0~alpha1), php-horde-core (>= 2.11.0), php-horde-core (<< 3.0.0~alpha1), php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-injector (>= 2.0.0), php-horde-injector (<< 3.0.0~alpha1), php-horde-util (>= 2.0.0), php-horde-util (<< 3.0.0~alpha1), php-horde-view (>= 2.0.0), php-horde-view (<< 3.0.0~alpha1)
+Recommends: php-horde-db (>= 2.0.0), php-horde-db (<< 3.0.0~alpha1), php-horde-http (>= 2.0.0), php-horde-http (<< 3.0.0~alpha1), php-horde-ldap (>= 2.0.0), php-horde-ldap (<< 3.0.0~alpha1), php-horde-vfs (>= 2.0.0), php-horde-vfs (<< 3.0.0~alpha1), php-crypt-chap, php-ldap, php-soap
+Filename: pool/universe/p/php-horde-passwd/php-horde-passwd_5.0.4-1ubuntu1_all.deb
+Size: 580792
+MD5sum: 19d9c0e42163a4458d7f829dc722846f
+SHA1: 00093b5f021b652952b686c02fc946f38fd318a1
+SHA256: e84303000f58bb3acb8f1cb8627b107b8c3df24d2ae4086373b3761e4bce94d4
+Description-en: Horde password changing application
+ An application to change any user passwords stored in various backends like
+ SQL, LDAP, Kolab, passwd files etc.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 089d31c4a822538a2a2f380a1d9c5a79
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

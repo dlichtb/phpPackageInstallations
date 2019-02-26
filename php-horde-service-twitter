@@ -1,0 +1,25 @@
+Package: php-horde-service-twitter
+Priority: extra
+Section: universe/php
+Installed-Size: 86
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.1.5-3build1
+Depends: php-common, php-horde-controller (>= 2.0.0), php-horde-controller (<< 3.0.0~alpha1), php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-http (>= 2.0.0), php-horde-http (<< 3.0.0~alpha1), php-horde-oauth (>= 2.0.0), php-horde-oauth (<< 3.0.0~alpha1), php-horde-url (>= 2.0.0), php-horde-url (<< 3.0.0~alpha1), php-horde-util (>= 2.0.0), php-horde-util (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-service-twitter/php-horde-service-twitter_2.1.5-3build1_all.deb
+Size: 14246
+MD5sum: 3581026e420008d24f52d2638b850fd5
+SHA1: fe2ccfc3576cc6984a1e1de33e52ecd5c82f3355
+SHA256: 3238f2cb6718f39c9583cccc77b170422d45f88345ecc3a6433f64315451e1bb
+Description-en: Horde Twitter client
+ Client libraries for the Twitter REST API.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 0f7bc91a14df0ed2df666a4d2d85ae26
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

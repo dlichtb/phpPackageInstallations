@@ -1,0 +1,25 @@
+Package: php-horde-scheduler
+Priority: extra
+Section: universe/php
+Installed-Size: 46
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.0.2-3build1
+Depends: php-common, php-horde-core (>= 2.0.0), php-horde-core (<< 3.0.0~alpha1), php-horde-util (>= 2.0.0), php-horde-util (<< 3.0.0~alpha1), php-horde-vfs (>= 2.0.0), php-horde-vfs (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-scheduler/php-horde-scheduler_2.0.2-3build1_all.deb
+Size: 9574
+MD5sum: 36608b6da649dc013c693c0c46b40764
+SHA1: 6b5804be6d7b6ae266a4e0e32aba206f48166b71
+SHA256: 5d70e0f3fca04f62903295f71c51d95adca73b37c4031815abd86085713d7533
+Description-en: Horde Scheduler System
+ Horde Scheduler System
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 6711ab49f56f0bdbde5764a1dcf6ba43
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

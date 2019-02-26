@@ -1,0 +1,26 @@
+Package: php-horde-perms
+Priority: extra
+Section: universe/php
+Installed-Size: 405
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.1.6-1ubuntu1
+Depends: php-common, php-horde-db (>= 2.0.0), php-horde-db (<< 3.0.0~alpha1), php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-group (>= 2.0.0), php-horde-group (<< 3.0.0~alpha1), php-horde-util (>= 2.0.0), php-horde-util (<< 3.0.0~alpha1), php-horde-translation (>= 2.2.0), php-horde-translation (<< 3.0.0~alpha1)
+Recommends: php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1), php-horde-tree (>= 2.0.0), php-horde-tree (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-perms/php-horde-perms_2.1.6-1ubuntu1_all.deb
+Size: 38360
+MD5sum: 5d2382114f8ed3e41752a1356a838a98
+SHA1: bf6ecddde595292da0d07e6ec7bc62321c17ac53
+SHA256: f2b6b337764ca5a75b9ebbcb011cc2ebe59a4299f72c6e0180314cc9ac42b1c8
+Description-en: Horde Permissions System
+ The Perms package provides an interface to the Horde permissions system.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 0021ee4454ac8c1f855101bfd7f5287f
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

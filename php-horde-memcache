@@ -1,0 +1,25 @@
+Package: php-horde-memcache
+Priority: extra
+Section: universe/php
+Installed-Size: 48
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.0.7-3build1
+Depends: php-common, php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-memcache (>= 2.0.0)
+Filename: pool/universe/p/php-horde-memcache/php-horde-memcache_2.0.7-3build1_all.deb
+Size: 10606
+MD5sum: df2be463e546b7a5410b9175ed2a1d4d
+SHA1: 06845ac5553b51dbb294a6e4037d31cd0c0af996
+SHA256: a822bfe869aa3446cd03e6c51749f808b74800304defd69069b05f34f73e2838
+Description-en: Horde Memcache API
+ Provides an API to access a memcache installation.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 427b25e2f2229a252f8611b3863e4132
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

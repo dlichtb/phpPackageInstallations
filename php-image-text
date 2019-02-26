@@ -1,0 +1,31 @@
+Package: php-image-text
+Priority: optional
+Section: universe/web
+Installed-Size: 86
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 0.7.0-1build1
+Depends: php-common, php-gd
+Filename: pool/universe/p/php-image-text/php-image-text_0.7.0-1build1_all.deb
+Size: 22736
+MD5sum: d5d039ef486bf44c1ebadc98bfe2c182
+SHA1: aca3e9adc1269630b961ef4582c27da561b56e73
+SHA256: 14135525ee529e4fec7f197e4923d6f6ecc181b6a0b7e134ea8f1b5a2c7fa514
+Description-en: Image_Text - Advanced text maipulations in images
+ .
+ .
+ Image_Text provides a comfortable interface to
+ text manipulations in GD images. Beside common
+ Freetype2 functionality it offers to handle
+ texts in a graphic- or office-tool like way.
+ For example it allows alignment of texts inside
+ a text box, rotation (around the top left
+ corner of a text box or it's center point) and
+ the automatic measurizement of the optimal font
+ size for a given text box.
+Description-md5: a56ad877c85c22cdff2632f482432ff7
+Homepage: http://pear.php.net/package/Image_Text/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

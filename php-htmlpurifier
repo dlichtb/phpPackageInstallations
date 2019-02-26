@@ -1,0 +1,25 @@
+Package: php-htmlpurifier
+Priority: optional
+Section: universe/web
+Installed-Size: 1477
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 4.7.0-1build1
+Depends: php-common
+Pre-Depends: dpkg (>= 1.17.14)
+Filename: pool/universe/p/php-htmlpurifier/php-htmlpurifier_4.7.0-1build1_all.deb
+Size: 224364
+MD5sum: f1f08ca39fcfa6204a4c4a76c2e72e1e
+SHA1: 86e02ced9391ba9a17d99fb4f16a90e38dc24509
+SHA256: 0987b94c0252e2fb3a328a6d51e1566d2dab2701d7a81168e8915b0c2774e671
+Description-en: Standards-compliant HTML filter
+ HTML Purifier is an HTML filter that will remove all malicious code
+ (better known as XSS) with a thoroughly audited, secure yet permissive
+ whitelist and will also make sure your documents are standards
+ compliant.
+Description-md5: 8d49d698ced12857284b8a09cd5ab39a
+Homepage: http://htmlpurifier.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+
