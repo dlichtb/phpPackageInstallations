@@ -1,0 +1,22 @@
+Package: phpcpd
+Priority: optional
+Section: universe/php
+Installed-Size: 68
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 2.0.2-1build1
+Provides: php-cpd
+Depends: php-symfony-class-loader, php-cli, php-common, php-finder-facade (>= 1.1), php-finder-facade (<< 2~~), phpunit-version (>= 1.0), phpunit-version (<< 2~~), php-symfony-console (>= 2.2), php-symfony-console (<< 3~~), php-timer (>= 1.0), php-timer (<< 2~~), php-fdomdocument (>= 1.4), php-fdomdocument (<< 2~~)
+Filename: pool/universe/p/phpcpd/phpcpd_2.0.2-1build1_all.deb
+Size: 11714
+MD5sum: 32a6dcf7d1f8476a6edb021c3863866f
+SHA1: ecbf1a587c39ded7ad6dab7e1c5336aa3094d549
+SHA256: 7fa2e2c5e44b6d33108ae5891d840b3c73ba25eac53e2a65df8c3f0eb475458f
+Description-en: copy and paste detector (CPD) for PHP code
+ PHPCPD is a tool providing details of duplicated lines inside a PHP project.
+Description-md5: 619209b49c6b524266b242808378f4bd
+Homepage: https://github.com/sebastianbergmann/phpcpd
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

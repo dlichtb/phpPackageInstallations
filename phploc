@@ -1,0 +1,23 @@
+Package: phploc
+Priority: optional
+Section: universe/php
+Installed-Size: 80
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 3.0.0-1build1
+Provides: php-loc
+Depends: php-finder-facade (>= 1.1.0+), php-symfony-console (>= 2.5), php-cli, php-common, php-finder-facade (<< 2~~), phpunit-git (>= 2.0), phpunit-git (<< 3~~), phpunit-version (>= 1.0.3), phpunit-version (<< 1.1~~)
+Filename: pool/universe/p/phploc/phploc_3.0.0-1build1_all.deb
+Size: 14150
+MD5sum: f9088cf2e9c4e4613c536a909021d2b2
+SHA1: c97ef31fb03d0a1f51bffe49790f69095c6782ad
+SHA256: 6078b50ead65f7650264b03fd88f64d67d01a33972f76bdd748f4353b756f6ca
+Description-en: tool for quickly measuring the size of a PHP project
+ PHPLOC is a tool providing detailed analysis of a PHP project, by
+ measuring its code, on quantitative and logical ways.
+Description-md5: e466511258c504bef42864cde2e8cb16
+Homepage: https://github.com/sebastianbergmann/phploc
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

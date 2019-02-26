@@ -1,0 +1,26 @@
+Package: phpmd
+Priority: optional
+Section: universe/php
+Installed-Size: 451
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 2.3.2-1build1
+Provides: php-pmd
+Depends: php-cli, php-common, pdepend (>= 2.0), pdepend (<< 3~~)
+Filename: pool/universe/p/phpmd/phpmd_2.3.2-1build1_all.deb
+Size: 45066
+MD5sum: 9a5a63d09a573046820a7cb6d6813cff
+SHA1: 3e858ed672c5e46a956c001b513528aff0c11d5c
+SHA256: fdfef53bf3d2d61a4fcbe94ffb6788ae8a1c0a8b58664cab474f1acb9ecd1749
+Description-en: PHP Mess Detector
+ PHPMD is a spin-off project of PHP Depend and aims to be a PHP equivalent of
+ the well known Java tool PMD.
+ This project uses PHP Depend to measure several software metrics from
+ given source code, then it compares the calculated values with
+ customizable thresholds and reports all suspect software artifacts.
+Description-md5: ff69a254a4b870ad31c585d013c29127
+Homepage: http://phpmd.org
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

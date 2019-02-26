@@ -1,0 +1,31 @@
+Package: sbnc-php-dev
+Priority: optional
+Section: universe/net
+Installed-Size: 44
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Stefan Bauer (Cubewerk GmbH) <stefan.bauer@cubewerk.de>
+Architecture: all
+Source: sbnc
+Version: 1.3.9-3ubuntu1
+Depends: php
+Recommends: sbnc-tcl
+Filename: pool/universe/s/sbnc/sbnc-php-dev_1.3.9-3ubuntu1_all.deb
+Size: 10478
+MD5sum: ec703462fbbfd22556ca9ae2575ddd85
+SHA1: 4d7d9ebe8e8a9245bbb928ddd3f2cc46f0ca4fd7
+SHA256: 544b4ac502e768ec85b3d5f4510b8d2e20e6d8123414a1c75658d691c7aa2434
+Description-en: IRC proxy for multiple users (PHP classes)
+ shroudBNC (short: sbnc) is an modular IRC proxy for multiple
+ users. Its main features are SSL support for both IRC and client
+ connections, client certificates with passwordless authentication,
+ IPv6 support, asynchronous dns resolving, built-in flood protection
+ and module support.
+ shroudBNC comes with many useful Tcl scripts, but you are able to
+ write your own, too.
+ .
+ This package contains the PHP classes to develope webinterfaces.
+Description-md5: 4110605ccee08f166bfa7f7716e886a4
+Homepage: http://www.shroudbnc.info/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+
