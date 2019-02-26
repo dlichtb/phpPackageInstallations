@@ -1,0 +1,24 @@
+Package: php-doctrine-annotations
+Priority: optional
+Section: universe/php
+Installed-Size: 140
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.2.7-1build1
+Depends: php-doctrine-lexer (>= 1.0.1-2~), php-common, php-doctrine-lexer (<< 2~~)
+Filename: pool/universe/p/php-doctrine-annotations/php-doctrine-annotations_1.2.7-1build1_all.deb
+Size: 19706
+MD5sum: d27f07da8506ed1efdc5aa7f86560820
+SHA1: bcbeeb6a70202c0e6e4c8adc4fb1bf8254987752
+SHA256: 5e31b9696da01402aa961657360c7551f07289bd0a22c26d7fa1e9342433e0ac
+Description-en: Docblock Annotations Parser - Doctrine component
+ This package provides a docblock annotations parser library.
+ .
+ The Doctrine Project provides several libraries primarily focused on
+ database storage and object mapping.
+Description-md5: 4ab7a88038c1309b25020ba359c66ca3
+Homepage: http://www.doctrine-project.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

@@ -1,0 +1,25 @@
+Package: php-doctrine-bundle
+Priority: optional
+Section: universe/php
+Installed-Size: 280
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.6.2-1ubuntu1
+Depends: php-doctrine-dbal (>= 2.4.5), php-symfony-console (>= 2.4), php-symfony-doctrine-bridge (>= 2.4), php-symfony-framework-bundle (>= 2.4), php-common, php-doctrine-dbal (<< 3~~), php-sql-formatter (>= 1.1), php-sql-formatter (<< 2~~), php-doctrine-cache-bundle (>= 1.0), php-doctrine-cache-bundle (<< 2~~)
+Suggests: php-symfony-web-profiler-bundle, php-doctrine-orm
+Filename: pool/universe/p/php-doctrine-bundle/php-doctrine-bundle_1.6.2-1ubuntu1_all.deb
+Size: 46618
+MD5sum: 95fbd0e29b2cc1f60731a8b5e0f34db6
+SHA1: b744e83704d2459ad62c40cb0bf39f6ac061520e
+SHA256: 4ded439538deab9f70028a9d972fcbf125c867622478fc6b4894eec755f1dc4c
+Description-en: bundle library - Doctrine component
+ Symfony DoctrineBundle
+ .
+ The Doctrine Project provides several libraries primarily focused on
+ database storage and object mapping.
+Description-md5: 080d2f4b9eff7934a5def008148de100
+Homepage: https://symfony.com/doc/master/bundles/DoctrineBundle/index.html
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+
