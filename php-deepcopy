@@ -1,0 +1,23 @@
+Package: php-deepcopy
+Priority: optional
+Section: universe/php
+Installed-Size: 92
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.5.0-1build1
+Provides: php-myclabs-deep-copy
+Depends: php-common
+Filename: pool/universe/p/php-deepcopy/php-deepcopy_1.5.0-1build1_all.deb
+Size: 26844
+MD5sum: abac0e35981c173b34e6966c4f9de16d
+SHA1: d542212f5fb439678e2be86713fee10d87dbf97a
+SHA256: 4887c1b556ae02df800f929409d11a37457c337785dc6dbe92798dee0e9d4848
+Description-en: create deep copies (clones) of objects
+ DeepCopy helps you create deep copies (clones) of objects.
+ It is designed to handle cycles in the association graph.
+Description-md5: c59517e8fd726dc0340daf747fc68b14
+Homepage: https://github.com/myclabs/DeepCopy
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

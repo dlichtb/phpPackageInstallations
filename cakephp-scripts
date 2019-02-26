@@ -1,0 +1,26 @@
+Package: cakephp-scripts
+Priority: optional
+Section: universe/web
+Installed-Size: 202
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Dmitry Smirnov <onlyjob@debian.org>
+Architecture: all
+Source: cakephp
+Version: 2.8.0-1
+Depends: cakephp (= 2.8.0-1), php-cli | php5-cli, php-common | php5-common (>= 5.3.0), php-mcrypt | php5-mcrypt
+Filename: pool/universe/c/cakephp/cakephp-scripts_2.8.0-1_all.deb
+Size: 30780
+MD5sum: 313b748ac492942e305282d05e72c695
+SHA1: 10ac9b43fb9d67245d6a5ef2445373afba63988b
+SHA256: cd9be747c9da7ffec5502c52ce564e21e0ccfde906d9b6041e958e040c5446f9
+Description-en_CA: rapid application development framework for PHP (scripts)
+ CakePHP is a flexible model-view-controller rapid application development
+ framework for PHP inspired by Ruby on Rails.
+ .
+ This package contains the bake.php and acl.php scripts for creating (or
+ "baking") CakePHP applications and modifying Access Control Lists.
+Description-md5: 16f6759e20f63fc40537f58bf17919a5
+Homepage: http://www.cakephp.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

@@ -1,0 +1,68 @@
+Package: php7.0-fpm
+Architecture: amd64
+Version: 7.0.30-0ubuntu0.16.04.1
+Priority: optional
+Section: universe/php
+Source: php7.0
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 4357
+Provides: php-fpm, phpapi-20151012
+Depends: libmagic1, mime-support, php7.0-cli, php7.0-common (= 7.0.30-0ubuntu0.16.04.1), php7.0-json, php7.0-opcache, tzdata, ucf, init-system-helpers (>= 1.18~), lsb-base (>= 4.1+Debian11ubuntu7), libapparmor1 (>= 2.7.0~beta1+bzr1772), libc6 (>= 2.15), libpcre3, libssl1.0.0 (>= 1.0.2~beta3), libsystemd0, libxml2 (>= 2.8.0), zlib1g (>= 1:1.1.4)
+Suggests: php-pear
+Conflicts: php5-fpm (<< 5.6.16+dfsg-4~)
+Filename: pool/universe/p/php7.0/php7.0-fpm_7.0.30-0ubuntu0.16.04.1_amd64.deb
+Size: 1288012
+MD5sum: ef93c32efd290be1b985564efcd054c5
+SHA1: 26ff6fab1bff1e725ae3f728b9397e030a284586
+SHA256: 8c3b0b60d55738482a00c487112ee8810bf902f3ba3c10ab1dad4932789e21f8
+Homepage: http://www.php.net/
+Description-en: server-side, HTML-embedded scripting language (FPM-CGI binary)
+ This package provides the Fast Process Manager interpreter that runs
+ as a daemon and receives Fast/CGI requests.  Note that MOST Apache users
+ probably want the libapache2-mod-php7.0 package.
+ .
+ The following extensions are built in: Core date filter hash libxml openssl
+ pcre Reflection session SPL standard zlib.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: aca9a4aafd2a321720e8bf05403438fc
+
+Package: php7.0-fpm
+Priority: optional
+Section: universe/php
+Installed-Size: 4369
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Architecture: amd64
+Source: php7.0
+Version: 7.0.4-7ubuntu2
+Provides: php-fpm, phpapi-20151012
+Depends: libmagic1, mime-support, php7.0-cli, php7.0-common (= 7.0.4-7ubuntu2), php7.0-json, php7.0-opcache, tzdata, ucf, init-system-helpers (>= 1.18~), lsb-base (>= 4.1+Debian11ubuntu7), libapparmor1 (>= 2.7.0~beta1+bzr1772), libc6 (>= 2.15), libpcre3, libssl1.0.0 (>= 1.0.2~beta3), libsystemd0, libxml2 (>= 2.8.0), zlib1g (>= 1:1.1.4)
+Suggests: php-pear
+Conflicts: php5-fpm (<< 5.6.16+dfsg-4~)
+Filename: pool/universe/p/php7.0/php7.0-fpm_7.0.4-7ubuntu2_amd64.deb
+Size: 1282454
+MD5sum: 5b85d4a4ede45ea4f5797c51d1ac8f7a
+SHA1: 3521bcb381f85a57b3b66c19787844ef58edfcb3
+SHA256: 154c836e46cb209307cae019fb7c807201b998796977f13aacc498c82e149dde
+Description-en: server-side, HTML-embedded scripting language (FPM-CGI binary)
+ This package provides the Fast Process Manager interpreter that runs
+ as a daemon and receives Fast/CGI requests.  Note that MOST Apache users
+ probably want the libapache2-mod-php7.0 package.
+ .
+ The following extensions are built in: Core date filter hash libxml openssl
+ pcre Reflection session SPL standard zlib.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: aca9a4aafd2a321720e8bf05403438fc
+Homepage: http://www.php.net/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

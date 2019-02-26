@@ -1,0 +1,56 @@
+Package: php7.0-xmlrpc
+Architecture: amd64
+Version: 7.0.30-0ubuntu0.16.04.1
+Priority: optional
+Section: php
+Source: php7.0
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 59
+Provides: php-xmlrpc
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.30-0ubuntu0.16.04.1), libc6 (>= 2.14), libxmlrpc-epi0
+Filename: pool/main/p/php7.0/php7.0-xmlrpc_7.0.30-0ubuntu0.16.04.1_amd64.deb
+Size: 12666
+MD5sum: 35a6fc856ccf85d6c728b4a8ae0df485
+SHA1: 9329fe92bbb09b24e62b4c26dba73d3e7c45d69c
+SHA256: 4e3f2c7d44e9fbca1e8ffe6c07df3f1d4526d526ce5c32888449b40216cac92c
+Homepage: http://www.php.net/
+Description-en_CA: XMLRPC-EPI module for PHP
+ This package provides the XMLRPC-EPI module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: a0c6fbc21b14a71ad7492a9135234188
+Supported: 5y
+
+Package: php7.0-xmlrpc
+Priority: optional
+Section: php
+Installed-Size: 59
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Architecture: amd64
+Source: php7.0
+Version: 7.0.4-7ubuntu2
+Provides: php-xmlrpc
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.4-7ubuntu2), libc6 (>= 2.14), libxmlrpc-epi0
+Filename: pool/main/p/php7.0/php7.0-xmlrpc_7.0.4-7ubuntu2_amd64.deb
+Size: 12558
+MD5sum: 45cec2531aa38c780b87eff9fe60c0fb
+SHA1: 1260fb73d5e69224da70deea8257156f61f396ee
+SHA256: b8f09c9f42b1c0c7fa20f321699296f15511a3eb4f2a7764d73aa7475578456f
+Description-en_CA: XMLRPC-EPI module for PHP
+ This package provides the XMLRPC-EPI module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: a0c6fbc21b14a71ad7492a9135234188
+Homepage: http://www.php.net/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+Supported: 5y
+

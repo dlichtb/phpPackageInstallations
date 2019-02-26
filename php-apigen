@@ -1,0 +1,26 @@
+Package: php-apigen
+Priority: optional
+Section: universe/php
+Installed-Size: 416
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 4.1.2-1ubuntu2
+Depends: php-fshl (>= 2.1.0-2~), php-tokenreflection (>= 1.4.0-2~), php-cli, php-common, php-nette (>= 2.2), php-nette (<< 3~~), php-fshl (<< 3~~), php-tokenreflection (<< 2~~), php-markdown (>= 1.4), php-markdown (<< 2~~), php-kdyby-events (>= 2.0), php-kdyby-events (<< 3~~), php-symfony-options-resolver (>= 2.6.1), php-symfony-options-resolver (<< 3~~), php-symfony-console (>= 2.6), php-symfony-console (<< 3~~), php-symfony-yaml (>= 2.6), php-symfony-yaml (<< 3~~), php-apigen-theme-default (>= 1.0.1), php-apigen-theme-default (<< 1.1~~), php-apigen-theme-bootstrap (>= 1.1.2), php-apigen-theme-bootstrap (<< 1.2~~)
+Filename: pool/universe/p/php-apigen/php-apigen_4.1.2-1ubuntu2_all.deb
+Size: 49260
+MD5sum: 41d2828f60513dd03a8499c60beeec6d
+SHA1: 2c42e2852e0eeffb28afba613af8de625ca0ff4b
+SHA256: b408604df6d82e40eda5f599729a425bc38c6242a89a9a1df121906ac5866fa8
+Description-en: PHP source code API generator
+ ApiGen is the tool for creating professional API documentation from PHP
+ source code, similar to discontinued phpDocumentor/phpDoc.
+ ApiGen has support for PHP 5.3 namespaces, packages, linking between
+ documentation, cross referencing to PHP standard classes and general
+ documentation, creation of highlighted source code and experimental support
+ for PHP 5.4 traits.
+Description-md5: 3c015ea90706ad22a8fb88d0f78f0763
+Homepage: http://apigen.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

@@ -1,0 +1,56 @@
+Package: php7.0-odbc
+Architecture: amd64
+Version: 7.0.30-0ubuntu0.16.04.1
+Priority: optional
+Section: php
+Source: php7.0
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 123
+Provides: php-odbc, php-pdo-odbc, php7.0-pdo-odbc
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.30-0ubuntu0.16.04.1), libc6 (>= 2.14), libodbc1 (>= 2.3.1)
+Filename: pool/main/p/php7.0/php7.0-odbc_7.0.30-0ubuntu0.16.04.1_amd64.deb
+Size: 30976
+MD5sum: abd8a1317810a6b9781c017cf1d334ed
+SHA1: 75c305b6aacfc5e0265582fe737f3b46b22f15fb
+SHA256: cf6264ce08e1365189e0ec7c4d2c59888b034d5d9cb2fdc19043b204e0208961
+Homepage: http://www.php.net/
+Description-en_CA: ODBC module for PHP
+ This package provides the ODBC module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: be94f53ae2f70ea922c962bebf58357c
+Supported: 5y
+
+Package: php7.0-odbc
+Priority: optional
+Section: php
+Installed-Size: 123
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Architecture: amd64
+Source: php7.0
+Version: 7.0.4-7ubuntu2
+Provides: php-odbc, php-pdo-odbc, php7.0-pdo-odbc
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.4-7ubuntu2), libc6 (>= 2.14), libodbc1 (>= 2.3.1)
+Filename: pool/main/p/php7.0/php7.0-odbc_7.0.4-7ubuntu2_amd64.deb
+Size: 31030
+MD5sum: afc215bf07df029aa214a58a44e1e5c1
+SHA1: 03e8547194d2ec3eab45d87bad9b0b5fae129268
+SHA256: 61b8ae3b20d307e4f7f064319aaf1b77c8d3a5df4a98a58428c776ac4f089907
+Description-en_CA: ODBC module for PHP
+ This package provides the ODBC module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: be94f53ae2f70ea922c962bebf58357c
+Homepage: http://www.php.net/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+Supported: 5y
+

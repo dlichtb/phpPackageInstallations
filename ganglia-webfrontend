@@ -1,0 +1,54 @@
+Package: ganglia-webfrontend
+Architecture: all
+Version: 3.6.1-1ubuntu1.1
+Priority: optional
+Section: universe/net
+Source: ganglia-web
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian Monitoring Maintainers <pkg-monitoring-maintainers@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 12311
+Depends: debconf (>= 0.5), apache | apache-ssl | apache-perl | apache2 | httpd-cgi, libapache2-mod-php | php | php-cgi, php-xml, rrdtool
+Recommends: gmetad, php-gd
+Filename: pool/universe/g/ganglia-web/ganglia-webfrontend_3.6.1-1ubuntu1.1_all.deb
+Size: 1642336
+MD5sum: 3a36cd81dcd6eb8cc6536595b8440b33
+SHA1: d9774401e042c0a481482bb9fdd733fa04152465
+SHA256: 4c5e5eef9b1fcd21820e755aca9f6f133ba2645181e355f6c5eac4ccf48b29c8
+Homepage: http://www.ganglia.info/
+Description-en_CA: cluster monitoring toolkit - web front-end
+ Ganglia is a scalable, real-time cluster monitoring environment that
+ collects cluster statistics in an open and well-defined XML format.
+ .
+ This package contains the PHP-based web front-end, which displays
+ information gathered by 'gmetad'.
+Description-md5: f719aaf51aa7e3a1fb1f45be87114c1c
+
+Package: ganglia-webfrontend
+Priority: optional
+Section: universe/net
+Installed-Size: 12310
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian Monitoring Maintainers <pkg-monitoring-maintainers@lists.alioth.debian.org>
+Architecture: all
+Source: ganglia-web
+Version: 3.6.1-1ubuntu1
+Depends: debconf (>= 0.5), apache | apache-ssl | apache-perl | apache2 | httpd-cgi, php | php-cgi | libapache2-mod-php, rrdtool
+Recommends: gmetad, php-gd
+Filename: pool/universe/g/ganglia-web/ganglia-webfrontend_3.6.1-1ubuntu1_all.deb
+Size: 1644858
+MD5sum: af5809a3f6a45cd496ccd42a46092b91
+SHA1: 12bf3f0a38b8d35c202b632f7a9fd0f75e6f11c2
+SHA256: 325e488dccba90875f451fefe399ee3586d4a2882f6c68a6963bccbc2af9b854
+Description-en_CA: cluster monitoring toolkit - web front-end
+ Ganglia is a scalable, real-time cluster monitoring environment that
+ collects cluster statistics in an open and well-defined XML format.
+ .
+ This package contains the PHP-based web front-end, which displays
+ information gathered by 'gmetad'.
+Description-md5: f719aaf51aa7e3a1fb1f45be87114c1c
+Homepage: http://www.ganglia.info/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

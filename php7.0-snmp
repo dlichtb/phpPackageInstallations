@@ -1,0 +1,56 @@
+Package: php7.0-snmp
+Architecture: amd64
+Version: 7.0.30-0ubuntu0.16.04.1
+Priority: optional
+Section: php
+Source: php7.0
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 83
+Provides: php-snmp
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.30-0ubuntu0.16.04.1), libc6 (>= 2.14), libsnmp30 (>= 5.7.3+dfsg-1ubuntu4~dfsg)
+Filename: pool/main/p/php7.0/php7.0-snmp_7.0.30-0ubuntu0.16.04.1_amd64.deb
+Size: 18908
+MD5sum: a0af7546ca13be943d524c32892c3fb7
+SHA1: 509eaa43b42077b18b1173c5c2796cf2ccbd6d0c
+SHA256: 7ae35df839b306fa18c28d38b763293c8cb251c66c799c5417ccf74b38a4f10f
+Homepage: http://www.php.net/
+Description-en_CA: SNMP module for PHP
+ This package provides the SNMP module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: 3c57e2b4019dc1d5227529c20c30718a
+Supported: 5y
+
+Package: php7.0-snmp
+Priority: optional
+Section: php
+Installed-Size: 83
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Architecture: amd64
+Source: php7.0
+Version: 7.0.4-7ubuntu2
+Provides: php-snmp
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.4-7ubuntu2), libc6 (>= 2.14), libsnmp30 (>= 5.7.3+dfsg-1ubuntu4~dfsg)
+Filename: pool/main/p/php7.0/php7.0-snmp_7.0.4-7ubuntu2_amd64.deb
+Size: 18734
+MD5sum: a42e115d5fccb479fcfcedbed2304fc4
+SHA1: 6a44d7ad240903a3f6f4b4e2010c9dba7f33b45d
+SHA256: 9709940164adf80991e2761f2fe273a50cf4322f661f1669826ce89e37b4ad36
+Description-en_CA: SNMP module for PHP
+ This package provides the SNMP module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: 3c57e2b4019dc1d5227529c20c30718a
+Homepage: http://www.php.net/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+Supported: 5y
+

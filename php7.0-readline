@@ -1,0 +1,58 @@
+Package: php7.0-readline
+Architecture: amd64
+Version: 7.0.30-0ubuntu0.16.04.1
+Priority: optional
+Section: php
+Source: php7.0
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 63
+Provides: php-readline
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.30-0ubuntu0.16.04.1), libc6 (>= 2.14), libedit2 (>= 3.1-20130611)
+Filename: pool/main/p/php7.0/php7.0-readline_7.0.30-0ubuntu0.16.04.1_amd64.deb
+Size: 12814
+MD5sum: 76008a58af697ec6213ec883585fd931
+SHA1: 1b1b39cb2f863fe3135ce51af566ffd43ce58927
+SHA256: f348d548a7336ecbd1d5ab707411d3c7a2c4238d48c89bf2dcb14692fbc0ec6d
+Homepage: http://www.php.net/
+Description-en_CA: readline module for PHP
+ This package provides the readline module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: e79602c7d6a0ebe56dc4c3a28ee1dab8
+Task: lamp-server, mythbuntu-frontend, mythbuntu-desktop, mythbuntu-backend-slave, mythbuntu-backend-master, mythbuntu-backend-master
+Supported: 5y
+
+Package: php7.0-readline
+Priority: optional
+Section: php
+Installed-Size: 63
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Architecture: amd64
+Source: php7.0
+Version: 7.0.4-7ubuntu2
+Provides: php-readline
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.4-7ubuntu2), libc6 (>= 2.14), libedit2 (>= 3.1-20130611)
+Filename: pool/main/p/php7.0/php7.0-readline_7.0.4-7ubuntu2_amd64.deb
+Size: 12842
+MD5sum: 9cbee071c6c3f95b41e95dab69c8375a
+SHA1: 2fb89e6992fc306611d0a8a41dc0f3c6934e890f
+SHA256: c32ad777015773b21b37fcfae9ff984e42b8caabc2da23ee24a2b7935107de18
+Description-en_CA: readline module for PHP
+ This package provides the readline module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: e79602c7d6a0ebe56dc4c3a28ee1dab8
+Homepage: http://www.php.net/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+Supported: 5y
+Task: lamp-server, mythbuntu-frontend, mythbuntu-desktop, mythbuntu-backend-slave, mythbuntu-backend-master, mythbuntu-backend-master
+

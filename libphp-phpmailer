@@ -1,0 +1,37 @@
+Package: libphp-phpmailer
+Priority: optional
+Section: universe/web
+Installed-Size: 622
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 5.2.14+dfsg-1build1
+Depends: php-common
+Suggests: mail-transport-agent, php-league-oauth2-client, php-league-oauth2-google
+Filename: pool/universe/libp/libphp-phpmailer/libphp-phpmailer_5.2.14+dfsg-1build1_all.deb
+Size: 135070
+MD5sum: d568774b348900228d47410abcda1ab9
+SHA1: ee88c499847c3a59f73f95748412d578e7abf8fa
+SHA256: 66af2ba4941f7a9d54a2c7d0a1085c0e37adc88a253654b6fdc6ebbefcab0d12
+Description-en: full featured email transfer class for PHP
+ Many PHP developers utilize email in their code. The only PHP function
+ that supports this is the mail() function. However, it does not provide
+ any assistance for making use of popular features such as HTML-based
+ emails and attachments.
+ .
+ Class Features:
+  - Integrated SMTP support - send without a local mail server
+  - Send emails with multiple TOs, CCs, BCCs and REPLY-TOs
+  - Multipart/alternative emails for mail clients that do not read
+    HTML email
+  - Support for UTF-8 content and 8bit, base64, binary, and
+    quoted-printable encodings
+  - SMTP authentication with LOGIN, PLAIN, NTLM and CRAM-MD5 mechanisms
+    over SSL and TLS transports
+  - Error messages in 47 languages
+  - DKIM and S/MIME signing support
+Description-md5: 18eaabdfa1cab6ca0bca6b9f5d84461c
+Homepage: https://github.com/PHPMailer/PHPMailer
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

@@ -1,0 +1,54 @@
+Package: php7.0-bcmath
+Architecture: amd64
+Version: 7.0.30-0ubuntu0.16.04.1
+Priority: optional
+Section: universe/php
+Source: php7.0
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 63
+Provides: php-bcmath
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.30-0ubuntu0.16.04.1), libc6 (>= 2.14)
+Filename: pool/universe/p/php7.0/php7.0-bcmath_7.0.30-0ubuntu0.16.04.1_amd64.deb
+Size: 15734
+MD5sum: 865812152249c8c8e78966dff5a041a9
+SHA1: 92a4cf1b3fd77ee3318e4602b3e07c1edc044c61
+SHA256: f65a61fad3aeb9138313328fbf01e482affa7dd69705b47b13bc16212ce2a4f8
+Homepage: http://www.php.net/
+Description-en: Bcmath module for PHP
+ This package provides the Bcmath module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: 8f9f425714b203a9b7d1f3678f64c107
+
+Package: php7.0-bcmath
+Priority: optional
+Section: universe/php
+Installed-Size: 63
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Architecture: amd64
+Source: php7.0
+Version: 7.0.4-7ubuntu2
+Provides: php-bcmath
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.4-7ubuntu2), libc6 (>= 2.14)
+Filename: pool/universe/p/php7.0/php7.0-bcmath_7.0.4-7ubuntu2_amd64.deb
+Size: 15482
+MD5sum: 5124f821421d16235169f696896daaaf
+SHA1: 468178b783ec346c7a7f740fd4435e8f17e8d894
+SHA256: 2fe7ce3a5d09369652f06f380e37900da10bfc9710fc02907025f7c937e84a8d
+Description-en: Bcmath module for PHP
+ This package provides the Bcmath module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: 8f9f425714b203a9b7d1f3678f64c107
+Homepage: http://www.php.net/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

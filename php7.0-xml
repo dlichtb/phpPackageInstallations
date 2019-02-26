@@ -1,0 +1,62 @@
+Package: php7.0-xml
+Architecture: amd64
+Version: 7.0.30-0ubuntu0.16.04.1
+Priority: optional
+Section: php
+Source: php7.0
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 468
+Provides: php-dom, php-simplexml, php-wddx, php-xml, php-xmlreader, php-xmlwriter, php-xsl, php7.0-dom, php7.0-simplexml, php7.0-wddx, php7.0-xmlreader, php7.0-xmlwriter, php7.0-xsl
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.30-0ubuntu0.16.04.1), libc6 (>= 2.14), libxml2 (>= 2.9.0), libxslt1.1 (>= 1.1.25)
+Breaks: php7.0-xsl (<< 7.0.3-6~)
+Replaces: php7.0-xsl (<< 7.0.3-6~)
+Filename: pool/main/p/php7.0/php7.0-xml_7.0.30-0ubuntu0.16.04.1_amd64.deb
+Size: 113332
+MD5sum: 5d7f7299f3e8f5f00736409144569f4e
+SHA1: 13724b22b14a522d29b91a3478cd1e7203cc8abf
+SHA256: 8e56fe729a869198dc366c8be36fb9419ea681e2e17959841a4edc60c273e6d5
+Homepage: http://www.php.net/
+Description-en_CA: DOM, SimpleXML, WDDX, XML, and XSL module for PHP
+ This package provides the DOM, SimpleXML, WDDX, XML, and XSL module(s) for
+ PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: 93564c1f85ab0433b7e82cdaf7796976
+Supported: 5y
+
+Package: php7.0-xml
+Priority: optional
+Section: php
+Installed-Size: 468
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Architecture: amd64
+Source: php7.0
+Version: 7.0.4-7ubuntu2
+Replaces: php7.0-xsl (<< 7.0.3-6~)
+Provides: php-dom, php-simplexml, php-wddx, php-xml, php-xmlreader, php-xmlwriter, php-xsl, php7.0-dom, php7.0-simplexml, php7.0-wddx, php7.0-xmlreader, php7.0-xmlwriter, php7.0-xsl
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.4-7ubuntu2), libc6 (>= 2.14), libxml2 (>= 2.9.0), libxslt1.1 (>= 1.1.25)
+Breaks: php7.0-xsl (<< 7.0.3-6~)
+Filename: pool/main/p/php7.0/php7.0-xml_7.0.4-7ubuntu2_amd64.deb
+Size: 112266
+MD5sum: 5269a532e33ccbfa84c3976caac42419
+SHA1: ee62ea5d32d3fcf68ea71a741e7bdee27e3bc24d
+SHA256: 28b7a3153b088510afaab661dcdbebd264bd0d04806d670082df12ae6cd183f4
+Description-en_CA: DOM, SimpleXML, WDDX, XML, and XSL module for PHP
+ This package provides the DOM, SimpleXML, WDDX, XML, and XSL module(s) for
+ PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: 93564c1f85ab0433b7e82cdaf7796976
+Homepage: http://www.php.net/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+Supported: 5y
+

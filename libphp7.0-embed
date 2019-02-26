@@ -1,0 +1,74 @@
+Package: libphp7.0-embed
+Architecture: amd64
+Version: 7.0.30-0ubuntu0.16.04.1
+Priority: optional
+Section: universe/php
+Source: php7.0
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 4174
+Provides: libphp-embed, phpapi-20151012
+Depends: libmagic1, mime-support, php7.0-common (= 7.0.30-0ubuntu0.16.04.1), tzdata, ucf, libc6 (>= 2.15), libpcre3, libssl1.0.0 (>= 1.0.2~beta3), libxml2 (>= 2.8.0), zlib1g (>= 1:1.1.4)
+Suggests: php-pear
+Conflicts: libphp5-embed (<< 5.6.16+dfsg-4~)
+Filename: pool/universe/p/php7.0/libphp7.0-embed_7.0.30-0ubuntu0.16.04.1_amd64.deb
+Size: 1221746
+MD5sum: 6d6b80ffb264adb6bf14b60e63e8e58c
+SHA1: c9e21aa08a2ff102865d81c0edf5e593c2f6a887
+SHA256: 9e7cb1bd28354629987c259a61e031b9a48b40129ea9d2e3a8eca3c2d4f14efc
+Homepage: http://www.php.net/
+Description-en: HTML-embedded scripting language (Embedded SAPI library)
+ This package provides the library /usr/lib/libphp7.0.so which can
+ be used by application developers to embed PHP scripting functionality.
+ .
+ The following extensions are built in: Core date filter hash libxml openssl
+ pcntl pcre Reflection session SPL standard zlib.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+ .
+ WARNING: The embed SAPI is experimental and there's no guarantee that
+ the API/ABI will be kept compatible even between minor releases.  You
+ have been warned.
+Description-md5: 36e972824d22a774161a2307b46da6a3
+
+Package: libphp7.0-embed
+Priority: optional
+Section: universe/php
+Installed-Size: 4186
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Architecture: amd64
+Source: php7.0
+Version: 7.0.4-7ubuntu2
+Provides: libphp-embed, phpapi-20151012
+Depends: libmagic1, mime-support, php7.0-common (= 7.0.4-7ubuntu2), tzdata, ucf, libc6 (>= 2.15), libpcre3, libssl1.0.0 (>= 1.0.2~beta3), libxml2 (>= 2.8.0), zlib1g (>= 1:1.1.4)
+Suggests: php-pear
+Conflicts: libphp5-embed (<< 5.6.16+dfsg-4~)
+Filename: pool/universe/p/php7.0/libphp7.0-embed_7.0.4-7ubuntu2_amd64.deb
+Size: 1216880
+MD5sum: 4c008f8d43abba27f6926de97b601da3
+SHA1: 3eea010b881782f8228b2108400f871b1d26a6fc
+SHA256: 29eccfa416fb3b7a3c3dfeba304eef2c4be4aec020a24643ac453dcf5a8a2d0f
+Description-en: HTML-embedded scripting language (Embedded SAPI library)
+ This package provides the library /usr/lib/libphp7.0.so which can
+ be used by application developers to embed PHP scripting functionality.
+ .
+ The following extensions are built in: Core date filter hash libxml openssl
+ pcntl pcre Reflection session SPL standard zlib.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+ .
+ WARNING: The embed SAPI is experimental and there's no guarantee that
+ the API/ABI will be kept compatible even between minor releases.  You
+ have been warned.
+Description-md5: 36e972824d22a774161a2307b46da6a3
+Homepage: http://www.php.net/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

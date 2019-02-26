@@ -1,0 +1,49 @@
+Package: php-db
+Priority: optional
+Section: universe/web
+Installed-Size: 565
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: PKG-PHP-PEAR team <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.7.14-3build1
+Depends: php-pear
+Filename: pool/universe/p/php-db/php-db_1.7.14-3build1_all.deb
+Size: 71878
+MD5sum: 73d63f1985734bb36553c1fa608e1c87
+SHA1: 3c405f33fe51fedfe042c3655418c896c6796a66
+SHA256: c95961029683fefd2b99574929c656a8cd91b7900bc6667664a5ba905827669f
+Description-en: PHP PEAR Database Abstraction Layer
+ DB is a database abstraction layer providing:
+  * an OO-style query API
+  * portability features that make programs written for one DBMS work
+    with other DBMS's
+  * a DSN (data source name) format for specifying database servers
+  * prepare/execute (bind) emulation for databases that don't support it
+    natively
+  * a result object for each query response
+  * portable error codes
+  * sequence emulation
+  * sequential and non-sequential row fetching as well as bulk fetching
+  * formats fetched rows as associative arrays, ordered arrays or objects
+  * row limit support
+  * transactions support
+  * table information interface
+  * DocBook and phpDocumentor API documentation
+ .
+ DB layers itself on top of PHP's existing database extensions.
+ .
+ Drivers for the following extensions pass the complete test suite and
+ provide interchangeability when all of the database's portability
+ options are enabled:
+  fbsql, ibase, informix, msql, mssql,
+  mysql, mysqli, oci8, odbc, pgsql,
+  sqlite and sybase.
+ .
+ There is also a driver for the dbase extension, but it can't be used
+ interchangeably because dbase doesn't  support many standard DBMS
+ features.
+Description-md5: d989c6bed740ad1a2d5ba39b063fe20c
+Homepage: http://pear.php.net/package/DB
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

@@ -1,0 +1,35 @@
+Package: libcode-tidyall-perl
+Priority: optional
+Section: universe/perl
+Installed-Size: 268
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>
+Architecture: all
+Version: 0.32~dfsg-1
+Depends: libcapture-tiny-perl, libconfig-ini-perl, libtimedate-perl, libfile-slurp-tiny-perl, libfile-zglob-perl, libfile-which-perl, libguard-perl, libipc-run3-perl, libipc-system-simple-perl, liblist-moreutils-perl, liblog-any-perl, libmoo-perl, libtext-diff-perl, libtime-duration-parse-perl, libtry-tiny-perl, perl
+Recommends: libperl-critic-perl, perltidy, libpod-spell-perl, libjson-maybexs-perl
+Filename: pool/universe/libc/libcode-tidyall-perl/libcode-tidyall-perl_0.32~dfsg-1_all.deb
+Size: 110248
+MD5sum: ae8877258612a1507afbea5d5fe3622d
+SHA1: af779633e07fca5e2bdc453faada49ee48c0dc4a
+SHA256: 5a0527e1b3bac13a3fbad619facac6d724056bbe1bbb4ebdc2a3ef9eceb40ed1
+Description-en: your all-in-one code tidier and validator
+ There are a lot of great code tidiers and validators out there. tidyall
+ makes them available from a single unified interface.
+ .
+ You can run tidyall on a single file or on an entire project hierarchy,
+ and configure which tidiers/validators are applied to which files.
+ tidyall will back up files beforehand, and for efficiency will only
+ consider files that have changed since they were last processed.
+ .
+ This package provides commandline tool tidyall and Perl module
+ Code::TidyAll.
+ .
+ Includes hooks for git and subversion, and plugin for php-codesniffer,
+ requiring corresponding packages installed.
+Description-md5: 0d4f423c2b7c5dd75c56afbf9f5d0820
+Enhances: git, subversion
+Homepage: http://metacpan.org/release/Code-TidyAll
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

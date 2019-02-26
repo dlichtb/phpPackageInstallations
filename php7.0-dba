@@ -1,0 +1,27 @@
+Package: php7.0-dba
+Architecture: amd64
+Version: 7.0.30-0ubuntu0.16.04.1
+Priority: optional
+Section: universe/php
+Source: php7.0
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 87
+Provides: php-dba
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.30-0ubuntu0.16.04.1), libc6 (>= 2.14), libdb5.3, libqdbm14 (>= 1.8.74)
+Filename: pool/universe/p/php7.0/php7.0-dba_7.0.30-0ubuntu0.16.04.1_amd64.deb
+Size: 22942
+MD5sum: 4a20231f415e7b7cbc60bdb23b8f3b22
+SHA1: 441feb0305ad53e046181e23f9afe2077f58552e
+SHA256: 6fbf42bbec3fd1a57d72c964800771803d1e92d37bcab7fd720390b0c2ce5a91
+Homepage: http://www.php.net/
+Description-en: DBA module for PHP
+ This package provides the DBA module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: a1c9cd8c67d752f4aaf0ba88ecb360df
+

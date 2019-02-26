@@ -1,0 +1,56 @@
+Package: php-bz2
+Architecture: all
+Version: 1:7.0+35ubuntu6.1
+Priority: optional
+Section: universe/php
+Source: php-defaults (35ubuntu6.1)
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 11
+Depends: php-common, php7.0-bz2
+Filename: pool/universe/p/php-defaults/php-bz2_7.0+35ubuntu6.1_all.deb
+Size: 1926
+MD5sum: a56396217a90692a84553d14669289ad
+SHA1: 3f927559ce9d0d89cad1ce8ef839b046b03b1de8
+SHA256: c0b13e51f45c938f9b35708a8ad727cbecb1e7ee659c8a4e1ddc7f68c3ae6967
+Description-en: bzip2 module for PHP [default]
+ This package provides a bzip2 module for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+ .
+ This package is a dependency package, which depends on Debian's default
+ PHP version (currently 7.0).
+Description-md5: 75a9a721e5078b739984a6df2b3bcb5f
+
+Package: php-bz2
+Priority: optional
+Section: universe/php
+Installed-Size: 11
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Architecture: all
+Source: php-defaults (35ubuntu6)
+Version: 1:7.0+35ubuntu6
+Depends: php-common, php7.0-bz2
+Filename: pool/universe/p/php-defaults/php-bz2_7.0+35ubuntu6_all.deb
+Size: 1930
+MD5sum: 72d308d8eb20ca4d640df68d62063184
+SHA1: f1c0842cc623c8c55d9bcee18051cfe4e9b172cf
+SHA256: 0bd181fb70bcaa3d830d372f4635a5dd750e300faf9d25f113a35f1f0b87afac
+Description-en: bzip2 module for PHP [default]
+ This package provides a bzip2 module for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+ .
+ This package is a dependency package, which depends on Debian's default
+ PHP version (currently 7.0).
+Description-md5: 75a9a721e5078b739984a6df2b3bcb5f
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

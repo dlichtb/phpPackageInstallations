@@ -1,0 +1,23 @@
+Package: libphp-pclzip
+Priority: optional
+Section: universe/web
+Installed-Size: 28
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Source: php-pclzip
+Version: 2.8.2-3ubuntu1
+Depends: php-pclzip
+Pre-Depends: dpkg (>= 1.17.13)
+Filename: pool/universe/p/php-pclzip/libphp-pclzip_2.8.2-3ubuntu1_all.deb
+Size: 2096
+MD5sum: 615ab337dcb1226eead400978be3bce0
+SHA1: 48e9d051e46569794a3f9c5114462b13fb9f11ad
+SHA256: b7507344737f5a3d1278418039062e0a5a5e1d3a02a9720099ed521125f0dec0
+Description-en: transitional dummy package
+ This is a transitional dummy package. It can safely be removed
+Description-md5: e4e14f87843bb41918261139e8dbb6b1
+Homepage: http://www.phpconcept.net/pclzip/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

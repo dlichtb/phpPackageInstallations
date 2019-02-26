@@ -1,0 +1,21 @@
+Package: libphp-swiftmailer
+Priority: optional
+Section: universe/php
+Installed-Size: 11
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Nicolas Roudaire <nikrou77@gmail.com>
+Architecture: all
+Version: 5.4.1-1ubuntu1
+Depends: php-swiftmailer
+Filename: pool/universe/libp/libphp-swiftmailer/libphp-swiftmailer_5.4.1-1ubuntu1_all.deb
+Size: 2138
+MD5sum: d8f677622492a21beeae9e8cd5175735
+SHA1: 5d35fe771ddf22b1bbb0986ed3f346cf125da2cc
+SHA256: fc75f17a78f977d93fb1a2aecc629424f85f8fd3511e7f66148d4461512213da
+Description-en: transitional dummy package
+ This is a transitional dummy package. It can safely be removed.
+Description-md5: 1f317b04f78374dba7d1e14def0b7f80
+Homepage: http://swiftmailer.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

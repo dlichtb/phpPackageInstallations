@@ -1,0 +1,56 @@
+Package: php7.0-pgsql
+Architecture: amd64
+Version: 7.0.30-0ubuntu0.16.04.1
+Priority: optional
+Section: php
+Source: php7.0
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 211
+Provides: php-pdo-pgsql, php-pgsql, php7.0-pdo-pgsql
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.30-0ubuntu0.16.04.1), libc6 (>= 2.14), libpq5 (>= 9.3~)
+Filename: pool/main/p/php7.0/php7.0-pgsql_7.0.30-0ubuntu0.16.04.1_amd64.deb
+Size: 55932
+MD5sum: 58f0124f5e298058036d01319a7e118c
+SHA1: 4afb30f8d3f4784ab0125e066837cc8a39263ac4
+SHA256: b4fca5960fc53bc514af08f1d3312f964f484d7bcdc4219ceb704cd6d6ff6873
+Homepage: http://www.php.net/
+Description-en_CA: PostgreSQL module for PHP
+ This package provides the PostgreSQL module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: e20af8e9fbc873e9bd5a36fc03e72ee6
+Supported: 5y
+
+Package: php7.0-pgsql
+Priority: optional
+Section: php
+Installed-Size: 207
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Architecture: amd64
+Source: php7.0
+Version: 7.0.4-7ubuntu2
+Provides: php-pdo-pgsql, php-pgsql, php7.0-pdo-pgsql
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.4-7ubuntu2), libc6 (>= 2.14), libpq5 (>= 9.3~)
+Filename: pool/main/p/php7.0/php7.0-pgsql_7.0.4-7ubuntu2_amd64.deb
+Size: 55118
+MD5sum: db7c1a71140db7025552c6aa7290fc40
+SHA1: a46e9817f5022a5449c60b73262aeb0ea128a500
+SHA256: 2b8901e025cda852a862ce4106145a3829bfad1e71fc671d25f2aa4367403190
+Description-en_CA: PostgreSQL module for PHP
+ This package provides the PostgreSQL module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: e20af8e9fbc873e9bd5a36fc03e72ee6
+Homepage: http://www.php.net/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+Supported: 5y
+

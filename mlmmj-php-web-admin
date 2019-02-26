@@ -1,0 +1,24 @@
+Package: mlmmj-php-web-admin
+Priority: optional
+Section: universe/mail
+Installed-Size: 114
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: MLMMJ packaging team <pkg-mlmmj-devel@lists.alioth.debian.org>
+Architecture: all
+Source: mlmmj
+Version: 1.2.18.1-1ubuntu1
+Depends: mlmmj, php
+Filename: pool/universe/m/mlmmj/mlmmj-php-web-admin_1.2.18.1-1ubuntu1_all.deb
+Size: 19928
+MD5sum: d2c6e592b6e2e8ead6a43673ae58673b
+SHA1: c70537d2572c4b81288a0884000ace1b9acc6d63
+SHA256: 0eba370c25c46c0ebc6102a43f6d8daf10621309d1f27595fcc0816748a6f0a4
+Description-en: administrative web interface for mlmmj, written in php
+ This web based administrative tool for mlmmj written in php will help you
+ to configure each mailing list individualy, through the web. You will be
+ able with mlmmj-php-web-admin to set each individual tunable of the list.
+Description-md5: 3bc9d42e981c0bcdedbcaa347d22b0cb
+Homepage: http://mlmmj.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

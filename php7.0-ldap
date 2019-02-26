@@ -1,0 +1,56 @@
+Package: php7.0-ldap
+Architecture: amd64
+Version: 7.0.30-0ubuntu0.16.04.1
+Priority: optional
+Section: php
+Source: php7.0
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 91
+Provides: php-ldap
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.30-0ubuntu0.16.04.1), libc6 (>= 2.14), libldap-2.4-2 (>= 2.4.7)
+Filename: pool/main/p/php7.0/php7.0-ldap_7.0.30-0ubuntu0.16.04.1_amd64.deb
+Size: 21214
+MD5sum: 416bf076b843593e61a03fae5e1e0616
+SHA1: 0394614a530c76085b17d772287bf363d658a9a4
+SHA256: 81f4a99a2c9607a4db48c26047cc1e0b691209ddb68a6d65dd42396a2880cccd
+Homepage: http://www.php.net/
+Description-en_CA: LDAP module for PHP
+ This package provides the LDAP module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: 674f8027ec3be9f3e378dd49ab62750a
+Supported: 5y
+
+Package: php7.0-ldap
+Priority: optional
+Section: php
+Installed-Size: 91
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Architecture: amd64
+Source: php7.0
+Version: 7.0.4-7ubuntu2
+Provides: php-ldap
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.4-7ubuntu2), libc6 (>= 2.14), libldap-2.4-2 (>= 2.4.7)
+Filename: pool/main/p/php7.0/php7.0-ldap_7.0.4-7ubuntu2_amd64.deb
+Size: 20970
+MD5sum: c972dfbc463eedaa866b525877a628b1
+SHA1: b016d261f354c542bb2690ae2a0b7565e4ad2ea2
+SHA256: 76916575d23878b68787feccfeb49f25ab4ad002cbe66b1ac3b6ab260c920ce4
+Description-en_CA: LDAP module for PHP
+ This package provides the LDAP module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: 674f8027ec3be9f3e378dd49ab62750a
+Homepage: http://www.php.net/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+Supported: 5y
+

@@ -1,0 +1,22 @@
+Package: php-cli-prompt
+Priority: optional
+Section: universe/php
+Installed-Size: 21
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.0.1+dfsg-1build1
+Depends: php-common
+Filename: pool/universe/p/php-cli-prompt/php-cli-prompt_1.0.1+dfsg-1build1_all.deb
+Size: 4452
+MD5sum: 70054c45766d395935c89d68170b9586
+SHA1: 6834e262c85e29d4c463b61d26774ea457abc585
+SHA256: 800e457b540d14a6d722f2c3c9420a266f637b22139d43b6902a71bcfeb84261
+Description-en: tiny helper prompting for user input
+ Allows you to prompt for user input on the command line, and optionally hide
+ the characters they type.
+Description-md5: fe9431c598222b55091ee693affff994
+Homepage: https://github.com/Seldaek/cli-prompt
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

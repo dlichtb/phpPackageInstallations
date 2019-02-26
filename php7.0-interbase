@@ -1,0 +1,54 @@
+Package: php7.0-interbase
+Architecture: amd64
+Version: 7.0.30-0ubuntu0.16.04.1
+Priority: optional
+Section: universe/php
+Source: php7.0
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 151
+Provides: php-interbase, php-pdo-firebird, php7.0-pdo-firebird
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.30-0ubuntu0.16.04.1), libc6 (>= 2.14), libfbclient2 (>= 2.5.0.25784~ReleaseCandidate1.ds2)
+Filename: pool/universe/p/php7.0/php7.0-interbase_7.0.30-0ubuntu0.16.04.1_amd64.deb
+Size: 40998
+MD5sum: e62f2f8519a89cd1343bb9806de60fc2
+SHA1: 580e71627659312ac859b86d7b23d999bc970c4e
+SHA256: 156e60c04c8294d0fa604340c74b2fd28f35104a34df5061a8a66b3e45f1d332
+Homepage: http://www.php.net/
+Description-en: Interbase module for PHP
+ This package provides the Interbase module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: 40c18d15eeba50ef5700d72e1e45d586
+
+Package: php7.0-interbase
+Priority: optional
+Section: universe/php
+Installed-Size: 151
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Architecture: amd64
+Source: php7.0
+Version: 7.0.4-7ubuntu2
+Provides: php-interbase, php-pdo-firebird, php7.0-pdo-firebird
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.4-7ubuntu2), libc6 (>= 2.14), libfbclient2 (>= 2.5.0.25784~ReleaseCandidate1.ds2)
+Filename: pool/universe/p/php7.0/php7.0-interbase_7.0.4-7ubuntu2_amd64.deb
+Size: 40630
+MD5sum: c77f5f36898cf02a36a930699150764f
+SHA1: f18090217e482d5107ed9dce747a898bfa79f5d2
+SHA256: f802ae14a18256b4a99abab97f17f34ca8379e13a99322220079176e11a3c5c6
+Description-en: Interbase module for PHP
+ This package provides the Interbase module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: 40c18d15eeba50ef5700d72e1e45d586
+Homepage: http://www.php.net/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

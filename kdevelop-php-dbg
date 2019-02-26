@@ -1,0 +1,26 @@
+Package: kdevelop-php-dbg
+Priority: extra
+Section: universe/debug
+Installed-Size: 6263
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Architecture: amd64
+Source: kdevelop-php
+Version: 1.7.3-0ubuntu1
+Depends: kdelibs5-dbg, kdevelop-php (= 1.7.3-0ubuntu1)
+Filename: pool/universe/k/kdevelop-php/kdevelop-php-dbg_1.7.3-0ubuntu1_amd64.deb
+Size: 6042202
+MD5sum: 41bedac8497dc8c4b8ff786bfd18bf99
+SHA1: 2a50857223722b997b24f9e66d6eb52c00f4f029
+SHA256: fd86367f905e16e5845d39186e379b0c008a052e2040fea8b0c88fd90002107e
+Description-en_CA: debugging symbols for the KDevelop PHP plugin
+ This package contains the debugging symbols of the PHP plugin for
+ KDevelop. They will automatically be used by gdb for debugging issues with
+ the PHP plugin.
+Description-md5: c02aa534a61af338505fdb07e5e4bdf3
+Homepage: http://www.kdevelop.org/
+Build-Ids: 0963d6b2fbbc76ba41cef972472681a0e3dc1fed 44826f7c8ef60b7fd979da6c499c55b665729ca7 9a832a0887ab2ff33087a6375a964d2d66965980 9f05a8c92b1db7c4a9f56fc8333fa9724f9b3cdc e21043b723202b6085fbb5f320177512a82f9311
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+Supported: 9m
+

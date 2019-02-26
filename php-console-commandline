@@ -1,0 +1,31 @@
+Package: php-console-commandline
+Priority: optional
+Section: universe/php
+Installed-Size: 261
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.2.0-1build1
+Depends: php-common
+Filename: pool/universe/p/php-console-commandline/php-console-commandline_1.2.0-1build1_all.deb
+Size: 37430
+MD5sum: dcea3b65f99afc72501bf02ab6633086
+SHA1: 76cc37ae716b716456b5be9f57e5d337bbdabdd1
+SHA256: 417bbc5c9633ba1b01b78be13acd5802561db4e508c0b0813ca643a241417daa
+Description-en: A full featured command line options and arguments parser
+ Console_CommandLine is a full featured package for managing command-line
+ options and arguments highly inspired from python optparse module, it allows
+ the developer to easily build complex command line interfaces.
+ .
+ Main features:
+  * handles sub commands (ie. $ myscript.php -q subcommand -f file),
+  * can be completely built from an xml definition file,
+  * generate --help and --version options automatically,
+  * can be completely customized,
+  * builtin support for i18n,
+  * and much more...
+Description-md5: e38d7381d16c8ac07663a29ab3ebadc0
+Homepage: http://pear.php.net/package/Console_CommandLine
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

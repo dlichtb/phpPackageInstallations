@@ -1,0 +1,34 @@
+Package: libphp-magpierss
+Priority: optional
+Section: universe/web
+Installed-Size: 107
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Marcelo Jorge Vieira (metal) <metal@debian.org>
+Architecture: all
+Source: magpierss
+Version: 0.72-10ubuntu1
+Depends: php | php-cli, php-xml, libphp-snoopy
+Filename: pool/universe/m/magpierss/libphp-magpierss_0.72-10ubuntu1_all.deb
+Size: 26390
+MD5sum: 7e85511e039a49d48b1c8e578a8736c5
+SHA1: 1dc8c2b2e81f75f435076d9ee6dc7001b4a2cb9d
+SHA256: 0589608c98aebf2c181e9f711ac0b7507f5eafa773c9e26c45fef62819524a72
+Description-en: provides an XML-based RSS parser in PHP
+ MagpieRSS is an XML-based RSS parser in PHP.  It attempts to be "PHP-like",
+ and simple to use.
+ .
+ Some features include:
+ .
+  * supports RSS 0.9 - 1.0, with limited RSS 2.0 support
+  * supports namespaces, and modules, including mod_content and mod_event
+  * open minded
+  * simple, functional interface, to object oriented backend parser
+  * automatic caching of parsed RSS objects makes its easy to integrate
+  * supports conditional GET with Last-Modified, and ETag
+  * uses constants for easy override of default behaviour
+  * heavily commented
+Description-md5: 428efeb51d467e4eb6772a527c05e362
+Homepage: http://magpierss.sourceforge.net/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

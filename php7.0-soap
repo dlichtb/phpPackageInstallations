@@ -1,0 +1,54 @@
+Package: php7.0-soap
+Architecture: amd64
+Version: 7.0.30-0ubuntu0.16.04.1
+Priority: optional
+Section: universe/php
+Source: php7.0
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 331
+Provides: php-soap
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.30-0ubuntu0.16.04.1), libc6 (>= 2.14), libxml2 (>= 2.7.4)
+Filename: pool/universe/p/php7.0/php7.0-soap_7.0.30-0ubuntu0.16.04.1_amd64.deb
+Size: 112718
+MD5sum: bcb768917b36b0b502ab4edda2e95031
+SHA1: f37a0f4dccbf7f8454c888164016cc8519d69147
+SHA256: c0bba748faa8b96357eb507c55a3a363fa18a6f41a36e15b32f83fa7d7adb56e
+Homepage: http://www.php.net/
+Description-en: SOAP module for PHP
+ This package provides the SOAP module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: 8ca6ca2ae4fbc6127f6522e73f05005a
+
+Package: php7.0-soap
+Priority: optional
+Section: universe/php
+Installed-Size: 327
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Architecture: amd64
+Source: php7.0
+Version: 7.0.4-7ubuntu2
+Provides: php-soap
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.4-7ubuntu2), libc6 (>= 2.14), libxml2 (>= 2.7.4)
+Filename: pool/universe/p/php7.0/php7.0-soap_7.0.4-7ubuntu2_amd64.deb
+Size: 112034
+MD5sum: 9e70e66dbac428ba7ae158aa4169a40e
+SHA1: 7f4a77a512c6022df293ceab701da2412d1bb886
+SHA256: 0668f4800a0e625539a117688f3ad771e1e03102ed0512847cb0020d3196441a
+Description-en: SOAP module for PHP
+ This package provides the SOAP module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: 8ca6ca2ae4fbc6127f6522e73f05005a
+Homepage: http://www.php.net/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

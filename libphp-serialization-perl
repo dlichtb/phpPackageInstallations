@@ -1,0 +1,25 @@
+Package: libphp-serialization-perl
+Priority: optional
+Section: universe/perl
+Installed-Size: 72
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>
+Architecture: all
+Version: 0.34-1
+Depends: perl
+Filename: pool/universe/libp/libphp-serialization-perl/libphp-serialization-perl_0.34-1_all.deb
+Size: 11100
+MD5sum: c7486eea735b661f24d9cb55e9c51bea
+SHA1: c264bd95c4a2403dd2fbd1a523e374fb7fc89722
+SHA256: f70356e51edb605738897fe6c3094714a25ace149fa5de8b873659a3a7077d5f
+Description-en: Perl module to manipulate serialized PHP data structures
+ PHP::Serialization provides a simple means of serializing Perl data structures
+ (including object data) into PHP's serialized data format. It can also process
+ this data as input, in order to read serialized PHP data structures into their
+ Perl equivalents. Numeric arrays are mapped to arrays in Perl and vice-versa.
+ Similarly, arrays which contain string keys are mapped to hashes in Perl.
+Description-md5: 983f3ce722457a28e7f6d86cc3d1f9fd
+Homepage: http://search.cpan.org/dist/PHP-Serialization/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

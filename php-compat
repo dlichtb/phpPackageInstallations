@@ -1,0 +1,23 @@
+Package: php-compat
+Priority: optional
+Section: universe/web
+Installed-Size: 393
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.6.0a3-2build1
+Depends: php-pear
+Filename: pool/universe/p/php-compat/php-compat_1.6.0a3-2build1_all.deb
+Size: 60938
+MD5sum: ed7506de32d10dd1e28e26ea0b8aa9b2
+SHA1: 3dfd106a1324e9ef45c88617f02e6e1970e28e0a
+SHA256: 2223ddced08109849441c368d85f3f5ec5555271eece5895692815bf607f5432
+Description-en: Provides components to achieve PHP version independence
+ PHP_Compat provides drop-in functions and constants for compatibility with
+ newer versions of PHP, environment emulation, and an API to allow for version
+ independent authoring.
+Description-md5: 38359ff00cc87e935724b0727c60ce64
+Homepage: http://pear.php.net/package/PHP_Compat
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

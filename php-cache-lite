@@ -1,0 +1,23 @@
+Package: php-cache-lite
+Priority: optional
+Section: universe/web
+Installed-Size: 112
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.7.16-1ubuntu1
+Depends: php-common, php-pear
+Filename: pool/universe/p/php-cache-lite/php-cache-lite_1.7.16-1ubuntu1_all.deb
+Size: 25820
+MD5sum: 217ad3f674f4966c6bc25777291b1985
+SHA1: 71e2b664b37e3627722020d4dd5764fe148c152f
+SHA256: b8e78c92f1f61cc94262379bca67db34d47ccec5cf11a1572ac014c328b5ebcd
+Description-en: Fast and Safe little cache system
+ This package is a little cache system optimized for file containers. It is
+ fast and safe (because it
+ uses file locking and/or anti-corruption tests).
+Description-md5: 5c40f3008b54a1817fdbef5735fb2c83
+Homepage: http://pear.php.net/package/Cache_Lite/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

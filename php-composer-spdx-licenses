@@ -1,0 +1,26 @@
+Package: php-composer-spdx-licenses
+Priority: optional
+Section: universe/php
+Installed-Size: 52
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.1.2-1build1
+Replaces: composer (<< 1.0.0~alpha11)
+Depends: php-common
+Breaks: composer (<< 1.0.0~alpha11)
+Filename: pool/universe/p/php-composer-spdx-licenses/php-composer-spdx-licenses_1.1.2-1build1_all.deb
+Size: 8960
+MD5sum: 938fc8bcffa483c39533910c39b1e28c
+SHA1: a6389f58de20cb00295c8d132c3a58c0a06167ec
+SHA256: b3172ce4bf9cf4c22f7e4df88283c64d654dbfdf6d1b6b6af5bcd635700fa2e2
+Description-en: SPDX licenses list and validation library
+ This library has been split away from Composer.
+ .
+ Composer helps you declare, manage and install dependencies of PHP projects,
+ ensuring you have the right stack everywhere.
+Description-md5: 30ac3ba3dbf08a6f0b30ddc034e624bb
+Homepage: https://github.com/composer/spdx-licenses
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

@@ -1,0 +1,56 @@
+Package: php7.0-gd
+Architecture: amd64
+Version: 7.0.30-0ubuntu0.16.04.1
+Priority: optional
+Section: php
+Source: php7.0
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 131
+Provides: php-gd
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.30-0ubuntu0.16.04.1), libc6 (>= 2.4), libgd3 (>= 2.1.1), libxpm4
+Filename: pool/main/p/php7.0/php7.0-gd_7.0.30-0ubuntu0.16.04.1_amd64.deb
+Size: 27136
+MD5sum: 99fa6a4d300df8808a393553858047f1
+SHA1: 8ab9d5f1ce3d2ce0cad2f15539969c983691ac4f
+SHA256: fab184acdce82bcc37da011ffe8bb088c43a8ee5d3f50aff5a0a6aee55cfae6e
+Homepage: http://www.php.net/
+Description-en_CA: GD module for PHP
+ This package provides the GD module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: 9aea7ee3b75b09eba5fefd1af9ab26af
+Supported: 5y
+
+Package: php7.0-gd
+Priority: optional
+Section: php
+Installed-Size: 131
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Architecture: amd64
+Source: php7.0
+Version: 7.0.4-7ubuntu2
+Provides: php-gd
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.4-7ubuntu2), libc6 (>= 2.4), libgd3 (>= 2.1.1), libxpm4
+Filename: pool/main/p/php7.0/php7.0-gd_7.0.4-7ubuntu2_amd64.deb
+Size: 27128
+MD5sum: d835a8abb1277bdcb57830e66bb229cf
+SHA1: c60efb76f8b205dce9654ed4664f48ba18fa7e6d
+SHA256: 300bd833b13ffe7d196f0586eb11df8269ce4ef74eed808873d3d0759403b666
+Description-en_CA: GD module for PHP
+ This package provides the GD module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: 9aea7ee3b75b09eba5fefd1af9ab26af
+Homepage: http://www.php.net/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+Supported: 5y
+

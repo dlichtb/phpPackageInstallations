@@ -1,0 +1,56 @@
+Package: php7.0-gmp
+Architecture: amd64
+Version: 7.0.30-0ubuntu0.16.04.1
+Priority: optional
+Section: php
+Source: php7.0
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 95
+Provides: php-gmp
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.30-0ubuntu0.16.04.1), libc6 (>= 2.4), libgmp10
+Filename: pool/main/p/php7.0/php7.0-gmp_7.0.30-0ubuntu0.16.04.1_amd64.deb
+Size: 20828
+MD5sum: 844b221b90897eea11bd663249193c6d
+SHA1: ca955064097cb395917b25db362bf11f989ea94b
+SHA256: bd64e5018dca8ad72292e9000c00603b893e9c7df633cb1c9c0e9af04c940410
+Homepage: http://www.php.net/
+Description-en_CA: GMP module for PHP
+ This package provides the GMP module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: c27167ffbd0137d52448a66a0373d465
+Supported: 5y
+
+Package: php7.0-gmp
+Priority: optional
+Section: php
+Installed-Size: 95
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Architecture: amd64
+Source: php7.0
+Version: 7.0.4-7ubuntu2
+Provides: php-gmp
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.4-7ubuntu2), libc6 (>= 2.4), libgmp10
+Filename: pool/main/p/php7.0/php7.0-gmp_7.0.4-7ubuntu2_amd64.deb
+Size: 20840
+MD5sum: b434a348b116bce5d9f1573793867b57
+SHA1: 7e6ab2a94bd020c0f63f9a0a9f5e7d4198604e10
+SHA256: 43491c96830a76e95e188cda42d9917d5d771c3d8a883cb10ed6c8f5e107b96c
+Description-en_CA: GMP module for PHP
+ This package provides the GMP module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: c27167ffbd0137d52448a66a0373d465
+Homepage: http://www.php.net/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+Supported: 5y
+

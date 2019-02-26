@@ -1,0 +1,56 @@
+Package: php7.0-pspell
+Architecture: amd64
+Version: 7.0.30-0ubuntu0.16.04.1
+Priority: optional
+Section: php
+Source: php7.0
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 51
+Provides: php-pspell
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.30-0ubuntu0.16.04.1), libaspell15 (>= 0.60.7~20110707), libc6 (>= 2.4)
+Filename: pool/main/p/php7.0/php7.0-pspell_7.0.30-0ubuntu0.16.04.1_amd64.deb
+Size: 8306
+MD5sum: 16c186a054502dcad1d8e3e97d700f7b
+SHA1: f447d15f067a0d4205b54618022ee2795ed73d61
+SHA256: 864a650b82e6721f9e747cceb98d020939db02fc129896325b9d2348cdc98638
+Homepage: http://www.php.net/
+Description-en_CA: pspell module for PHP
+ This package provides the pspell module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: 924e2e1a212b3efcd067569724a15d8b
+Supported: 5y
+
+Package: php7.0-pspell
+Priority: optional
+Section: php
+Installed-Size: 51
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Architecture: amd64
+Source: php7.0
+Version: 7.0.4-7ubuntu2
+Provides: php-pspell
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.4-7ubuntu2), libaspell15 (>= 0.60.7~20110707), libc6 (>= 2.4)
+Filename: pool/main/p/php7.0/php7.0-pspell_7.0.4-7ubuntu2_amd64.deb
+Size: 8280
+MD5sum: 62345edf84bfb9d41b48921ecf920a30
+SHA1: 25c486bfbfcf04218aca8f6e1bf58be1fecd0363
+SHA256: 742d495e45cd39081ce3db88322f54abd1360ab0edd19beab9f4e71b42ec1f31
+Description-en_CA: pspell module for PHP
+ This package provides the pspell module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: 924e2e1a212b3efcd067569724a15d8b
+Homepage: http://www.php.net/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+Supported: 5y
+

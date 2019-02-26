@@ -1,0 +1,58 @@
+Package: php7.0-mysql
+Architecture: amd64
+Version: 7.0.30-0ubuntu0.16.04.1
+Priority: optional
+Section: php
+Source: php7.0
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 474
+Provides: php-mysqli, php-mysqlnd, php-pdo-mysql, php7.0-mysqli, php7.0-mysqlnd, php7.0-pdo-mysql
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.30-0ubuntu0.16.04.1), libc6 (>= 2.15)
+Filename: pool/main/p/php7.0/php7.0-mysql_7.0.30-0ubuntu0.16.04.1_amd64.deb
+Size: 124812
+MD5sum: c45145ebc1cb6cc5ee2d41f4020c2b07
+SHA1: 2434d32f1d7356b2c54268f5d2645d15fb78a1e0
+SHA256: 4d903088d7ec1cb6847a6514d565a4ba59145faa61151f45fb10bb626c3ea96b
+Homepage: http://www.php.net/
+Description-en_CA: MySQL module for PHP
+ This package provides the MySQL module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: dba46097413040653c65df244b4f891f
+Task: lamp-server, mythbuntu-frontend, mythbuntu-desktop, mythbuntu-backend-slave, mythbuntu-backend-master, mythbuntu-backend-master
+Supported: 5y
+
+Package: php7.0-mysql
+Priority: optional
+Section: php
+Installed-Size: 462
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Architecture: amd64
+Source: php7.0
+Version: 7.0.4-7ubuntu2
+Provides: php-mysqli, php-mysqlnd, php-pdo-mysql, php7.0-mysqli, php7.0-mysqlnd, php7.0-pdo-mysql
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.4-7ubuntu2), libc6 (>= 2.15)
+Filename: pool/main/p/php7.0/php7.0-mysql_7.0.4-7ubuntu2_amd64.deb
+Size: 123268
+MD5sum: ff231a57b0625f11961ad924d89eeebb
+SHA1: 51edee5955cb6f4beb867dda6958c6579f61b33d
+SHA256: 3f5c6fa667a9b7d3cf071ab64d76ff59d071cb4c9b1a764b8b49a1863c05de73
+Description-en_CA: MySQL module for PHP
+ This package provides the MySQL module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: dba46097413040653c65df244b4f891f
+Homepage: http://www.php.net/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+Supported: 5y
+Task: lamp-server, mythbuntu-frontend, mythbuntu-desktop, mythbuntu-backend-slave, mythbuntu-backend-master, mythbuntu-backend-master
+

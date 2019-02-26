@@ -1,0 +1,24 @@
+Package: php-cssmin
+Priority: optional
+Section: universe/php
+Installed-Size: 173
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 3.0.4-1build1
+Depends: php-common
+Filename: pool/universe/p/php-cssmin/php-cssmin_3.0.4-1build1_all.deb
+Size: 22226
+MD5sum: 815620677fe248047ed619e8e852bcd2
+SHA1: 7e98b0ad2f3af60eda26e2f8e08bdd5ebba800ab
+SHA256: 458cc6cc6130b1a0d267121cee989b2058f3124a65cd9d6cfdef8c7b7fbc78cc
+Description-en: CSS minification class
+ CssMin is a CSS parser and minifier. It minifies CSS by removing
+ unneeded whitespace character, comments, empty blocks and empty
+ declarations. In addition, declaration values can get rewritten to
+ shorter notation if available.
+Description-md5: e737385a336a4a48667d2802078b6013
+Homepage: https://code.google.com/p/cssmin/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

@@ -1,0 +1,41 @@
+Package: php-auth
+Priority: optional
+Section: universe/web
+Installed-Size: 348
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.6.4-1build1
+Depends: php-common
+Recommends: php-log (>= 1.9.10), php-file-passwd (>= 1.1.0), php-net-pop3 (>= 1.3.0), php-db (>= 1.6.0), php-mdb, php-mdb2 (>= 2.0.0~RC1), php-auth-radius, php-crypt-chap (>= 1.0.0), php-file-smbpasswd (>= 1.0.0), php-http-client (>= 1.1.0), php-soap (>= 0.9.0), php-net-vpopmaild (>= 0.1.0), php-vpopmail (>= 0.2), php-kadm5 (>= 0.2.3), php-imap, php-saprfc
+Filename: pool/universe/p/php-auth/php-auth_1.6.4-1build1_all.deb
+Size: 57654
+MD5sum: 76a4646a2ba2371275f948b9bf3207c0
+SHA1: e6c7c96f0119bb9a9dc5603f2cbb761bb3ce04cb
+SHA256: 9378e83007d29d80f39e52e53109e95bf44f38ae97c20caf84d1934b656c9a35
+Description-en: Creating an authentication system
+ The PEAR::Auth package provides methods for creating an authentication
+ system using PHP.
+ .
+ Currently it supports the following storage containers to read/write
+ the login data:
+ .
+    * All databases supported by the PEAR database layer
+    * All databases supported by the MDB database layer
+    * All databases supported by the MDB2 database layer
+    * Plaintext files
+    * LDAP servers
+    * POP3 servers
+    * IMAP servers
+    * vpopmail accounts (Using either PECL vpopmail or PEAR Net_Vpopmaild)
+    * RADIUS
+    * SAMBA password files
+    * SOAP (Using either PEAR SOAP package or PHP5 SOAP extension)
+    * PEAR website
+    * Kerberos V servers
+    * SAP servers
+Description-md5: a706490bd318dff167d0a8d721f26628
+Homepage: http://pear.php.net/package/Auth/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

@@ -1,0 +1,60 @@
+Package: cacti
+Architecture: all
+Version: 0.8.8f+ds1-4ubuntu4.16.04.2
+Priority: extra
+Section: universe/web
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Cacti Maintainer <pkg-cacti-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 5225
+Depends: dbconfig-mysql | dbconfig-no-thanks, libapache2-mod-php | php, libphp-adodb (>= 4.50-1), libjs-jquery (>= 1.10), libjs-jquery-cookie, libjs-jquery-ui, libjs-jquery-ui-theme-ui-lightness, php-cli, php-mbstring, php-mysql | php-mysqlnd, php-snmp, php-xml, rrdtool, snmp, ucf, debconf (>= 0.5) | debconf-2.0, perl
+Recommends: apache2 | lighttpd | nginx | httpd, inetutils-ping | iputils-ping, logrotate, mysql-server | virtual-mysql-server
+Suggests: php-ldap, moreutils
+Filename: pool/universe/c/cacti/cacti_0.8.8f+ds1-4ubuntu4.16.04.2_all.deb
+Size: 1692532
+MD5sum: 74c9b2c83fd5cc43fb96ee4652155ea8
+SHA1: ce1cc879c437c8534e27ee90dfd38a1a40e6120d
+SHA256: 6b79118d469ce276620f48b9fedd45778899ad9b12eee4f77f1a0a03e11eea69
+Homepage: http://www.cacti.net/
+Description-en_CA: web interface for graphing of monitoring systems
+ Cacti is a complete PHP-driven front-end for RRDTool. It stores all of the
+ necessary data source information to create graphs, handles the data
+ gathering, and populates the MySQL database with round-robin archives. It
+ also includes SNMP support for those used to creating traffic graphs with
+ MRTG.
+ .
+ This package requires a functional MySQL database server on either the
+ installation host or a remotely accessible system.
+Description-md5: c149f2c54502ee335699276ff204fd5d
+
+Package: cacti
+Priority: extra
+Section: universe/web
+Installed-Size: 5224
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Cacti Maintainer <pkg-cacti-maint@lists.alioth.debian.org>
+Architecture: all
+Version: 0.8.8f+ds1-4ubuntu4
+Depends: dbconfig-mysql | dbconfig-no-thanks, libapache2-mod-php | php, libphp-adodb (>= 4.50-1), libjs-jquery (>= 1.10), libjs-jquery-cookie, libjs-jquery-ui, libjs-jquery-ui-theme-ui-lightness, php-cli, php-mbstring, php-mysql | php-mysqlnd, php-snmp, php-xml, rrdtool, snmp, ucf, debconf (>= 0.5) | debconf-2.0, perl
+Recommends: apache2 | lighttpd | nginx | httpd, inetutils-ping | iputils-ping, logrotate, mysql-server | virtual-mysql-server
+Suggests: php-ldap, moreutils
+Filename: pool/universe/c/cacti/cacti_0.8.8f+ds1-4ubuntu4_all.deb
+Size: 1692104
+MD5sum: f129e6c4071325b1a15b5f000120eb85
+SHA1: 939a81c68ecc9d666d8f6ebbd44482fb852f30bd
+SHA256: ed0f8a35b79c727b0d3cf332e84a3ea7c97e249410565e38754656eee699caa2
+Description-en_CA: web interface for graphing of monitoring systems
+ Cacti is a complete PHP-driven front-end for RRDTool. It stores all of the
+ necessary data source information to create graphs, handles the data
+ gathering, and populates the MySQL database with round-robin archives. It
+ also includes SNMP support for those used to creating traffic graphs with
+ MRTG.
+ .
+ This package requires a functional MySQL database server on either the
+ installation host or a remotely accessible system.
+Description-md5: c149f2c54502ee335699276ff204fd5d
+Homepage: http://www.cacti.net/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

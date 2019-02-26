@@ -1,0 +1,54 @@
+Package: php7.0-mbstring
+Architecture: amd64
+Version: 7.0.30-0ubuntu0.16.04.1
+Priority: optional
+Section: universe/php
+Source: php7.0
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 1466
+Provides: php-mbstring
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.30-0ubuntu0.16.04.1), libc6 (>= 2.14)
+Filename: pool/universe/p/php7.0/php7.0-mbstring_7.0.30-0ubuntu0.16.04.1_amd64.deb
+Size: 463680
+MD5sum: ede5b7f802c0adfd4ab6760f457bbca7
+SHA1: 220f897c7aad7e9ff1f514a4abbd4fd78f130c11
+SHA256: ae65c252e9942cfea6fed0ca3f3947e0762e53d5684d117e665d87c6ffb63221
+Homepage: http://www.php.net/
+Description-en: MBSTRING module for PHP
+ This package provides the MBSTRING module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: 741a0b4b31628c18e80bdef4f0ec8141
+
+Package: php7.0-mbstring
+Priority: optional
+Section: universe/php
+Installed-Size: 1462
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Architecture: amd64
+Source: php7.0
+Version: 7.0.4-7ubuntu2
+Provides: php-mbstring
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.4-7ubuntu2), libc6 (>= 2.14)
+Filename: pool/universe/p/php7.0/php7.0-mbstring_7.0.4-7ubuntu2_amd64.deb
+Size: 463714
+MD5sum: dcea7b732d37e24e3bcef143209f0b72
+SHA1: 47069d8a597bb45d208ca910c0b297bd3a0106ce
+SHA256: b1722cb59ab4a518462e9b8e963c5bafa5e3804d72659ac8ce51ff993079b98f
+Description-en: MBSTRING module for PHP
+ This package provides the MBSTRING module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: 741a0b4b31628c18e80bdef4f0ec8141
+Homepage: http://www.php.net/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

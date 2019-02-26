@@ -1,0 +1,54 @@
+Package: php7.0-bz2
+Architecture: amd64
+Version: 7.0.30-0ubuntu0.16.04.1
+Priority: optional
+Section: universe/php
+Source: php7.0
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 51
+Provides: php-bz2
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.30-0ubuntu0.16.04.1), libbz2-1.0, libc6 (>= 2.14)
+Filename: pool/universe/p/php7.0/php7.0-bz2_7.0.30-0ubuntu0.16.04.1_amd64.deb
+Size: 10106
+MD5sum: 0be7de1dcf6c7ea8034c548114763cd4
+SHA1: afd3222a0ed009ea4a8fa0324d12b044307d1420
+SHA256: 4678df9341b00902d7c1816d428a3bd83d435dfea9d0db7b8cc400859aa0df40
+Homepage: http://www.php.net/
+Description-en: bzip2 module for PHP
+ This package provides the bzip2 module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: 6221ff838ed81a370f3420140a1ccf42
+
+Package: php7.0-bz2
+Priority: optional
+Section: universe/php
+Installed-Size: 51
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Architecture: amd64
+Source: php7.0
+Version: 7.0.4-7ubuntu2
+Provides: php-bz2
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.4-7ubuntu2), libbz2-1.0, libc6 (>= 2.14)
+Filename: pool/universe/p/php7.0/php7.0-bz2_7.0.4-7ubuntu2_amd64.deb
+Size: 9904
+MD5sum: 1df288fb4c2b0c67e14b689325dbcb23
+SHA1: b21ab61db253b2b621752c6f49410958679f859c
+SHA256: de82482819925acb20403a1635f669505275af6e18800b61ed1f6697b6ae324a
+Description-en: bzip2 module for PHP
+ This package provides the bzip2 module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: 6221ff838ed81a370f3420140a1ccf42
+Homepage: http://www.php.net/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

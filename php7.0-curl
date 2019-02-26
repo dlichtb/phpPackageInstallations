@@ -1,0 +1,56 @@
+Package: php7.0-curl
+Architecture: amd64
+Version: 7.0.30-0ubuntu0.16.04.1
+Priority: optional
+Section: php
+Source: php7.0
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 115
+Provides: php-curl
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.30-0ubuntu0.16.04.1), libc6 (>= 2.14), libcurl3 (>= 7.18.0)
+Filename: pool/main/p/php7.0/php7.0-curl_7.0.30-0ubuntu0.16.04.1_amd64.deb
+Size: 27458
+MD5sum: d439841d3736485cef5103bb15781737
+SHA1: dadbf4183a48419dfd6ea89c0353173676b819d5
+SHA256: 650fdc9a9fea325ff5bc5b3c8118fb35dc8101709c75cd19aedcd316138f8cb8
+Homepage: http://www.php.net/
+Description-en_CA: CURL module for PHP
+ This package provides the CURL module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: 037ff48845e2cbd8c4409f1910d1d1c2
+Supported: 5y
+
+Package: php7.0-curl
+Priority: optional
+Section: php
+Installed-Size: 111
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Architecture: amd64
+Source: php7.0
+Version: 7.0.4-7ubuntu2
+Provides: php-curl
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.4-7ubuntu2), libc6 (>= 2.14), libcurl3 (>= 7.18.0)
+Filename: pool/main/p/php7.0/php7.0-curl_7.0.4-7ubuntu2_amd64.deb
+Size: 26884
+MD5sum: fb3c001558dbaba320ceabbf0849a767
+SHA1: 31ea7b8b1d44bd93d5cda2b11d977276976dfb38
+SHA256: 7de397cb3fef2518cf055570429db74ee93b5cd420725e8cb2d93991e2f3b4b7
+Description-en_CA: CURL module for PHP
+ This package provides the CURL module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: 037ff48845e2cbd8c4409f1910d1d1c2
+Homepage: http://www.php.net/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+Supported: 5y
+

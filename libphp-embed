@@ -1,0 +1,58 @@
+Package: libphp-embed
+Architecture: all
+Version: 1:7.0+35ubuntu6.1
+Priority: optional
+Section: universe/php
+Source: php-defaults (35ubuntu6.1)
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 11
+Depends: libphp7.0-embed
+Filename: pool/universe/p/php-defaults/libphp-embed_7.0+35ubuntu6.1_all.deb
+Size: 2948
+MD5sum: 488aec9195e2cba34103756392de4a91
+SHA1: cea59d4a495fe1dc19ef374d893703811a25fa1d
+SHA256: 77ba02e89d45849c7d4827a625a86c189906f176a0aef7ac00b25ff0977c4e32
+Description-en: HTML-embedded scripting language (Embedded SAPI library) (default)
+ This package provides the library /usr/lib/libphp.so which can
+ be used by application developers to embed PHP scripting functionality.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+ .
+ This package is a dependency package, which depends on Debian's default
+ PHP version (currently 7.0).
+Description-md5: 79f7c9e752e03a976bd817c036cc09ab
+
+Package: libphp-embed
+Priority: optional
+Section: universe/php
+Installed-Size: 11
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Architecture: all
+Source: php-defaults (35ubuntu6)
+Version: 1:7.0+35ubuntu6
+Depends: libphp7.0-embed
+Filename: pool/universe/p/php-defaults/libphp-embed_7.0+35ubuntu6_all.deb
+Size: 2920
+MD5sum: 4e4954db40283e9e075844e3a5467a3d
+SHA1: 18f218f46d56da2ab15a99b4198b354f5f4b97cd
+SHA256: a1f6a4d0d42b3a9233b98d2435c2eedd5249a9a89e8cefbdcc703ff64a72ccc8
+Description-en: HTML-embedded scripting language (Embedded SAPI library) (default)
+ This package provides the library /usr/lib/libphp.so which can
+ be used by application developers to embed PHP scripting functionality.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+ .
+ This package is a dependency package, which depends on Debian's default
+ PHP version (currently 7.0).
+Description-md5: 79f7c9e752e03a976bd817c036cc09ab
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

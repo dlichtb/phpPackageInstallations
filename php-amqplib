@@ -1,0 +1,24 @@
+Package: php-amqplib
+Priority: optional
+Section: universe/php
+Installed-Size: 286
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 2.6.1-1build1
+Replaces: php-videlalvaro-php-amqplib (= 2.6.1-1build1)
+Depends: php-common
+Breaks: php-videlalvaro-php-amqplib (= 2.6.1-1build1)
+Filename: pool/universe/p/php-amqplib/php-amqplib_2.6.1-1build1_all.deb
+Size: 39698
+MD5sum: 92d140f5cfcc62e4431d927f51b8ea44
+SHA1: b4c9f05f12c71a8aec77095ff10f7870039f981c
+SHA256: 395c1bd9d038b6086ef6307ec95e733c3b7c4cd780f82d211734506191086ffe
+Description-en: pure PHP implementation of the AMQP protocol
+ Formerly videlalvaro/php-amqplib. This library is a pure PHP implementation of
+ the AMQP protocol. It's been tested against RabbitMQ.
+Description-md5: ce058f52fdb9ebbcb3c2fbf7db3b454a
+Homepage: https://github.com/php-amqplib/php-amqplib
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

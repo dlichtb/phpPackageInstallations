@@ -1,0 +1,24 @@
+Package: php-amqp
+Priority: optional
+Section: universe/php
+Installed-Size: 150
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PECL Maintainers <pkg-php-pecl@lists.alioth.debian.org>
+Architecture: amd64
+Version: 1.7.0~alpha2-3
+Depends: phpapi-20151012, libc6 (>= 2.14), librabbitmq4 (>= 0.6.0)
+Filename: pool/universe/p/php-amqp/php-amqp_1.7.0~alpha2-3_amd64.deb
+Size: 35712
+MD5sum: a690a4d124c093e87c10e8cc4800edc8
+SHA1: 65faf6e7819ec0992c41a500d0f909e8b5efc936
+SHA256: 65dda87f5741efe254a1a6dc6e29c3709778ebecebc5987cec9ee2ec2d0d740f
+Description-en: AMQP extension for PHP
+ This extension can communicate with any AMQP spec 0-9-1 compatible
+ server, such as RabbitMQ, OpenAMQP and Qpid, giving you the ability
+ to create and delete exchanges and queues, as well as publish to any
+ exchange and consume from any queue.
+Description-md5: 6483326e65870ebb51d95c2121230fb2
+Homepage: http://pecl.php.net/package/amqp
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

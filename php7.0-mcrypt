@@ -1,0 +1,54 @@
+Package: php7.0-mcrypt
+Architecture: amd64
+Version: 7.0.30-0ubuntu0.16.04.1
+Priority: optional
+Section: universe/php
+Source: php7.0
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 71
+Provides: php-mcrypt
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.30-0ubuntu0.16.04.1), libc6 (>= 2.14), libmcrypt4
+Filename: pool/universe/p/php7.0/php7.0-mcrypt_7.0.30-0ubuntu0.16.04.1_amd64.deb
+Size: 14476
+MD5sum: bdf0a36faa9ece4a523d3553d98fdaed
+SHA1: f6776783b8476d2a45e559cfbe1739aa373e5441
+SHA256: c0e815d89eb8de814197fa7611841d4a684597851b38f748792114209c836a5b
+Homepage: http://www.php.net/
+Description-en: libmcrypt module for PHP
+ This package provides the libmcrypt module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: 96673b2530a6fc30699e194fda12f804
+
+Package: php7.0-mcrypt
+Priority: optional
+Section: universe/php
+Installed-Size: 71
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Architecture: amd64
+Source: php7.0
+Version: 7.0.4-7ubuntu2
+Provides: php-mcrypt
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.4-7ubuntu2), libc6 (>= 2.14), libmcrypt4
+Filename: pool/universe/p/php7.0/php7.0-mcrypt_7.0.4-7ubuntu2_amd64.deb
+Size: 14366
+MD5sum: a6b4060470a0467a34c39d7e9050e5ed
+SHA1: 575a7a00e76b15275b14e292ca9189e13037141f
+SHA256: 640c61673c6df91c6c6e1a08e57e06ac6dd546a3e20c50aa9731e148e684afce
+Description-en: libmcrypt module for PHP
+ This package provides the libmcrypt module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: 96673b2530a6fc30699e194fda12f804
+Homepage: http://www.php.net/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

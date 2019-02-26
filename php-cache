@@ -1,0 +1,25 @@
+Package: php-cache
+Priority: optional
+Section: universe/web
+Installed-Size: 198
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Dario Minnucci <midget@debian.org>
+Architecture: all
+Version: 1.5.6-2ubuntu1
+Depends: php-common, php-pear (>= 1.7.0)
+Recommends: php-http-request
+Suggests: php-cli
+Filename: pool/universe/p/php-cache/php-cache_1.5.6-2ubuntu1_all.deb
+Size: 34552
+MD5sum: 81cdb14e5fbe580d00bec9bc8d05b32a
+SHA1: 848d75320aabc6823af27c94b23dde5c6d78efc5
+SHA256: b7ebf02b30fef7126ee77826cada4c7fda9af649185d857cc5f7bb6a141ffd1d
+Description-en: framework for caching of arbitrary data
+ With the PEAR Cache you can cache the result of certain function
+ calls, as well as the output of a whole script run or share data
+ between applications.
+Description-md5: 354ce3a3b3417f5afa1db6b6b8e2bb0c
+Homepage: http://pear.php.net/package/Cache
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

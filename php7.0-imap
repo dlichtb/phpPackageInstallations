@@ -1,0 +1,54 @@
+Package: php7.0-imap
+Architecture: amd64
+Version: 7.0.30-0ubuntu0.16.04.1
+Priority: optional
+Section: universe/php
+Source: php7.0
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 119
+Provides: php-imap
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.30-0ubuntu0.16.04.1), libc-client2007e, libc6 (>= 2.14)
+Filename: pool/universe/p/php7.0/php7.0-imap_7.0.30-0ubuntu0.16.04.1_amd64.deb
+Size: 29346
+MD5sum: b314683e40ee39132979c1ee70acbf4a
+SHA1: e86060766f4236b56a7ee47906716d202a671345
+SHA256: 3273a0ff42111a9a0cc48e5dd5d7f30a9b41e4ae013aec4135c6bb01c1f747e8
+Homepage: http://www.php.net/
+Description-en: IMAP module for PHP
+ This package provides the IMAP module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: 73ce2e5dbb1377bc41524b600892883b
+
+Package: php7.0-imap
+Priority: optional
+Section: universe/php
+Installed-Size: 119
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Architecture: amd64
+Source: php7.0
+Version: 7.0.4-7ubuntu2
+Provides: php-imap
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.4-7ubuntu2), libc-client2007e, libc6 (>= 2.14)
+Filename: pool/universe/p/php7.0/php7.0-imap_7.0.4-7ubuntu2_amd64.deb
+Size: 29266
+MD5sum: 6615ba7898ad99540886a8e02e7d5ec7
+SHA1: b4bbdadb24553f3f8fa1a6ea1979f97db75ffc7e
+SHA256: fbaaf3db6ff594e9fb24efc6e1dcfa0de921a8643e9fb049b05a23d091c483ac
+Description-en: IMAP module for PHP
+ This package provides the IMAP module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: 73ce2e5dbb1377bc41524b600892883b
+Homepage: http://www.php.net/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

@@ -1,0 +1,24 @@
+Package: mlmmj-php-web
+Priority: optional
+Section: universe/mail
+Installed-Size: 40
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: MLMMJ packaging team <pkg-mlmmj-devel@lists.alioth.debian.org>
+Architecture: all
+Source: mlmmj
+Version: 1.2.18.1-1ubuntu1
+Depends: mlmmj, php
+Filename: pool/universe/m/mlmmj/mlmmj-php-web_1.2.18.1-1ubuntu1_all.deb
+Size: 4976
+MD5sum: 28e70f34b6377c5f39d6670dcbb9df78
+SHA1: f683d58984800c9f0d9932692bfd00cacb6cbbd1
+SHA256: 7c45d14b7a9f0d2eca16364f3558bc3012a370b024b1c7f36ec64f9a2997aad1
+Description-en: web interface for mlmmj, written in php
+ A web based tool for mlmmj written in php, so that your users can subscribe
+ or unsubscribe through some HTML forms, which sometimes, might be more
+ convenient than just using the list commands.
+Description-md5: 3488f99919352151e2a2c8c7d5c8be0f
+Homepage: http://mlmmj.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

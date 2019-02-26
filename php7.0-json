@@ -1,0 +1,58 @@
+Package: php7.0-json
+Architecture: amd64
+Version: 7.0.30-0ubuntu0.16.04.1
+Priority: optional
+Section: php
+Source: php7.0
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 67
+Provides: php-json
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.30-0ubuntu0.16.04.1), libc6 (>= 2.14)
+Filename: pool/main/p/php7.0/php7.0-json_7.0.30-0ubuntu0.16.04.1_amd64.deb
+Size: 16886
+MD5sum: 8a1384092d705abc8047e7961971f33e
+SHA1: 9eb9301d20985c85701e31b5810b6ffa65426f37
+SHA256: e326e51bed1f5038afa7400ba788f8572d3e9900dca932a001ab9347f375ce2e
+Homepage: http://www.php.net/
+Description-en_CA: JSON module for PHP
+ This package provides the JSON module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: 28cd07bde7d0ae5bc9df05a3c5b10e74
+Task: lamp-server, mythbuntu-frontend, mythbuntu-desktop, mythbuntu-backend-slave, mythbuntu-backend-master, mythbuntu-backend-master
+Supported: 5y
+
+Package: php7.0-json
+Priority: optional
+Section: php
+Installed-Size: 67
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Architecture: amd64
+Source: php7.0
+Version: 7.0.4-7ubuntu2
+Provides: php-json
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.4-7ubuntu2), libc6 (>= 2.14)
+Filename: pool/main/p/php7.0/php7.0-json_7.0.4-7ubuntu2_amd64.deb
+Size: 16696
+MD5sum: 0e1a16ce904032c2be900b2ea29c2eb3
+SHA1: 557f188b8cda9fb263058fda9349669d3ecf2d43
+SHA256: 9e09acf0e010e4d414b766cfff6486075e705d9f2c95bb0c59bc210b43d9c281
+Description-en_CA: JSON module for PHP
+ This package provides the JSON module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: 28cd07bde7d0ae5bc9df05a3c5b10e74
+Homepage: http://www.php.net/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+Supported: 5y
+Task: lamp-server, mythbuntu-frontend, mythbuntu-desktop, mythbuntu-backend-slave, mythbuntu-backend-master, mythbuntu-backend-master
+

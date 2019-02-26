@@ -1,0 +1,25 @@
+Package: libphp-jabber
+Priority: optional
+Section: universe/web
+Installed-Size: 56
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian XMPP Maintainers <pkg-xmpp-devel@lists.alioth.debian.org>
+Architecture: all
+Version: 0.4.3-4ubuntu1
+Depends: php | php-cli
+Filename: pool/universe/libp/libphp-jabber/libphp-jabber_0.4.3-4ubuntu1_all.deb
+Size: 12020
+MD5sum: 17f0d98d510f913adcd4236d7b54630b
+SHA1: 343e28c9a635ed9c0fd43f0639b69bbae929a81f
+SHA256: 943528d18aeb6d9be686bceb9acfc3c2cf085981160c820e5a5544306c711650
+Description-en: Object-oriented PHP interface for the Jabber/XMPP protocol
+ Class.Jabber.PHP is an object oriented solution to make Jabber connectivity
+ for your website, bot, or even IM client as simple as possible when using PHP.
+ CJP gives you complete abstraction from Jabber/XMPP so that you don't have
+ to worry about API to the server, and instead focus on the quality of the
+ Jabber features that you are implementing.
+Description-md5: e8d6034a0e4e78f4c839cd2826067356
+Homepage: http://pkg-xmpp.alioth.debian.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

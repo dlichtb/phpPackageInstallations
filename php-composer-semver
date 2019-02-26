@@ -1,0 +1,25 @@
+Package: php-composer-semver
+Priority: optional
+Section: universe/php
+Installed-Size: 57
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.2.0-1build1
+Depends: php-common
+Filename: pool/universe/p/php-composer-semver/php-composer-semver_1.2.0-1build1_all.deb
+Size: 10048
+MD5sum: 065e5621cd46cf0de7bcac82f7c77b39
+SHA1: e5ba1032d0604a8a92c5f83129ce0c4bbc1aea80
+SHA256: 202ab2d33724a5d56c6a0a6fb1eb371076e4d0d5572033f4a0aebf955164a989
+Description-en: Semver library that offers utilities, version constraint parsing and
+ validation
+ This library has been split away from Composer.
+ .
+ Composer helps you declare, manage and install dependencies of PHP projects,
+ ensuring you have the right stack everywhere.
+Description-md5: c7ae187beed22bae648befb700da2547
+Homepage: https://github.com/composer/semver
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

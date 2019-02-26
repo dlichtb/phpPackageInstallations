@@ -1,0 +1,23 @@
+Package: php-crypt-gpg
+Priority: optional
+Section: universe/web
+Installed-Size: 398
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.4.0-1ubuntu2
+Depends: gnupg, gnupg2, php-cli, php-common, php-console-commandline (>= 1.1.10), php-mbstring
+Filename: pool/universe/p/php-crypt-gpg/php-crypt-gpg_1.4.0-1ubuntu2_all.deb
+Size: 53174
+MD5sum: 5e97e0c9f82b1034b35c860f169e5c46
+SHA1: 29ed5e98f83d94763bf90058f1f23bfe14e65b64
+SHA256: 953f468eb8d1ac3a3e116394334c02560cbedaa1c02d7bb0787ee15db44636e3
+Description-en: PHP PEAR module for encrypting and decrypting with GnuPG
+ Crypt/GPG.php provides an object oriented interface to GNU Privacy
+ Guard (GnuPG).  This PEAR package is intended to facilitate
+ public-key cryptography.
+Description-md5: 78d4bc30e2d2ba7fb9ba98832f3788a7
+Homepage: http://pear.php.net/package/Crypt_GPG
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

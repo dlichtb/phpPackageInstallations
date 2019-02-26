@@ -1,0 +1,54 @@
+Package: php7.0-intl
+Architecture: amd64
+Version: 7.0.30-0ubuntu0.16.04.1
+Priority: optional
+Section: universe/php
+Source: php7.0
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 507
+Provides: php-intl
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.30-0ubuntu0.16.04.1), libc6 (>= 2.14), libgcc1 (>= 1:3.0), libicu55 (>= 55.1-1~), libstdc++6 (>= 4.1.1)
+Filename: pool/universe/p/php7.0/php7.0-intl_7.0.30-0ubuntu0.16.04.1_amd64.deb
+Size: 125882
+MD5sum: ca2fd5d93c54a2f4d61fca2066a4bc4d
+SHA1: 046f7e6150172d36c13b6a35107c26049b1d9e91
+SHA256: 6d36e0d2dadc5abf7a36d364063f75a2e60d27543d0adab4fe9e5ec10da45a8c
+Homepage: http://www.php.net/
+Description-en: Internationalisation module for PHP
+ This package provides the Internationalisation module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: 576352b0c1559ceb07b3161367c69f39
+
+Package: php7.0-intl
+Priority: optional
+Section: universe/php
+Installed-Size: 507
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Architecture: amd64
+Source: php7.0
+Version: 7.0.4-7ubuntu2
+Provides: php-intl
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.4-7ubuntu2), libc6 (>= 2.14), libgcc1 (>= 1:3.0), libicu55 (>= 55.1-1~)
+Filename: pool/universe/p/php7.0/php7.0-intl_7.0.4-7ubuntu2_amd64.deb
+Size: 125616
+MD5sum: 5edc47bb7a7ddffa19ad4bdf8fd6f734
+SHA1: 69baf633f2b7ff76e9a5daed702867ef0bd53633
+SHA256: 8cd4ccebb7ab3fc8cf06125713ddbe763e3321d4f18b35b840c261772587062c
+Description-en: Internationalisation module for PHP
+ This package provides the Internationalisation module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: 576352b0c1559ceb07b3161367c69f39
+Homepage: http://www.php.net/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

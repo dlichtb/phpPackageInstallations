@@ -1,0 +1,32 @@
+Package: php-apcu
+Priority: optional
+Section: universe/php
+Installed-Size: 216
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PECL Maintainers <pkg-php-pecl@lists.alioth.debian.org>
+Architecture: amd64
+Version: 5.1.3+4.0.10-1build1
+Replaces: php-user-cache
+Provides: php-user-cache
+Depends: php-common (>= 1:7.0+33~), phpapi-20151012, libc6 (>= 2.14)
+Recommends: php-apcu-bc
+Suggests: php-gd
+Conflicts: php-user-cache, php-xcache, php-yac
+Filename: pool/universe/p/php-apcu/php-apcu_5.1.3+4.0.10-1build1_amd64.deb
+Size: 63976
+MD5sum: 33d3203cb131758c9e9e3dd20f25acf5
+SHA1: b43059ea7a538d4b735fe82369857961e0ac6943
+SHA256: c2f7ecedacec116ad0a5ff986ddda1d1ea2a23aaab97dba4ba438c5e6ce3b64c
+Description-en: APC User Cache for PHP
+ The APCu is userland caching: APC (Alternative PHP Cache) stripped of
+ opcode caching after the deployment of Zend OpCache in PHP 5.5 as the
+ primary solution to opcode caching in future versions of PHP.
+ .
+ The APCu is a fast solution for userland caching (and dumping) of PHP
+ variables locally, it is not distributed like MemcacheD, but they can
+ be used together for optimal caching.
+Description-md5: 0d7462c8f566c71b65f0d4bcf7806445
+Homepage: http://pecl.php.net/package/APCu
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

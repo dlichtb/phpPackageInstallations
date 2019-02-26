@@ -1,0 +1,58 @@
+Package: php-common
+Architecture: all
+Version: 1:35ubuntu6.1
+Priority: optional
+Section: php
+Source: php-defaults (35ubuntu6.1)
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 60
+Depends: psmisc (>= 22.15-1~), sed (>= 4.1.1-1)
+Breaks: php-amqp (<< 1.7.0~alpha2-3~), php-apcu (<< 5.1.3+4.0.10-1~), php-apcu-bc (<< 1.0.3-2~), php-ast (<< 0.1.1-1~), php-geoip (<< 1.1.0-4~), php-gmagick (<< 2.0.1~rc3+1.1.7~rc3-2~), php-igbinary (<< 1.2.1-10-ge0e66b9+1.2.1-2~), php-imagick (<< 3.4.0~rc6-1~), php-memcache (<< 3.0.9~20151130.fdbd46b-2~), php-memcached (<< 2.2.0-51-ge573a6e+2.2.0-2build1), php-mongodb (<< 1.1.2-2~), php-msgpack (<< 2.0.0+0.5.7-2~), php-radius (<< 1.4.0~b1-0ubuntu1~), php-redis (<< 2.2.7-355-g799e0bc+2.2.7-4~), php-rrd (<< 2.0.0+1.1.3-3~), php-smbclient (<< 0.8.0~rc1-2~), php-ssh2 (<< 0.12-39-g3dfe336+0.12-1~), php-uploadprogress (<< 1.0.3.1-4-g95d8a0f-2~), php-uuid (<< 1.0.4-1~), php-xdebug (<< 2.4.0~rc4-1~), php-zmq (<< 1.1.3-2~), php5.6-common (<< 5.6.18+dfsg-10~), php5.6-json (<< 1.3.9-2~), php7.0-common (<< 7.0.3-11~)
+Filename: pool/main/p/php-defaults/php-common_35ubuntu6.1_all.deb
+Size: 10836
+MD5sum: a02ab5cfe2e920431f081e293db45118
+SHA1: 650c1fb46fa3eea4b817c5c68d501e9ca08b514b
+SHA256: f0398517e11d06cd8b40384949fd9456c6af3937c07fda0e462d8e8dc3e0e176
+Description-en_CA: Common files for PHP packages
+ This package contains common utilities shared among all packaged PHP
+ versions.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: d3dbac8bcc4b5fda4235137f8b9f3ade
+Task: lamp-server, mythbuntu-frontend, mythbuntu-desktop, mythbuntu-backend-slave, mythbuntu-backend-master, mythbuntu-backend-master
+Supported: 5y
+
+Package: php-common
+Priority: optional
+Section: php
+Installed-Size: 60
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Architecture: all
+Source: php-defaults (35ubuntu6)
+Version: 1:35ubuntu6
+Depends: psmisc (>= 22.15-1~), sed (>= 4.1.1-1)
+Breaks: php-amqp (<< 1.7.0~alpha2-3~), php-apcu (<< 5.1.3+4.0.10-1~), php-apcu-bc (<< 1.0.3-2~), php-ast (<< 0.1.1-1~), php-geoip (<< 1.1.0-4~), php-gmagick (<< 2.0.1~rc3+1.1.7~rc3-2~), php-igbinary (<< 1.2.1-10-ge0e66b9+1.2.1-2~), php-imagick (<< 3.4.0~rc6-1~), php-memcache (<< 3.0.9~20151130.fdbd46b-2~), php-memcached (<< 2.2.0-51-ge573a6e+2.2.0-2build1), php-mongodb (<< 1.1.2-2~), php-msgpack (<< 2.0.0+0.5.7-2~), php-radius (<< 1.4.0~b1-0ubuntu1~), php-redis (<< 2.2.7-355-g799e0bc+2.2.7-4~), php-rrd (<< 2.0.0+1.1.3-3~), php-smbclient (<< 0.8.0~rc1-2~), php-ssh2 (<< 0.12-39-g3dfe336+0.12-1~), php-uploadprogress (<< 1.0.3.1-4-g95d8a0f-2~), php-uuid (<< 1.0.4-1~), php-xdebug (<< 2.4.0~rc4-1~), php-zmq (<< 1.1.3-2~), php5.6-common (<< 5.6.18+dfsg-10~), php5.6-json (<< 1.3.9-2~), php7.0-common (<< 7.0.3-11~)
+Filename: pool/main/p/php-defaults/php-common_35ubuntu6_all.deb
+Size: 10774
+MD5sum: eecfa9281d44df8df2d088f42ca729e3
+SHA1: a6e807eff96de30f546318e88b95d67285771dd8
+SHA256: cf7d6ecb060d7d8ebb67e1203af0201b12b805e95244328fa98a84eee4dd8a0d
+Description-en_CA: Common files for PHP packages
+ This package contains common utilities shared among all packaged PHP
+ versions.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: d3dbac8bcc4b5fda4235137f8b9f3ade
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+Supported: 5y
+Task: lamp-server, mythbuntu-frontend, mythbuntu-desktop, mythbuntu-backend-slave, mythbuntu-backend-master, mythbuntu-backend-master
+

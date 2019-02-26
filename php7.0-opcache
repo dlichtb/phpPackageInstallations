@@ -1,0 +1,58 @@
+Package: php7.0-opcache
+Architecture: amd64
+Version: 7.0.30-0ubuntu0.16.04.1
+Priority: optional
+Section: php
+Source: php7.0
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 223
+Provides: php-opcache
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.30-0ubuntu0.16.04.1), libc6 (>= 2.14)
+Filename: pool/main/p/php7.0/php7.0-opcache_7.0.30-0ubuntu0.16.04.1_amd64.deb
+Size: 77182
+MD5sum: 7faee419ecf9ac7d1a457704e790a15c
+SHA1: 3f93e31fef948820dac0bf1d30239165261976df
+SHA256: 9a8004fd6dbc6dd8469dbc10c371638527e237d26ce4d1e1c74761031f83f277
+Homepage: http://www.php.net/
+Description-en_CA: Zend OpCache module for PHP
+ This package provides the Zend OpCache module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: 2a678caa9876c07bd79145e7e6745aa0
+Task: lamp-server, mythbuntu-frontend, mythbuntu-desktop, mythbuntu-backend-slave, mythbuntu-backend-master, mythbuntu-backend-master
+Supported: 5y
+
+Package: php7.0-opcache
+Priority: optional
+Section: php
+Installed-Size: 219
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Architecture: amd64
+Source: php7.0
+Version: 7.0.4-7ubuntu2
+Provides: php-opcache
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.4-7ubuntu2), libc6 (>= 2.14)
+Filename: pool/main/p/php7.0/php7.0-opcache_7.0.4-7ubuntu2_amd64.deb
+Size: 76098
+MD5sum: 47cc2813579c55a9f4d4942123bd60d0
+SHA1: 7a0d4035a52a0b0d679f015e8721aa10efeede4f
+SHA256: e60eadc46978f0071c97e79975a9258f81901faa44b60adbc4e370a5180a9e8c
+Description-en_CA: Zend OpCache module for PHP
+ This package provides the Zend OpCache module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: 2a678caa9876c07bd79145e7e6745aa0
+Homepage: http://www.php.net/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+Supported: 5y
+Task: lamp-server, mythbuntu-frontend, mythbuntu-desktop, mythbuntu-backend-slave, mythbuntu-backend-master, mythbuntu-backend-master
+

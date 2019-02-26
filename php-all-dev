@@ -1,0 +1,52 @@
+Package: php-all-dev
+Architecture: all
+Version: 1:35ubuntu6.1
+Priority: optional
+Section: php
+Source: php-defaults (35ubuntu6.1)
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 11
+Depends: php7.0-dev, php7.0-json
+Filename: pool/main/p/php-defaults/php-all-dev_35ubuntu6.1_all.deb
+Size: 2796
+MD5sum: 2e4c14ddc6e448b0e724b3d1d443a297
+SHA1: 69e34425c8a3b073cbea23b7f76992595c71e2a6
+SHA256: 4b5a6125e23b9cfb88c474918f385dbfa65ee5af89da42d68e010d06a134223a
+Description-en: package depending on all supported PHP development packages
+ The package currently depends on php7.0-dev.
+ .
+ This package is a dependency package used as a build dependency for other
+ packages to avoid hardcoded dependencies on specific PHP development
+ packages.
+Description-md5: a30cd6bde5f53a35bb0712ba53b91d4f
+Supported: 5y
+
+Package: php-all-dev
+Priority: optional
+Section: php
+Installed-Size: 11
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Architecture: all
+Source: php-defaults (35ubuntu6)
+Version: 1:35ubuntu6
+Depends: php7.0-dev, php7.0-json
+Filename: pool/main/p/php-defaults/php-all-dev_35ubuntu6_all.deb
+Size: 2768
+MD5sum: 96cc0ba20bfd3eac1761975b21e8530a
+SHA1: 2476e9ef6782279a774a3ce27b841023e04694cd
+SHA256: 8ab88d4319c7b8d28d84a8a65eafd7b68e76e1ad3e01702b1edceb11cb116b4a
+Description-en: package depending on all supported PHP development packages
+ The package currently depends on php7.0-dev.
+ .
+ This package is a dependency package used as a build dependency for other
+ packages to avoid hardcoded dependencies on specific PHP development
+ packages.
+Description-md5: a30cd6bde5f53a35bb0712ba53b91d4f
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+Supported: 9m
+

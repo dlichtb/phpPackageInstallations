@@ -1,0 +1,23 @@
+Package: php-auth-http
+Priority: optional
+Section: universe/web
+Installed-Size: 64
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: PKG-PHP-PEAR team <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 2.1.8-1build1
+Depends: php-pear, php-auth
+Filename: pool/universe/p/php-auth-http/php-auth-http_2.1.8-1build1_all.deb
+Size: 14558
+MD5sum: 29291f2f9cd2d1402df57e418cc1610f
+SHA1: cde5d0a00579fb803bcdb55ce6ce830eef37e485
+SHA256: c0c8b0bd7d83570fe122313080927f2793cb544efe74fb3f4f60eef00462ee44
+Description-en: HTTP authentication
+ The PEAR::Auth_HTTP class provides methods for creating an HTTP
+ authentication system using PHP, that is similar to Apache's
+ realm-based .htaccess authentication.
+Description-md5: cc5039a009f9ae2905a9ae60a4dec638
+Homepage: http://pear.php.net/package/Auth_HTTP
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

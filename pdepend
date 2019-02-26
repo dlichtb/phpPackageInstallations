@@ -1,0 +1,23 @@
+Package: pdepend
+Priority: optional
+Section: universe/php
+Installed-Size: 1612
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 2.2.2-1build1
+Provides: php-depend, php-pdepend
+Depends: php-cli, php-common, php-symfony-dependency-injection (>= 2.4), php-symfony-filesystem (>= 2.4), php-symfony-config (>= 2.4)
+Filename: pool/universe/p/pdepend/pdepend_2.2.2-1build1_all.deb
+Size: 127806
+MD5sum: 02320d64f2a1be22ff88a5311d6b22d5
+SHA1: d692312b3616becfbd7b774c654c8dbf33973503
+SHA256: b6faea2ad82c7ad9202249defd74a46393d5fd7b23424bb5937e11bcb249d502
+Description-en: design quality metrics for PHP packages
+ PDepend is an adaption of the Java design quality metrics software
+ JDepend and the NDepend metric tool.
+Description-md5: 00be3436575781cb4e427a2efae82194
+Homepage: http://pdepend.org
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

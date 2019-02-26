@@ -1,0 +1,25 @@
+Package: php-codesniffer
+Priority: optional
+Section: universe/web
+Installed-Size: 3192
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 2.5.1-2ubuntu1
+Depends: php-cli, php-common, php-xml
+Filename: pool/universe/p/php-codesniffer/php-codesniffer_2.5.1-2ubuntu1_all.deb
+Size: 376644
+MD5sum: 80df92ea361eecf325a6c1d2e5332b46
+SHA1: 23d0fdbda26ab0c6d227759fa45ce02f0076a3e6
+SHA256: 3cfa35d5c11f3aaf81d1a7e0e48c4fe673ed9ca58406b0276b3534cf4f5c05ab
+Description-en: PHP, CSS and JavaScript coding standard analyzer and checker
+ PHP_CodeSniffer is a set of two PHP scripts; the main phpcs script that
+ tokenizes PHP, JavaScript and CSS files to detect violations of a defined
+ coding standard, and a second phpcbf script to automatically correct coding
+ standard violations. PHP_CodeSniffer is an essential development tool that
+ ensures your code remains clean and consistent.
+Description-md5: d2f4e8ca2ac266389e17ef558170507b
+Homepage: http://www.squizlabs.com/php-codesniffer
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

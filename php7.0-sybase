@@ -1,0 +1,54 @@
+Package: php7.0-sybase
+Architecture: amd64
+Version: 7.0.30-0ubuntu0.16.04.1
+Priority: optional
+Section: universe/php
+Source: php7.0
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 55
+Provides: php-pdo-dblib, php7.0-pdo-dblib
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.30-0ubuntu0.16.04.1), libc6 (>= 2.14), libsybdb5 (>= 0.63)
+Filename: pool/universe/p/php7.0/php7.0-sybase_7.0.30-0ubuntu0.16.04.1_amd64.deb
+Size: 10956
+MD5sum: 2b79041ec33a4795869573be9daa1b3f
+SHA1: 078d70b120fd9b19e90e1fcd0f87218912b62906
+SHA256: 57ed14a5e00e2f266a30ab772e985af6be6b40dbc74e116873b0eb2b32046349
+Homepage: http://www.php.net/
+Description-en: Sybase module for PHP
+ This package provides the Sybase module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: c5f3c0b4521b40ee671df4ab3452df1d
+
+Package: php7.0-sybase
+Priority: optional
+Section: universe/php
+Installed-Size: 51
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Architecture: amd64
+Source: php7.0
+Version: 7.0.4-7ubuntu2
+Provides: php-pdo-dblib, php7.0-pdo-dblib
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.4-7ubuntu2), libc6 (>= 2.14), libsybdb5 (>= 0.63)
+Filename: pool/universe/p/php7.0/php7.0-sybase_7.0.4-7ubuntu2_amd64.deb
+Size: 9722
+MD5sum: 160ad48494176a8d2607965526918f6b
+SHA1: ad1326aebbb47c46fd526e63408162681df6673f
+SHA256: 629a0f481aa877dbe58419d6d1551067ba0309ca8a0e0107cd0c6bd53b561fcd
+Description-en: Sybase module for PHP
+ This package provides the Sybase module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: c5f3c0b4521b40ee671df4ab3452df1d
+Homepage: http://www.php.net/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

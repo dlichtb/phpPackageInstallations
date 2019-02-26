@@ -1,0 +1,56 @@
+Package: php7.0-recode
+Architecture: amd64
+Version: 7.0.30-0ubuntu0.16.04.1
+Priority: optional
+Section: php
+Source: php7.0
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 39
+Provides: php-recode
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.30-0ubuntu0.16.04.1), libc6 (>= 2.14), librecode0 (>= 3.6)
+Filename: pool/main/p/php7.0/php7.0-recode_7.0.30-0ubuntu0.16.04.1_amd64.deb
+Size: 5674
+MD5sum: 9c92c10492ccc2be4b80c3b5a8e3c120
+SHA1: 37c829f0ca0e3bef5e7a4780baae9c86b1e33551
+SHA256: e80fe6eae8ce1ae6506ee77975ac9f4aaca3b2f3369f1ef98ef5ba16f810e840
+Homepage: http://www.php.net/
+Description-en_CA: recode module for PHP
+ This package provides the recode module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: f34ac052d7f3e909c0bcac2c2a93dc9e
+Supported: 5y
+
+Package: php7.0-recode
+Priority: optional
+Section: php
+Installed-Size: 39
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Architecture: amd64
+Source: php7.0
+Version: 7.0.4-7ubuntu2
+Provides: php-recode
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.4-7ubuntu2), libc6 (>= 2.14), librecode0 (>= 3.6)
+Filename: pool/main/p/php7.0/php7.0-recode_7.0.4-7ubuntu2_amd64.deb
+Size: 5650
+MD5sum: d0d4443dce8b682342c4e7b9a2b56b52
+SHA1: 3ae96f9a6f993fa7208826310030980117e8b587
+SHA256: 7d6ac0ed9c931953a83f4240cf93899d29258d2b617c4f7f1256008c4e072dd4
+Description-en_CA: recode module for PHP
+ This package provides the recode module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: f34ac052d7f3e909c0bcac2c2a93dc9e
+Homepage: http://www.php.net/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+Supported: 5y
+

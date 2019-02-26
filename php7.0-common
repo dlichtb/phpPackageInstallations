@@ -1,0 +1,60 @@
+Package: php7.0-common
+Architecture: amd64
+Version: 7.0.30-0ubuntu0.16.04.1
+Priority: optional
+Section: php
+Source: php7.0
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 4607
+Provides: php-calendar, php-ctype, php-exif, php-fileinfo, php-ftp, php-iconv, php-pdo, php-phar, php-posix, php-shmop, php-sockets, php-sysvmsg, php-sysvsem, php-sysvshm, php-tokenizer, php7.0-calendar, php7.0-ctype, php7.0-exif, php7.0-fileinfo, php7.0-ftp, php7.0-gettext, php7.0-iconv, php7.0-pdo, php7.0-phar, php7.0-posix, php7.0-shmop, php7.0-sockets, php7.0-sysvmsg, php7.0-sysvsem, php7.0-sysvshm, php7.0-tokenizer
+Depends: php-common (>= 1:33), ucf, libc6 (>= 2.15), libssl1.0.0 (>= 1.0.0)
+Filename: pool/main/p/php7.0/php7.0-common_7.0.30-0ubuntu0.16.04.1_amd64.deb
+Size: 840344
+MD5sum: e82ff4605f17ae8dc6bace38df50f170
+SHA1: 862b11181c514a40b4debec3b5ad17b5890068a9
+SHA256: 5008cd61034cc7b53eeb64bb914ce6b9558e638a4a36bd8b0fb29a6175e910c4
+Homepage: http://www.php.net/
+Description-en_CA: documentation, examples and common module for PHP
+ This package provides the documentation, examples and common module(s) for
+ PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: 22a3869c501657868c4eaafa1e98ce95
+Task: lamp-server, mythbuntu-frontend, mythbuntu-desktop, mythbuntu-backend-slave, mythbuntu-backend-master, mythbuntu-backend-master
+Supported: 5y
+
+Package: php7.0-common
+Priority: optional
+Section: php
+Installed-Size: 4222
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Architecture: amd64
+Source: php7.0
+Version: 7.0.4-7ubuntu2
+Provides: php-calendar, php-ctype, php-exif, php-fileinfo, php-ftp, php-gettext, php-iconv, php-pdo, php-phar, php-posix, php-shmop, php-sockets, php-sysvmsg, php-sysvsem, php-sysvshm, php-tokenizer, php7.0-calendar, php7.0-ctype, php7.0-exif, php7.0-fileinfo, php7.0-ftp, php7.0-gettext, php7.0-iconv, php7.0-pdo, php7.0-phar, php7.0-posix, php7.0-shmop, php7.0-sockets, php7.0-sysvmsg, php7.0-sysvsem, php7.0-sysvshm, php7.0-tokenizer
+Depends: php-common (>= 1:33), ucf, libc6 (>= 2.15), libssl1.0.0 (>= 1.0.0)
+Filename: pool/main/p/php7.0/php7.0-common_7.0.4-7ubuntu2_amd64.deb
+Size: 485244
+MD5sum: 1633b84a2de52da9609cc23c4acd86a3
+SHA1: 46689464021ebe55bcb1a33c165063900627dfe2
+SHA256: a634bfb97afbed3f8cc03c1edef858ea39656e8da0d5e6d996013dd4795bbc93
+Description-en_CA: documentation, examples and common module for PHP
+ This package provides the documentation, examples and common module(s) for
+ PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: 22a3869c501657868c4eaafa1e98ce95
+Homepage: http://www.php.net/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+Supported: 5y
+Task: lamp-server, mythbuntu-frontend, mythbuntu-desktop, mythbuntu-backend-slave, mythbuntu-backend-master, mythbuntu-backend-master
+

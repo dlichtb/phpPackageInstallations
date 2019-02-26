@@ -1,0 +1,56 @@
+Package: php7.0-tidy
+Architecture: amd64
+Version: 7.0.30-0ubuntu0.16.04.1
+Priority: optional
+Section: php
+Source: php7.0
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 79
+Provides: php-tidy
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.30-0ubuntu0.16.04.1), libc6 (>= 2.14), libtidy-0.99-0
+Filename: pool/main/p/php7.0/php7.0-tidy_7.0.30-0ubuntu0.16.04.1_amd64.deb
+Size: 16364
+MD5sum: c2d75d5cebae2372ea3fc648e009c6c9
+SHA1: 331fe4f59dbfb95f048ac6f45b417c810cae1d70
+SHA256: d2abf00dbef6761ecb1fb91d529ac4ad054e54c944d7efac94773e20c93310b2
+Homepage: http://www.php.net/
+Description-en_CA: tidy module for PHP
+ This package provides the tidy module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: 1d8b49dbc79493bb30fb016ced2184c6
+Supported: 5y
+
+Package: php7.0-tidy
+Priority: optional
+Section: php
+Installed-Size: 79
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Architecture: amd64
+Source: php7.0
+Version: 7.0.4-7ubuntu2
+Provides: php-tidy
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.4-7ubuntu2), libc6 (>= 2.14), libtidy-0.99-0
+Filename: pool/main/p/php7.0/php7.0-tidy_7.0.4-7ubuntu2_amd64.deb
+Size: 16364
+MD5sum: 4290ab0aa1bbc4f67de849984f4d7bb9
+SHA1: 03d08d308393aec1329d27a9b45edce2eba2faac
+SHA256: ef7327fcea07a6b2efd8f7935153c1670fcb0ac2577fd1584745634be03a4723
+Description-en_CA: tidy module for PHP
+ This package provides the tidy module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: 1d8b49dbc79493bb30fb016ced2184c6
+Homepage: http://www.php.net/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+Supported: 5y
+

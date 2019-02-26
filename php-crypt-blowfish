@@ -1,0 +1,23 @@
+Package: php-crypt-blowfish
+Priority: extra
+Section: universe/php
+Installed-Size: 78
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.1.0~RC2-4ubuntu2
+Depends: php-common
+Filename: pool/universe/p/php-crypt-blowfish/php-crypt-blowfish_1.1.0~RC2-4ubuntu2_all.deb
+Size: 16734
+MD5sum: 8f191be512810c2e42b2ba19be30d7ee
+SHA1: db5b50faa72cbc602403342c36b0dceeafeb4b53
+SHA256: ad1f1ad4dc87a22aca501cf2d5ef51729fce748651847c0fddaec307216ed843
+Description-en: Allows for quick two-way blowfish encryption without requiring the MCrypt PHP extension
+ This package allows you to perform two-way blowfish encryption on the fly
+ using only PHP. This package does not require the MCrypt PHP extension to
+ work, although it can make use of it if available.
+Description-md5: a82df58c0d2d84d49746f94fa4d1724d
+Homepage: http://pear.php.net/package/Crypt_Blowfish/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

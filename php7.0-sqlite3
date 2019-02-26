@@ -1,0 +1,56 @@
+Package: php7.0-sqlite3
+Architecture: amd64
+Version: 7.0.30-0ubuntu0.16.04.1
+Priority: optional
+Section: php
+Source: php7.0
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 108
+Provides: php-pdo-sqlite, php-sqlite3, php7.0-pdo-sqlite
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.30-0ubuntu0.16.04.1), libc6 (>= 2.14), libsqlite3-0 (>= 3.7.15)
+Filename: pool/main/p/php7.0/php7.0-sqlite3_7.0.30-0ubuntu0.16.04.1_amd64.deb
+Size: 24724
+MD5sum: 544acd1c005ba8e5f5c22bd42623b3ed
+SHA1: 06771ceccfbc0d054fd22d14c4e183f4ce42913c
+SHA256: 66f1a7604a94f511dc9202bd4946c549e42eaaadc5929b9b93e4feef6f20be8c
+Homepage: http://www.php.net/
+Description-en_CA: SQLite3 module for PHP
+ This package provides the SQLite3 module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: 0f31b34a4e9ca17b4007ed38c7c98f2c
+Supported: 5y
+
+Package: php7.0-sqlite3
+Priority: optional
+Section: php
+Installed-Size: 108
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Architecture: amd64
+Source: php7.0
+Version: 7.0.4-7ubuntu2
+Provides: php-pdo-sqlite, php-sqlite3, php7.0-pdo-sqlite
+Depends: php-common (>= 1:33), ucf, php7.0-common (= 7.0.4-7ubuntu2), libc6 (>= 2.14), libsqlite3-0 (>= 3.7.4)
+Filename: pool/main/p/php7.0/php7.0-sqlite3_7.0.4-7ubuntu2_amd64.deb
+Size: 24568
+MD5sum: 6d7c9d35a01abd6774a1047e3f5c6d4c
+SHA1: d9d6211355d71389ed3b3197941fdf6df158a718
+SHA256: eec3a0acb175c4856562bfc40ff222f862a9a31f9928f78927c9c917827337fa
+Description-en_CA: SQLite3 module for PHP
+ This package provides the SQLite3 module(s) for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+Description-md5: 0f31b34a4e9ca17b4007ed38c7c98f2c
+Homepage: http://www.php.net/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+Supported: 5y
+
