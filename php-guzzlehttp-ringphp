@@ -1,0 +1,28 @@
+Package: php-guzzlehttp-ringphp
+Priority: optional
+Section: universe/php
+Installed-Size: 99
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.1.0-2ubuntu1
+Depends: ca-certificates, php-guzzle-stream (>= 3.0.0-3~), php-react-promise (>= 2.2.0-2~), php-common, php-guzzle-stream (<< 4~~), php-react-promise (<< 3~~)
+Suggests: php-guzzlehttp-ringphp-doc, php-curl
+Filename: pool/universe/p/php-guzzlehttp-ringphp/php-guzzlehttp-ringphp_1.1.0-2ubuntu1_all.deb
+Size: 19360
+MD5sum: 4af73a510f46c8a40114609975a4f89c
+SHA1: 2b1dce022df3aa505e784c1c91a39e30177c825b
+SHA256: bfa3a4018fa324e96c444fd7a79ce0312483b880fc130409471097fdf154fb99
+Description-en: Ring adapter and handler system for Guzzle
+ RingPHP provides low level APIs used to power HTTP clients and servers through
+ a simple, PHP callable that accepts a request hash and returns a future
+ response hash. RingPHP supports both synchronous and asynchronous workflows by
+ utilizing both futures and promises.
+ .
+ RingPHP is inspired by Clojure's Ring, but has been modified to accommodate
+ clients and servers for both blocking and non-blocking requests.
+Description-md5: b16aceaa1112484884782f2a1ae21ce0
+Homepage: http://ringphp.readthedocs.org/en/latest/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

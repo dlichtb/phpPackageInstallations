@@ -1,0 +1,52 @@
+Package: php-horde-activesync
+Architecture: all
+Version: 2.31.1-1ubuntu1.1
+Priority: extra
+Section: universe/php
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 1563
+Depends: php-common, php-horde-compress (>= 2.0.0), php-horde-compress (<< 3.0.0~alpha1), php-horde-date (>= 2.0.0), php-horde-date (<< 3.0.0~alpha1), php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-icalendar (>= 2.0.0), php-horde-icalendar (<< 3.0.0~alpha1), php-horde-mapi (>= 1.0.0), php-horde-mapi (<< 2.0.0~alpha1), php-horde-mime (>= 2.5.0), php-horde-mime (<< 3.0.0~alpha1), php-horde-stream (>= 1.4.0), php-horde-stream (<< 2.0.0~alpha1), php-horde-support (>= 2.0.0), php-horde-support (<< 3.0.0~alpha1), php-horde-translation (>= 2.2.0), php-horde-translation (<< 3.0.0~alpha1), php-horde-util (>= 2.0.0), php-horde-util (<< 3.0.0~alpha1)
+Recommends: php-horde-db (>= 2.1.0), php-horde-db (<< 3.0.0~alpha1), php-horde-imap-client (>= 2.28.1), php-horde-imap-client (<< 3.0.0~alpha1), php-horde-mail (>= 2.0.0), php-horde-mail (<< 3.0.0~alpha1), php-horde-mongo (>= 1.0.2), php-horde-mongo (<< 2.0.0~alpha1), php-horde-text-filter (>= 2.0.0), php-horde-text-filter (<< 3.0.0~alpha1), php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-activesync/php-horde-activesync_2.31.1-1ubuntu1.1_all.deb
+Size: 208232
+MD5sum: 64ba3ef24960749755363115f656feaf
+SHA1: 9152227e9e449c596f738d2c104dac5ca7b3521c
+SHA256: 9581af1ba615bd1a855ce4727f77490748aa31d3129227b3102481b51561ef17
+Homepage: http://www.horde.org/
+Description-en: Horde ActiveSync Server Library
+ Libraries for implementing an ActiveSync server.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 95644bf67e0b59691225a0a6c68e8a6d
+
+Package: php-horde-activesync
+Priority: extra
+Section: universe/php
+Installed-Size: 1563
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.31.1-1ubuntu1
+Depends: php-common, php-horde-compress (>= 2.0.0), php-horde-compress (<< 3.0.0~alpha1), php-horde-date (>= 2.0.0), php-horde-date (<< 3.0.0~alpha1), php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-icalendar (>= 2.0.0), php-horde-icalendar (<< 3.0.0~alpha1), php-horde-mapi (>= 1.0.0), php-horde-mapi (<< 2.0.0~alpha1), php-horde-mime (>= 2.5.0), php-horde-mime (<< 3.0.0~alpha1), php-horde-stream (>= 1.4.0), php-horde-stream (<< 2.0.0~alpha1), php-horde-support (>= 2.0.0), php-horde-support (<< 3.0.0~alpha1), php-horde-translation (>= 2.2.0), php-horde-translation (<< 3.0.0~alpha1), php-horde-util (>= 2.0.0), php-horde-util (<< 3.0.0~alpha1)
+Recommends: php-horde-db (>= 2.1.0), php-horde-db (<< 3.0.0~alpha1), php-horde-imap-client (>= 2.28.1), php-horde-imap-client (<< 3.0.0~alpha1), php-horde-mail (>= 2.0.0), php-horde-mail (<< 3.0.0~alpha1), php-horde-mongo (>= 1.0.2), php-horde-mongo (<< 2.0.0~alpha1), php-horde-text-filter (>= 2.0.0), php-horde-text-filter (<< 3.0.0~alpha1), php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-activesync/php-horde-activesync_2.31.1-1ubuntu1_all.deb
+Size: 208288
+MD5sum: e4658acc64eaf4701793873939623e5b
+SHA1: 143f00b76450cc3677f6b21e39f04edabd5df50f
+SHA256: c975eabda67082425798c8a120cd38b1cf8c2df268eacf191f641c18109c7433
+Description-en: Horde ActiveSync Server Library
+ Libraries for implementing an ActiveSync server.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 95644bf67e0b59691225a0a6c68e8a6d
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

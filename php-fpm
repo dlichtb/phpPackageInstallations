@@ -1,0 +1,58 @@
+Package: php-fpm
+Architecture: all
+Version: 1:7.0+35ubuntu6.1
+Priority: optional
+Section: universe/php
+Source: php-defaults (35ubuntu6.1)
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 11
+Depends: php7.0-fpm
+Filename: pool/universe/p/php-defaults/php-fpm_7.0+35ubuntu6.1_all.deb
+Size: 2952
+MD5sum: 5ab68e2b33ec32f95930886c77f2527c
+SHA1: 28659ee1f9783fb2c82e998fe661072a0580a572
+SHA256: f6823d39d4a1cf52958257aad9c8769caf13585390b06405af21fdca8c0bdc2d
+Description-en: server-side, HTML-embedded scripting language (FPM-CGI binary) (default)
+ This package provides the Fast Process Manager interpreter that runs
+ as a daemon and receives Fast/CGI requests.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+ .
+ This package is a dependency package, which depends on Debian's default
+ PHP version (currently 7.0).
+Description-md5: 9f3a43a0581898a7832fb499f624b4e1
+
+Package: php-fpm
+Priority: optional
+Section: universe/php
+Installed-Size: 11
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Architecture: all
+Source: php-defaults (35ubuntu6)
+Version: 1:7.0+35ubuntu6
+Depends: php7.0-fpm
+Filename: pool/universe/p/php-defaults/php-fpm_7.0+35ubuntu6_all.deb
+Size: 2926
+MD5sum: 998f2697147506fc15de8da12a335696
+SHA1: 7ce6b2875f4e8dfbff90bfcab8b0f1a5c50238d4
+SHA256: dc64ef345c7b18c1a5b5cf3856eaaadebc6e1d7535ba0e1e95312309f26c0c95
+Description-en: server-side, HTML-embedded scripting language (FPM-CGI binary) (default)
+ This package provides the Fast Process Manager interpreter that runs
+ as a daemon and receives Fast/CGI requests.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+ .
+ This package is a dependency package, which depends on Debian's default
+ PHP version (currently 7.0).
+Description-md5: 9f3a43a0581898a7832fb499f624b4e1
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

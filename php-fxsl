@@ -1,0 +1,28 @@
+Package: php-fxsl
+Priority: optional
+Section: universe/php
+Installed-Size: 40
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.1.1-1ubuntu1
+Depends: php-common, php-xml
+Filename: pool/universe/p/php-fxsl/php-fxsl_1.1.1-1ubuntu1_all.deb
+Size: 7534
+MD5sum: 05ee88ad61dae367946e8845f13f743e
+SHA1: 843645f95a037e39c7a60d888a97c0a954b54bd0
+SHA256: 17ccbea7c0eca863b96a68cd0bc69d089ad58d73efcde235a191d2d97863d6e2
+Description-en: XSL wrapper and extension to XSLTProcessor
+ An XSL wrapper / extension to the PHP 5.x XSLTProcessor with Exception and
+ extended Callback support.
+ .
+ The fXSL classes extend the standard XSLTProcessor to use exceptions at
+ all occasions of errors instead of PHP warnings, notices, or semi
+ completed transformations. They also add various custom methods and
+ shortcuts for convenience and to allow a nicer API to implement
+ callbacks to the PHP stack.
+Description-md5: 433c05980b5211b6f33257fae8f2a30e
+Homepage: https://github.com/theseer/fXSL
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

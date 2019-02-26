@@ -1,0 +1,26 @@
+Package: php-google-api-php-client
+Priority: optional
+Section: universe/php
+Installed-Size: 3015
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Source: google-api-php-client
+Version: 0.6.7-2ubuntu1
+Depends: ca-certificates, php | php-cli, php-curl
+Recommends: php-json
+Filename: pool/universe/g/google-api-php-client/php-google-api-php-client_0.6.7-2ubuntu1_all.deb
+Size: 249438
+MD5sum: 0d3f80d34673f5408288be58ccbe61ec
+SHA1: c972764ea3e95c5c80520b697cc6325817992f40
+SHA256: da78853e2a76cfad3d8221ac9ce5f055482534f44023d7820c6f7441456033b5
+Description-en: Google APIs client library for PHP
+ The Google API client library allows one to work with Google APIs such
+ as Analytics, Adsense, Google+, Calendar, Drive or Games. It includes
+ support for HTTP streams, which makes it simple to use the library from
+ an App Engine application just by tweaking the configuration file.
+Description-md5: 2080fad59cdf26e4b1cd34c5e5045f36
+Homepage: http://code.google.com/p/google-api-php-client/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

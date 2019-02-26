@@ -1,0 +1,24 @@
+Package: php-doctrine-cache
+Priority: optional
+Section: universe/php
+Installed-Size: 126
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.6.0-1ubuntu2
+Depends: php-common
+Filename: pool/universe/p/php-doctrine-cache/php-doctrine-cache_1.6.0-1ubuntu2_all.deb
+Size: 17264
+MD5sum: 321381e34f0a0443118103a3b91c62b1
+SHA1: 835459c9ba6877055c4351c5936e97be9cd5e0c1
+SHA256: 9ecb70aac620449b3e527e131ce056444db4787b8e858a901ce901d39e7fc7f9
+Description-en: cache library - Doctrine component
+ Caching library offering an object-oriented API for many cache backends.
+ .
+ The Doctrine Project provides several libraries primarily focused on
+ database storage and object mapping.
+Description-md5: 823f09c85be3d2417f13b7fa7401ee1e
+Homepage: http://www.doctrine-project.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

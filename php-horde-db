@@ -1,0 +1,26 @@
+Package: php-horde-db
+Priority: extra
+Section: universe/php
+Installed-Size: 523
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.3.1-1ubuntu2
+Depends: php-cli, php-common, php-horde-date (>= 2.0.0), php-horde-date (<< 3.0.0~alpha1), php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-support (>= 2.0.0), php-horde-support (<< 3.0.0~alpha1), php-horde-util (>= 2.0.0), php-horde-util (<< 3.0.0~alpha1)
+Recommends: php-horde-autoloader (>= 2.0.0), php-horde-autoloader (<< 3.0.0~alpha1), php-horde-cache (>= 2.0.0), php-horde-cache (<< 3.0.0~alpha1), php-horde-log (>= 2.0.0), php-horde-log (<< 3.0.0~alpha1), php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1), php-mysql, php-oci8
+Filename: pool/universe/p/php-horde-db/php-horde-db_2.3.1-1ubuntu2_all.deb
+Size: 67346
+MD5sum: 5e60df5f0016257b1f1adca8b29cf61d
+SHA1: 65a136647ff5d269944cdde992d0a6cde9c05a86
+SHA256: 3e83f2477cbdffd3427048d4c7d657e515cbc96b4e80f24013a780e5270ad191
+Description-en: Horde Database Libraries
+ Horde database/SQL abstraction layer
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 1738a3c77493aba0a1dd41a0b9723f91
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

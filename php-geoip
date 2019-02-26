@@ -1,0 +1,27 @@
+Package: php-geoip
+Priority: optional
+Section: universe/php
+Installed-Size: 50
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PECL Maintainers <pkg-php-pecl@lists.alioth.debian.org>
+Architecture: amd64
+Version: 1.1.0-4
+Depends: php-common (>= 1:7.0+33~), phpapi-20151012, libc6 (>= 2.14), libgeoip1
+Recommends: geoip-database
+Filename: pool/universe/p/php-geoip/php-geoip_1.1.0-4_amd64.deb
+Size: 10596
+MD5sum: 4a1852eb91208e258cb671137ba7f792
+SHA1: 199cd3cdc45c462f2c73b535c68de7168d6347a8
+SHA256: b63f1ba5e2eca530d550305667e26cab200d0b070b375669bbe124d32604c4c8
+Description-en: GeoIP module for PHP
+ This PHP module allows you to find the location of an IP address -
+ City, State, Country, Longitude, Latitude, and other information as
+ all, such as ISP and connection type.
+ .
+ For more info, please visit Maxmind's website:
+ http://www.maxmind.com/
+Description-md5: 8d8f04009feee6b5df8f3a2d8a2d420c
+Homepage: http://pecl.php.net/package/geoip/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

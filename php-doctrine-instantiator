@@ -1,0 +1,23 @@
+Package: php-doctrine-instantiator
+Priority: optional
+Section: universe/php
+Installed-Size: 36
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.0.5-1ubuntu1
+Depends: php-common
+Filename: pool/universe/p/php-doctrine-instantiator/php-doctrine-instantiator_1.0.5-1ubuntu1_all.deb
+Size: 6686
+MD5sum: 89745bc7f8b9e75e12550385e96be300
+SHA1: 69732d76ee9052bc2278c99ca974aa58035a4769
+SHA256: 0ce862ad544c510ef579fb644268bd6d519b1e0e8d4f9643b8343dd303d370da
+Description-en: lightweight utility to instantiate objects in PHP
+ Doctrine Instantiator provides a simple API to build objects without directly
+ relying on the serialization hack that has been explicitly used by all other
+ data mappers for quite some time.
+Description-md5: c4c24e3a44d371f0dc7a0c7f55bbbd11
+Homepage: https://github.com/doctrine/instantiator/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

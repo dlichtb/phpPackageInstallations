@@ -1,0 +1,56 @@
+Package: php-enchant
+Architecture: all
+Version: 1:7.0+35ubuntu6.1
+Priority: optional
+Section: universe/php
+Source: php-defaults (35ubuntu6.1)
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 11
+Depends: php-common, php7.0-enchant
+Filename: pool/universe/p/php-defaults/php-enchant_7.0+35ubuntu6.1_all.deb
+Size: 1934
+MD5sum: 1906ea01a439b98075ac6049f165e437
+SHA1: ef5316ef88e3d355abd2eec55630e88a7f004a7e
+SHA256: 38ed3fab9c022f50d0feebebfce853af950bb81c5150b0f8c3abe049dfe104e3
+Description-en: Enchant module for PHP [default]
+ This package provides a Enchant module for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+ .
+ This package is a dependency package, which depends on Debian's default
+ PHP version (currently 7.0).
+Description-md5: a2d0ecfeabbd3ca8501107ded7b069ae
+
+Package: php-enchant
+Priority: optional
+Section: universe/php
+Installed-Size: 11
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Architecture: all
+Source: php-defaults (35ubuntu6)
+Version: 1:7.0+35ubuntu6
+Depends: php-common, php7.0-enchant
+Filename: pool/universe/p/php-defaults/php-enchant_7.0+35ubuntu6_all.deb
+Size: 1934
+MD5sum: 6f8eb15ab1318f54b8603a6b02f969d8
+SHA1: 9ec23fd4c37417b4fc853c80fb503250763ba48d
+SHA256: e50845ca56239de644fb6eb2503fd6dbc812a82119c7f79c4134033c291157c6
+Description-en: Enchant module for PHP [default]
+ This package provides a Enchant module for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+ .
+ This package is a dependency package, which depends on Debian's default
+ PHP version (currently 7.0).
+Description-md5: a2d0ecfeabbd3ca8501107ded7b069ae
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

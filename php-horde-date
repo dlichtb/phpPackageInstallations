@@ -1,0 +1,26 @@
+Package: php-horde-date
+Priority: extra
+Section: universe/php
+Installed-Size: 546
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.2.0-1ubuntu1
+Depends: php-common, php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-nls (>= 2.0.0), php-horde-nls (<< 3.0.0~alpha1), php-horde-translation (>= 2.2.0), php-horde-translation (<< 3.0.0~alpha1)
+Recommends: php-horde-icalendar (>= 2.0.0), php-horde-icalendar (<< 3.0.0~alpha1), php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-date/php-horde-date_2.2.0-1ubuntu1_all.deb
+Size: 57868
+MD5sum: 249980da9876d4b5754ffb3bfaa55df5
+SHA1: 0af3856cc2630307b936f2ec150c07065e4dd0ab
+SHA256: 53eb0579f9c4831521585536c6c2f5267f3eec52ac4bc14a033cb5a08faf1c15
+Description-en: Horde Date package
+ Package for creating and manipulating dates.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 80fffbc20edfccc47c51144b26654774
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

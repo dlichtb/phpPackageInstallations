@@ -1,0 +1,24 @@
+Package: php-doctrine-inflector
+Priority: optional
+Section: universe/php
+Installed-Size: 32
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.1.0-1ubuntu1
+Depends: php-common
+Filename: pool/universe/p/php-doctrine-inflector/php-doctrine-inflector_1.1.0-1ubuntu1_all.deb
+Size: 7046
+MD5sum: 42a8eda41ab349c85c1bf11292e63b4d
+SHA1: 1a451192afd3bbaa64bc7f025c6d8e0f42623a5a
+SHA256: 0edc2c319abfa6c06a9ab2d625fc0f8e5df04aef391dd5009827b1c3ab4733d0
+Description-en: string manipulations library - Doctrine component
+ Common String Manipulations with regard to casing and singular/plural rules.
+ .
+ The Doctrine Project provides several libraries primarily focused on
+ database storage and object mapping.
+Description-md5: 65ef16f1a99d34a87d225fda2371e46f
+Homepage: http://www.doctrine-project.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

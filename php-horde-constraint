@@ -1,0 +1,26 @@
+Package: php-horde-constraint
+Priority: extra
+Section: universe/php
+Installed-Size: 51
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.0.3-1ubuntu1
+Depends: php-common
+Recommends: php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-constraint/php-horde-constraint_2.0.3-1ubuntu1_all.deb
+Size: 9540
+MD5sum: ca57594b975548545b12549b18fe785e
+SHA1: 393443b279fbe3ebee08d4ed2d1f4ee5867979a2
+SHA256: 58b76e3f6ed1501ebd8ee519365dc2463d833dd1370aa88543afcdfb3ce6e1a3
+Description-en: Horde Constraint library
+ A programmatic way of building constraints that evaluate to true or false.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 9e6d162f580b8ba173dabfa152e5643c
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

@@ -1,0 +1,27 @@
+Package: php-horde-css-parser
+Priority: extra
+Section: universe/php
+Installed-Size: 427
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 1.0.8-1ubuntu1
+Depends: php-common
+Recommends: php-mbstring
+Filename: pool/universe/p/php-horde-css-parser/php-horde-css-parser_1.0.8-1ubuntu1_all.deb
+Size: 72848
+MD5sum: a42d41105f843409a95e7818dfca13ab
+SHA1: 3f86ae6f86d70a4d456cb669ae44a4e2c393f45d
+SHA256: 82868c63f239c2df6500618f8f0122ef7e80c50aa17e19ac62ad50792f8002c7
+Description-en: Horde CSS Parser
+ This package provides access to the Sabberworm CSS Parser from within the
+ Horde framework.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: c3138eb01c0398b221ae2e59d9a5666c
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

@@ -1,0 +1,34 @@
+Package: php-doctrine-orm
+Priority: optional
+Section: universe/php
+Installed-Size: 2025
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Source: doctrine
+Version: 2.4.8-2
+Provides: doctrine
+Depends: php-doctrine-dbal (>= 2.4.5), php-mysql | php-pgsql | php-sqlite3 | php-sybase, php-symfony-console (>= 2.4), php-cli, php-common, php-doctrine-collections (>= 1.1), php-doctrine-collections (<< 2~~), php-doctrine-dbal (<< 3~~), php-symfony-console (<< 3~~)
+Recommends: doctrine-orm-doc, php-symfony-yaml
+Filename: pool/universe/d/doctrine/php-doctrine-orm_2.4.8-2_all.deb
+Size: 218314
+MD5sum: a05824d45de8a2db35bc9f0f6b58c7f2
+SHA1: 805d4625e58652d56a443009d8ccb354d1fb5854
+SHA256: 853c4db258cda8927f4def1d31e50510aa6d72196c3ac246f7896eb846252ef5
+Description-en: tool for object-relational mapping
+ Object-Relational-Mapper for PHP.
+ Doctrine 2 is an object-relational mapper (ORM) for PHP that provides
+ transparent persistence for PHP objects. It sits on top of a powerful
+ database abstraction layer (DBAL). One of its key features is the
+ option to write database queries in a proprietary object oriented SQL
+ dialect called Doctrine Query Language (DQL), inspired by Hibernates
+ HQL. This provides developers with a powerful alternative to SQL that
+ maintains flexibility without requiring unnecessary code duplication.
+ .
+ The Doctrine Project provides several libraries primarily focused on
+ database storage and object mapping.
+Description-md5: f86c3f18b698ceab7cbfc164afb58627
+Homepage: http://www.doctrine-project.org/projects/orm.html
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

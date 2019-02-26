@@ -1,0 +1,27 @@
+Package: php-horde-argv
+Priority: extra
+Section: universe/php
+Installed-Size: 472
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.0.12-1ubuntu1
+Depends: php-common, php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-translation (>= 2.2.0), php-horde-translation (<< 3.0.0~alpha1), php-horde-util (>= 2.0.0), php-horde-util (<< 3.0.0~alpha1)
+Recommends: php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-argv/php-horde-argv_2.0.12-1ubuntu1_all.deb
+Size: 63466
+MD5sum: c14cf4c991e5ed18a72a65323a96f1f2
+SHA1: 3064c906d12ccf1ad4efbc4d21475861db1dddfc
+SHA256: 577231c36b8d8b477bac0e6bd75848df0affe20cbf78819f2035b3b2b4b3fa7d
+Description-en: Horde command-line argument parsing package
+ Classes for parsing command line arguments with various actions, providing
+ help, grouping options, and more.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 2378456ad755f2a69fe18e09e92c4307
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

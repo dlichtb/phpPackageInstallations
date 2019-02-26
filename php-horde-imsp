@@ -1,0 +1,25 @@
+Package: php-horde-imsp
+Priority: extra
+Section: universe/php
+Installed-Size: 353
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.0.8-2build1
+Depends: php-common, php-horde-translation (>= 2.2.0), php-horde-translation (<< 3.0.0~alpha1), php-horde-util (>= 2.0.0), php-horde-util (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-imsp/php-horde-imsp_2.0.8-2build1_all.deb
+Size: 33526
+MD5sum: cf0f9ac11fae5c6ee6488fd84a05704c
+SHA1: 1c5292d979a4a4903b0ce5c179753024d39f9a86
+SHA256: cfb5b155f9817f54e0d043b8c453f1d1a76ba8b5fd3b24ed05338e943cda8cf9
+Description-en: IMSP API
+ Provides an API into an IMSP server for address books and options.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 9a12180c29a6696ea7e0921dd806151d
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

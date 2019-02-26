@@ -1,0 +1,26 @@
+Package: php-horde-browser
+Priority: extra
+Section: universe/php
+Installed-Size: 398
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.0.11-1build1
+Depends: php-common, php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-translation (>= 2.2.0), php-horde-translation (<< 3.0.0~alpha1), php-horde-util (>= 2.0.0), php-horde-util (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-browser/php-horde-browser_2.0.11-1build1_all.deb
+Size: 36624
+MD5sum: 0d5f26f9acd036bbfc4d4e63ee131353
+SHA1: 2a46cd496c5cf2c691e4969e7913c7f8324c5c7f
+SHA256: 850d7313781a9e2a41b5563f54916b9f1a61ab66dfc752d73e54ae7727267282
+Description-en: Horde Browser API
+ The Horde_Browser class provides an API for getting information about the
+ current user's browser and its capabilities.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: efa5affa451c57b4c07aeef52ab98aab
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

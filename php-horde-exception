@@ -1,0 +1,27 @@
+Package: php-horde-exception
+Priority: extra
+Section: universe/php
+Installed-Size: 290
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.0.7-1ubuntu1
+Depends: php-common, php-horde-translation (>= 2.2.0), php-horde-translation (<< 3.0.0~alpha1)
+Recommends: php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-exception/php-horde-exception_2.0.7-1ubuntu1_all.deb
+Size: 23876
+MD5sum: 25ecd1fa5ad5779918c523d504679883
+SHA1: 98707b32e9c30ab5e84617aaddda65e12e2f392a
+SHA256: 2bfbc8d20d665d77f97f14b1cc4ea2f7599dedbef7b1f9f47df23c533d9ac8cb
+Description-en: Horde Exception Handler
+ This class provides the default exception handlers for the Horde Application
+ Framework.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: d30ea1e81e72e9eb33801e93261093a0
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

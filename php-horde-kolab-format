@@ -1,0 +1,26 @@
+Package: php-horde-kolab-format
+Priority: extra
+Section: universe/php
+Installed-Size: 444
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.0.8-1ubuntu1
+Depends: php-common, php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-util (>= 2.0.0), php-horde-util (<< 3.0.0~alpha1), php-xml
+Recommends: php-horde-support (>= 2.0.0), php-horde-support (<< 3.0.0~alpha1), php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1), php-mbstring
+Filename: pool/universe/p/php-horde-kolab-format/php-horde-kolab-format_2.0.8-1ubuntu1_all.deb
+Size: 46310
+MD5sum: 0efa123f10f35c4791f3c67e64b68ac0
+SHA1: 995f5942a84be849855690e5f69c4e7ba90565bd
+SHA256: 5b45b13cf24bea42cfe33b270c40bb19492481e8202c8e54dc907172cd0a67e0
+Description-en: A package for reading/writing Kolab data formats
+ This package allows converting Kolab data objects from XML to data arrays.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 8a211dd3558951b0e81411223cd4fe5c
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

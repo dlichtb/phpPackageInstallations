@@ -1,0 +1,26 @@
+Package: php-horde-feed
+Priority: extra
+Section: universe/php
+Installed-Size: 253
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.0.4-1ubuntu1
+Depends: php-common, php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-http (>= 2.0.0), php-horde-http (<< 3.0.0~alpha1), php-horde-xml-element (>= 2.0.0), php-horde-xml-element (<< 3.0.0~alpha1), php-xml
+Recommends: php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-feed/php-horde-feed_2.0.4-1ubuntu1_all.deb
+Size: 39852
+MD5sum: 371bbd97bd674c164125bcd05d16fa3b
+SHA1: c24f2e8a96bd9d6c7e5b17eefe37a97961e0ef8a
+SHA256: 9d516949e6fd1d065f55b900f5840f6855152c26ea7cab470aa72431bd9f3c52
+Description-en: Horde Feed libraries
+ Support for working with feed formats such as RSS and Atom.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: b30490cdf29d485adaa97fdfcd72153f
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

@@ -1,0 +1,24 @@
+Package: php-elisp
+Priority: optional
+Section: universe/text
+Installed-Size: 140
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Ola Lundqvist <opal@debian.org>
+Architecture: all
+Version: 1.13.5-2
+Depends: emacs24 | emacs23 | emacsen
+Recommends: speedbar
+Suggests: php5, php5-cli
+Filename: pool/universe/p/php-elisp/php-elisp_1.13.5-2_all.deb
+Size: 21254
+MD5sum: 7dbfdc870a9dcbbb70d1443ff8d32064
+SHA1: a2115edc99a5b2bb8c1ac0c92b336c8b742b8c70
+SHA256: f948d48988567859df8e6c6e228a031755a3986a51ab969be7a2c952db95e246
+Description-en: Emacs support for php files
+ Emacs major mode for php supporting syntax highlighting, indentation
+ and good integration with html-statements.
+Description-md5: 721faf6de79fa392ee2eb6dc3c5a9c86
+Homepage: https://github.com/ejmr/php-mode
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

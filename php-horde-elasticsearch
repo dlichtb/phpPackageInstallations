@@ -1,0 +1,25 @@
+Package: php-horde-elasticsearch
+Priority: extra
+Section: universe/php
+Installed-Size: 45
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 1.0.3-3build1
+Depends: php-common, php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-http (>= 2.0.0), php-horde-http (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-elasticsearch/php-horde-elasticsearch_1.0.3-3build1_all.deb
+Size: 8214
+MD5sum: 3e291a738436e86df84537db992859ab
+SHA1: 07d653a57e515955817011ff7d55a2e866eabcee
+SHA256: b09e899723db75c77e03098671110ebf8a43e4d26db8426605b1340d5189d495
+Description-en: Horde ElasticSearch client
+ Lightweight API for ElasticSearch (http://www.elasticsearch.org/).
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 905540f1a000cda51f87fe688b9155fe
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

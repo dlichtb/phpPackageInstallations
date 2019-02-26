@@ -1,0 +1,27 @@
+Package: php-horde-content
+Priority: extra
+Section: universe/php
+Installed-Size: 176
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.0.5-1ubuntu1
+Provides: content
+Depends: php-cli, php-common, php-horde-core (>= 2.0.0), php-horde-core (<< 3.0.0~alpha1), php-horde-date (>= 2.0.0), php-horde-date (<< 3.0.0~alpha1), php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-db (>= 2.0.0), php-horde-db (<< 3.0.0~alpha1), php-horde-injector (>= 2.0.0), php-horde-injector (<< 3.0.0~alpha1), php-horde-rdo (>= 2.0.0), php-horde-rdo (<< 3.0.0~alpha1), php-horde-util (>= 2.0.0), php-horde-util (<< 3.0.0~alpha1), php-json
+Recommends: php-horde-argv (>= 2.0.0), php-horde-argv (<< 3.0.0~alpha1), php-horde-controller (>= 2.0.0), php-horde-controller (<< 3.0.0~alpha1), php-horde-elasticsearch (>= 1.0.0), php-horde-elasticsearch (<< 2.0.0~alpha1)
+Filename: pool/universe/p/php-horde-content/php-horde-content_2.0.5-1ubuntu1_all.deb
+Size: 25686
+MD5sum: c33dc7628dca8a06b812101d221473dc
+SHA1: 51f10c22615d188d3eeb772ee2b7ef2877310acc
+SHA256: 8db0c91a5f58ca7415b5c3424ddc2cb4cce73e380783a5f0515c7d0327037635
+Description-en: Tagging application
+ This application provides tagging support for the other Horde applications.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 1c1939cd8c186d84b96e2b7e06111d76
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

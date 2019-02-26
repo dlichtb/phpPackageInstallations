@@ -1,0 +1,27 @@
+Package: php-horde-date-parser
+Priority: extra
+Section: universe/php
+Installed-Size: 157
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.0.5-1ubuntu1
+Depends: php-common, php-horde-date (>= 2.0.0), php-horde-date (<< 3.0.0~alpha1), php-horde-support (>= 2.0.0), php-horde-support (<< 3.0.0~alpha1), php-horde-util (>= 2.0.0), php-horde-util (<< 3.0.0~alpha1)
+Recommends: php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-date-parser/php-horde-date-parser_2.0.5-1ubuntu1_all.deb
+Size: 22238
+MD5sum: 8578645d5ee4d3515fe17e05f446808d
+SHA1: 0f39d1de218ebbeefa91c870818aa3432e261624
+SHA256: 80d3938dfe3ce3ed238adf524e39777fbe4eaf79ee710641a317ec3f848b2b94
+Description-en: Horde Date Parser
+ Library for natural-language date parsing, with support for multiple languages
+ and locales
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 0b4199a1c25a02af55198baa36e00fd7
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

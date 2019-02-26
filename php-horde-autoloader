@@ -1,0 +1,26 @@
+Package: php-horde-autoloader
+Priority: extra
+Section: universe/php
+Installed-Size: 60
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.1.2-1ubuntu1
+Depends: php-common
+Recommends: php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-autoloader/php-horde-autoloader_2.1.2-1ubuntu1_all.deb
+Size: 10896
+MD5sum: c2f812540264c4e049e51b00bdbe9933
+SHA1: bc1ff9484e7c5820533079a854ad6cc0edfc2f6a
+SHA256: 9255f1c6a557d6d4112c5f64ae2677d72eb912d9df7d123caa4f12a57f0891a5
+Description-en: Horde Autoloader
+ Autoload implementation and class loading manager for Horde.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: d604bdcca512c640403931ad0501cae5
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

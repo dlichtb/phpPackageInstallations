@@ -1,0 +1,28 @@
+Package: php-horde-gollem
+Priority: extra
+Section: universe/php
+Installed-Size: 2856
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 3.0.7-1build1
+Depends: php-common, php-horde (>= 5.0.2), php-horde (<< 6.0.0~alpha1), php-horde-auth (>= 2.0.0), php-horde-auth (<< 3.0.0~alpha1), php-horde-cache (>= 2.0.0), php-horde-cache (<< 3.0.0~alpha1), php-horde-core (>= 2.7.0), php-horde-core (<< 3.0.0~alpha1), php-horde-editor (>= 2.0.0), php-horde-editor (<< 3.0.0~alpha1), php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-mime (>= 2.0.0), php-horde-mime (<< 3.0.0~alpha1), php-horde-mime-viewer (>= 2.0.0), php-horde-mime-viewer (<< 3.0.0~alpha1), php-horde-perms (>= 2.0.0), php-horde-perms (<< 3.0.0~alpha1), php-horde-serialize (>= 2.0.0), php-horde-serialize (<< 3.0.0~alpha1), php-horde-support (>= 2.0.0), php-horde-support (<< 3.0.0~alpha1), php-horde-url (>= 2.0.0), php-horde-url (<< 3.0.0~alpha1), php-horde-util (>= 2.0.0), php-horde-util (<< 3.0.0~alpha1), php-horde-vfs (>= 2.0.0), php-horde-vfs (<< 3.0.0~alpha1), php-horde-view (>= 2.0.0), php-horde-view (<< 3.0.0~alpha1), php-json
+Recommends: php-horde-db (>= 2.0.0), php-horde-db (<< 3.0.0~alpha1), php-horde-share (>= 2.0.0), php-horde-share (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-gollem/php-horde-gollem_3.0.7-1build1_all.deb
+Size: 510558
+MD5sum: 902408bd5b1769c071c993b1a19b2841
+SHA1: ad853a0b36df940e1fb242d76371b89d9aeb993a
+SHA256: 7c0a3e69d4e47e0301580b399e47a37b758995a9e37312dd105c1cd7c95890c3
+Description-en: Web-based file manager
+ Gollem is a web-based file manager, providing the ability to fully manage a
+ hierarchical file system stored in a variety of backends such as a SQL
+ database, as part of a real filesystem, or on FTP, Samba or SSH servers.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 2a2feb1667f724be691cab34b53db297
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

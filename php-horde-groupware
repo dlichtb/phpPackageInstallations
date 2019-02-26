@@ -1,0 +1,31 @@
+Package: php-horde-groupware
+Priority: extra
+Section: universe/php
+Installed-Size: 196
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 5.2.12-1build1
+Replaces: horde-bundle
+Provides: horde-bundle
+Depends: php-cli, php-common, php-horde-content (>= 2.0.5), php-horde-content (<< 3.0.0~alpha1), php-horde-gollem (>= 3.0.6), php-horde-gollem (<< 4.0.0~alpha1), php-horde (>= 5.2.9), php-horde (<< 6.0.0~alpha1), php-horde-kronolith (>= 4.2.12), php-horde-kronolith (<< 5.0.0~alpha1), php-horde-mnemo (>= 4.2.9), php-horde-mnemo (<< 5.0.0~alpha1), php-horde-nag (>= 4.2.7), php-horde-nag (<< 5.0.0~alpha1), php-horde-timeobjects (>= 2.1.1), php-horde-timeobjects (<< 3.0.0~alpha1), php-horde-trean (>= 1.1.4), php-horde-trean (<< 2.0.0~alpha1), php-horde-turba (>= 4.2.12), php-horde-turba (<< 5.0.0~alpha1)
+Conflicts: horde-bundle
+Breaks: php-horde-webmail
+Filename: pool/universe/p/php-horde-groupware/php-horde-groupware_5.2.12-1build1_all.deb
+Size: 29642
+MD5sum: 8ebd9dedbc8ac5ccda37ead1447e3d3a
+SHA1: ba32d5ca108967cf9e7c65e75aa275dee37b1700
+SHA256: e1a08f9af3602272f804080472c68423758997f060a082a94abe5d3e0d592133
+Description-en: Horde Groupware
+ Horde Groupware is a free, enterprise ready, browser based collaboration
+ suite. Users can manage and share calendars, contacts, tasks and notes with
+ the standards compliant components from the Horde Project.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 1d61405ba5cd769783cd63dc9949ca3e
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

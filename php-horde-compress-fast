@@ -1,0 +1,27 @@
+Package: php-horde-compress-fast
+Priority: extra
+Section: universe/php
+Installed-Size: 51
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 1.1.1-1ubuntu1
+Depends: php-common, php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1)
+Recommends: php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1), php-horde-lz4, php-lzf (>= 1.5.2)
+Filename: pool/universe/p/php-horde-compress-fast/php-horde-compress-fast_1.1.1-1ubuntu1_all.deb
+Size: 8858
+MD5sum: 1b50e429afe1ae7521a9ce262532a1ba
+SHA1: 696be3cef7b1e2193f4f140df9981649279e4446
+SHA256: e027133a7777fc0a5c47b060a97eead05f435ade42dadc7d8f5d4e1fa911972f
+Description-en: Fast Compression Library
+ Provides compression suitable for packing strings on-the-fly in PHP code (as
+ opposed to more resource-intensive compression algorithms such as DEFLATE).
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 43d20163b2351b16911de977dec160e1
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

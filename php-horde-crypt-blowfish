@@ -1,0 +1,26 @@
+Package: php-horde-crypt-blowfish
+Priority: extra
+Section: universe/php
+Installed-Size: 87
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 1.1.1-1ubuntu1
+Depends: php-common, php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-support (>= 2.0.0), php-horde-support (<< 3.0.0~alpha1)
+Recommends: php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1), php-mcrypt
+Filename: pool/universe/p/php-horde-crypt-blowfish/php-horde-crypt-blowfish_1.1.1-1ubuntu1_all.deb
+Size: 17268
+MD5sum: 68ed1d9cead32a7f5c4b251829297f36
+SHA1: 5f23f78b102961e7ce6dc62489922937786bda32
+SHA256: f26d6e2e26b51b8a505b8939d7990962823a5e902bb9b601d22bcf0738071b83
+Description-en: Blowfish Encryption Library
+ Provides blowfish encryption/decryption for PHP string data.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 2f4c55829041ba5829f5e92316c0a5e3
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

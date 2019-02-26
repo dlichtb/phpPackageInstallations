@@ -1,0 +1,27 @@
+Package: php-finder-facade-doc
+Priority: optional
+Section: universe/doc
+Installed-Size: 146
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Source: php-finder-facade
+Version: 1.2.0-1ubuntu1
+Filename: pool/universe/p/php-finder-facade/php-finder-facade-doc_1.2.0-1ubuntu1_all.deb
+Size: 12228
+MD5sum: e8eca0f891248f6b3a458e7760c84af3
+SHA1: 7a62cdcebc7daae88f302ca79b4710fd22afd018
+SHA256: 7c970e325097cf8cf0dc1eca9da115de85f4256b93cb842bfcd892b712ed9a13
+Description-en: convenience wrapper for Symfony's Finder component - documentation
+ This package contains the documentation for FinderFacade.
+ .
+ Finder provides an intuitive fluent interface to find files and
+ directories on a filesystem.
+ .
+ Symfony is a PHP framework, a set of tools and a development
+ methodology.
+Description-md5: 7dcea08844c84c5ae7cbff0d7ce02a4b
+Homepage: https://github.com/sebastianbergmann/finder-facade
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

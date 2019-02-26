@@ -1,0 +1,27 @@
+Package: php-horde-imap-client
+Priority: extra
+Section: universe/php
+Installed-Size: 1313
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.29.5-1ubuntu1
+Depends: php-common, php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-mail (>= 2.0.0), php-horde-mail (<< 3.0.0~alpha1), php-horde-mime (>= 2.5.2), php-horde-mime (<< 3.0.0~alpha1), php-horde-socket-client (>= 2.0.0), php-horde-socket-client (<< 3.0.0~alpha1), php-horde-stream (>= 1.4.0), php-horde-stream (<< 2.0.0~alpha1), php-horde-secret (>= 2.0.0), php-horde-secret (<< 3.0.0~alpha1), php-horde-stream-filter (>= 2.0.0), php-horde-stream-filter (<< 3.0.0~alpha1), php-horde-translation (>= 2.2.0), php-horde-translation (<< 3.0.0~alpha1), php-horde-util (>= 2.0.0), php-horde-util (<< 3.0.0~alpha1), php-json
+Recommends: php-horde-cache (>= 2.0.0), php-horde-cache (<< 3.0.0~alpha1), php-horde-compress-fast (>= 1.0.0), php-horde-compress-fast (<< 2.0.0~alpha1), php-horde-crypt-blowfish (>= 1.1.0), php-horde-crypt-blowfish (<< 2.0.0~alpha1), php-horde-db (>= 2.2.0), php-horde-db (<< 3.0.0~alpha1), php-horde-hashtable (>= 1.0.0), php-horde-hashtable (<< 2.0.0~alpha1), php-horde-mongo (>= 1.0.0), php-horde-mongo (<< 2.0.0~alpha1), php-horde-pack (>= 1.0.0), php-horde-pack (<< 2.0.0~alpha1), php-horde-stringprep (>= 1.0.0), php-horde-stringprep (<< 2.0.0~alpha1), php-horde-support (>= 2.0.0), php-horde-support (<< 3.0.0~alpha1), php-horde-test (>= 2.2.7), php-horde-test (<< 3.0.0~alpha1), php-intl, php-mbstring
+Filename: pool/universe/p/php-horde-imap-client/php-horde-imap-client_2.29.5-1ubuntu1_all.deb
+Size: 193188
+MD5sum: b84446c540b83b126322a7b11fa3a2d8
+SHA1: 69d9670a7257621061b81ba051ba93739b1d5870
+SHA256: 6241fd087872842cefbb6176ec1197ebfd2fbee72745aa0b79875225bddd5f2d
+Description-en: Horde IMAP Client
+ Interface to access IMAP4rev1 (RFC 3501) mail servers. Also supports
+ connections to POP3 (STD 53/RFC 1939).
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 71493ff311dc6313b7887e9be0880abd
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

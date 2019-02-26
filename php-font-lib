@@ -1,0 +1,29 @@
+Package: php-font-lib
+Priority: optional
+Section: universe/php
+Installed-Size: 388
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 0.2.2+dfsg-2build1
+Depends: php-common
+Filename: pool/universe/p/php-font-lib/php-font-lib_0.2.2+dfsg-2build1_all.deb
+Size: 48322
+MD5sum: 69d5147959c3fec1878cb0fe6b84eb19
+SHA1: 83916ed49eb593c5a6c841e22a2a3a8212995dd4
+SHA256: 3ac273b4ce085a3445fbb3407102132a7537fd579bd3879939f1cd9be80d992c
+Description-en: read, parse, export and make subsets of different fonts
+ A library to read, parse, export and make subsets of different types of font
+ files
+ .
+ This library can be used to:
+  * Read TrueType, OpenType (with TrueType glyphs), WOFF font files
+  * Extract basic info (name, style, etc.)
+  * Extract advanced info (horizontal metrics, glyph names, glyph
+    shapes, etc.)
+  * Make an Adobe Font Metrics (AFM) file from a font
+Description-md5: d061c48a629c8d7d9b213730eccbd572
+Homepage: https://github.com/PhenX/php-font-lib
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

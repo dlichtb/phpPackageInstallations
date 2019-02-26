@@ -1,0 +1,23 @@
+Package: php-guzzlehttp-promises
+Priority: optional
+Section: universe/php
+Installed-Size: 66
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.0.3-1build1
+Depends: php-common
+Filename: pool/universe/p/php-guzzlehttp-promises/php-guzzlehttp-promises_1.0.3-1build1_all.deb
+Size: 16018
+MD5sum: 85f1660b8c1d26197eca47bd85ecc916
+SHA1: 2c27cd6b645997b09b977cbcf3e7abfa2f979afb
+SHA256: f6d7b21cfd0c7e30bbf1e1bbc522f2058bfa17253f4247c9dc50a975b54e13a3
+Description-en: Guzzle promises library
+ Promises/A+ implementation that handles promise chaining and resolution
+ iteratively, allowing for “infinite” promise chaining while keeping the
+ stack size constant.
+Description-md5: 18b5c287c033c8532be7e816529c0c9a
+Homepage: https://github.com/guzzle/promises
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

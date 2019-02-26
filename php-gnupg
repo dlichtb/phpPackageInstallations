@@ -1,0 +1,21 @@
+Package: php-gnupg
+Priority: extra
+Section: universe/php
+Installed-Size: 82
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PECL Maintainers <pkg-php-pecl@lists.alioth.debian.org>
+Architecture: amd64
+Version: 1.3.6-1ubuntu1
+Depends: php-common (>= 1:7.0+33~), phpapi-20151012, libc6 (>= 2.14), libgpgme11 (>= 1.2.0)
+Filename: pool/universe/p/php-gnupg/php-gnupg_1.3.6-1ubuntu1_amd64.deb
+Size: 20748
+MD5sum: 087cf60dabb09e87c59f6da5cf52d637
+SHA1: 223b858c03c33f76ef5312fdbabbc4bf52093f17
+SHA256: 6b4393599118e88490a2641433044cc06720daa059829a5483176844ea7d08ac
+Description-en: wrapper around the gpgme library
+ This extension provides methods to interact with gnupg.
+Description-md5: 855ac6c82df8eb4914098220cb380ebc
+Homepage: http://pecl.php.net/package/gnupg
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

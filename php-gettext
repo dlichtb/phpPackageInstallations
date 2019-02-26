@@ -1,0 +1,33 @@
+Package: php-gettext
+Priority: optional
+Section: universe/web
+Installed-Size: 69
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Marcelo Jorge Vieira <metal@debian.org>
+Architecture: all
+Version: 1.0.11-2build1
+Depends: php-pear
+Filename: pool/universe/p/php-gettext/php-gettext_1.0.11-2build1_all.deb
+Size: 15798
+MD5sum: 110f8f48bcc8e548b41c21675f15ec6d
+SHA1: f920cd9c34e5518abab98110df64477ba6d9d92b
+SHA256: 0f95a620e7c3d31003f55d80090a12c4e542781cd51462b49a53bb25484c4ec3
+Description-en: read gettext MO files directly, without requiring anything other than PHP
+ The GNU gettext library is a widely used localization library, but in
+ order to use it with the PHP language, the system has to support the
+ desired locale, and library itself must be installed.
+ .
+ Since this is not always the case, PHP-gettext has been developed to be
+ able to read gettext MO files directly, without requiring anything other
+ than PHP.
+ .
+ Currently, it's usable if you develop most of the infrastructure for
+ choosing language on your own, because it's possible to use both
+ gettext() and ngettext() calls. In the near future, it should also be
+ fully compatible drop-in replacement for all of gettext functionality
+ written in PHP.
+Description-md5: 403def874de6f8841d4a7707af10f20f
+Homepage: https://launchpad.net/php-gettext/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

@@ -1,0 +1,27 @@
+Package: php-horde-idna
+Priority: extra
+Section: universe/php
+Installed-Size: 41
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 1.0.3-2build1
+Depends: php-common, php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-util (>= 2.0.0), php-horde-util (<< 3.0.0~alpha1)
+Recommends: php-intl
+Filename: pool/universe/p/php-horde-idna/php-horde-idna_1.0.3-2build1_all.deb
+Size: 8740
+MD5sum: a6a934b9090b9f248e1cd4fb5dffa5ef
+SHA1: 3d98125f8aae883e68bdd50a8da136bd3242b59b
+SHA256: f693a096a8317741a78be1519290bb535db526bcb0009d59f023029c9195e42d
+Description-en: IDNA backend normalization package
+ Normalized access to various backends providing IDNA (Internationalized Domain
+ Names in Applications) support.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: a7dc4c82408fd2001b61d0a52f8734b8
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

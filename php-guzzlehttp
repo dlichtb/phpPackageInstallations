@@ -1,0 +1,27 @@
+Package: php-guzzlehttp
+Priority: optional
+Section: universe/php
+Installed-Size: 232
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 6.1.1-1
+Depends: php-common, php-guzzlehttp-psr7 (>= 1.1), php-guzzlehttp-psr7 (<< 2~~), php-guzzlehttp-promises (>= 1.0), php-guzzlehttp-promises (<< 2~~)
+Filename: pool/universe/p/php-guzzlehttp/php-guzzlehttp_6.1.1-1_all.deb
+Size: 54908
+MD5sum: 90cd7d00ac6bd903f3c43ce5b59496a4
+SHA1: db2a3bb4ec8a08fd0b5b9274602fc6b77b41b582
+SHA256: 5b6fd51d4077b53e334bf4390ea657827b49e7bd74f2b832056daf80c68f9daa
+Description-en: object-oriented PHP HTTP client
+ Guzzle is a PHP HTTP client library.
+ It takes the pain out of sending HTTP requests and the redundancy out of
+ creating web service clients. It's a framework that includes the tools needed
+ to create a robust web service client, including: Service descriptions for
+ defining the inputs and outputs of an API, resource iterators for traversing
+ paginated resources, batching for sending a large number of requests as
+ efficiently as possible.
+Description-md5: 7012e95abece95e76de77874b09a73c5
+Homepage: http://guzzlephp.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

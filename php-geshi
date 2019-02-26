@@ -1,0 +1,33 @@
+Package: php-geshi
+Priority: optional
+Section: universe/web
+Installed-Size: 5685
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Mediawiki Maintenance Team <pkg-mediawiki-devel@lists.alioth.debian.org>
+Architecture: all
+Source: geshi
+Version: 1.0.8.11-2ubuntu1
+Depends: php | php-cli
+Pre-Depends: dpkg (>= 1.15.6~)
+Filename: pool/universe/g/geshi/php-geshi_1.0.8.11-2ubuntu1_all.deb
+Size: 696486
+MD5sum: a485be082286fc5d5eb2e8eaa950f2cf
+SHA1: 9e39a8995b174c7ee58efc02cfe9d6e6347fb3b1
+SHA256: 3968ee933801117eb632db14c446fd78e54c214e707aad919c7aac7c0956effd
+Description-en: Generic Syntax Highlighter
+ GeSHi aims  to be a simple but powerful highlighting class,
+ with the following goals:
+ .
+    * Support for a wide range of popular languages
+    * Easy to add a new language for highlighting
+    * Highly customisable output formats
+ .
+ GeSHi aims to  do this all as quickly  as possible. Many customisable
+ features of GeSHi facilitate speed increases, and you can easily find
+ a balance  between the amount of  highlighting done and  the speed in
+ which it is done.
+Description-md5: b72db1d97d3ef33679635be1b9e8e753
+Homepage: http://qbnz.com/highlighter/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

@@ -1,0 +1,26 @@
+Package: php-horde-icalendar
+Priority: extra
+Section: universe/php
+Installed-Size: 463
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.1.2-1ubuntu2
+Depends: php-common, php-horde-date (>= 2.0.0), php-horde-date (<< 3.0.0~alpha1), php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-mail (>= 2.0.0), php-horde-mail (<< 3.0.0~alpha1), php-horde-support (>= 2.0.0), php-horde-support (<< 3.0.0~alpha1), php-horde-translation (>= 2.2.0), php-horde-translation (<< 3.0.0~alpha1), php-horde-util (>= 2.0.0), php-horde-util (<< 3.0.0~alpha1)
+Recommends: php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-icalendar/php-horde-icalendar_2.1.2-1ubuntu2_all.deb
+Size: 50394
+MD5sum: 755db10177f2c270d2f49ab95f24a780
+SHA1: bbfcb5470f207a93126c2921cd76ecb879d6981a
+SHA256: 6f0101a5cf6f4bca16d00103a5aead51c9f7440991580c160a8a98c94fe0b927
+Description-en: iCalendar API
+ An API for dealing with iCalendar data.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 777754bd96a6345486461ece38c390e8
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

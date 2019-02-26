@@ -1,0 +1,26 @@
+Package: php-horde-itip
+Priority: extra
+Section: universe/php
+Installed-Size: 437
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.1.1-1ubuntu1
+Depends: php-common, php-horde-icalendar (>= 2.0.0), php-horde-icalendar (<< 3.0.0~alpha1), php-horde-mime (>= 2.5.0), php-horde-mime (<< 3.0.0~alpha1), php-horde-translation (>= 2.2.0), php-horde-translation (<< 3.0.0~alpha1)
+Recommends: php-horde-prefs (>= 2.3.0), php-horde-prefs (<< 3.0.0~alpha1), php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-itip/php-horde-itip_2.1.1-1ubuntu1_all.deb
+Size: 33942
+MD5sum: 5e6d2c7a8b830231ebd2d90ff0c2c352
+SHA1: 466bec22c7904fe40ba173aea462e0cd63e3617e
+SHA256: 0e7743f82ccddcbb03d41bfed3aebc9fab85424c6a1e2e9ad0919e0d3c47260a
+Description-en: iTip invitation response handling
+ This package to generates MIME encapsuled responses to iCalendar invitations.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 807b84af5c41ff7442dffa9cfae4da26
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

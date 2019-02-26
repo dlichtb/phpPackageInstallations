@@ -1,0 +1,26 @@
+Package: php-getid3
+Priority: optional
+Section: universe/web
+Installed-Size: 2076
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.9.11+dfsg-1build1
+Depends: php-common
+Recommends: vorbis-tools
+Filename: pool/universe/p/php-getid3/php-getid3_1.9.11+dfsg-1build1_all.deb
+Size: 334716
+MD5sum: 220008bc05b0fc62a4b589f7fd9c6b74
+SHA1: 466f1736a8a738dede61c53c2f5b33f55d30fa35
+SHA256: 878b6e79c3a54bee9f0deb2d415ac5165bdfc005d119a0646bb73d19df242b63
+Description-en: scripts to extract information from multimedia files
+ PHP script that extracts useful information from popular multimedia file
+ formats.
+ .
+ getID3() supports many formats such as ID3v1, ID3v2, Ogg,
+ MPC, AVI, etc.
+Description-md5: 9be39a406637bcd476ed4d03f13ffbe3
+Homepage: http://www.getid3.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

@@ -1,0 +1,26 @@
+Package: php-horde-group
+Priority: extra
+Section: universe/php
+Installed-Size: 121
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.1.0-1ubuntu1
+Depends: php-common, php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-util (>= 2.0.0), php-horde-util (<< 3.0.0~alpha1), php-horde-support (>= 2.0.0), php-horde-support (<< 3.0.0~alpha1)
+Recommends: php-horde-cache (>= 2.0.0), php-horde-cache (<< 3.0.0~alpha1), php-horde-db (>= 2.0.0), php-horde-db (<< 3.0.0~alpha1), php-horde-ldap (>= 2.0.0), php-horde-ldap (<< 3.0.0~alpha1), php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-group/php-horde-group_2.1.0-1ubuntu1_all.deb
+Size: 17578
+MD5sum: 45d0aa78aa2615bc21fba0f622c8fadb
+SHA1: a1afa3f9a0d14205a9102829d03a2fd69b02d6a1
+SHA256: e762222681d590afe1fd7d103f2a9df1937a0a71c85ccbf95cb3aac31ec692f7
+Description-en: Horde User Groups System
+ Package for managing and accessing the Horde groups system.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 33dac56243f93dea5581f349ff9f245c
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

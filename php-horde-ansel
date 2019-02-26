@@ -1,0 +1,26 @@
+Package: php-horde-ansel
+Priority: extra
+Section: universe/php
+Installed-Size: 4042
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 3.0.3+debian0-3
+Depends: php-cli, php-common, php-horde-content (>= 2.0.3), php-horde-content (<< 3.0.0~alpha1), php-horde (>= 5.0.0), php-horde (<< 6.0.0~alpha1), php-horde-auth (>= 2.0.0), php-horde-auth (<< 3.0.0~alpha1), php-horde-autoloader (>= 2.0.0), php-horde-autoloader (<< 3.0.0~alpha1), php-horde-core (>= 2.6.1), php-horde-core (<< 3.0.0~alpha1), php-horde-date (>= 2.0.0), php-horde-date (<< 3.0.0~alpha1), php-horde-db (>= 2.0.3), php-horde-db (<< 3.0.0~alpha1), php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-form (>= 2.0.0), php-horde-form (<< 3.0.0~alpha1), php-horde-group (>= 2.0.0), php-horde-group (<< 3.0.0~alpha1), php-horde-image (>= 2.0.0), php-horde-image (<< 3.0.0~alpha1), php-horde-mime (>= 2.0.0), php-horde-mime (<< 3.0.0~alpha1), php-horde-nls (>= 2.0.0), php-horde-nls (<< 3.0.0~alpha1), php-horde-perms (>= 2.0.0), php-horde-perms (<< 3.0.0~alpha1), php-horde-prefs (>= 2.0.0), php-horde-prefs (<< 3.0.0~alpha1), php-horde-serialize (>= 2.0.0), php-horde-serialize (<< 3.0.0~alpha1), php-horde-share (>= 2.0.0), php-horde-share (<< 3.0.0~alpha1), php-horde-support (>= 2.0.0), php-horde-support (<< 3.0.0~alpha1), php-horde-text-filter (>= 2.0.0), php-horde-text-filter (<< 3.0.0~alpha1), php-horde-url (>= 2.0.0), php-horde-url (<< 3.0.0~alpha1), php-horde-util (>= 2.0.0), php-horde-util (<< 3.0.0~alpha1), php-horde-view (>= 2.0.0), php-horde-view (<< 3.0.0~alpha1), php-horde-vfs (>= 2.0.0), php-horde-vfs (<< 3.0.0~alpha1)
+Recommends: php-horde-service-urlshortener (>= 2.0.0), php-horde-service-urlshortener (<< 3.0.0~alpha1), php-horde-service-twitter (>= 2.0.0), php-horde-service-twitter (<< 3.0.0~alpha1), php-horde-service-facebook (>= 2.0.0), php-horde-service-facebook (<< 3.0.0~alpha1), php-gd, php-imagick, php-libpuzzle, php-php-facedetect
+Filename: pool/universe/p/php-horde-ansel/php-horde-ansel_3.0.3+debian0-3_all.deb
+Size: 648074
+MD5sum: 9d447dfe6be599a028a061339f208f62
+SHA1: f44d9e52082706514a94aba8c2dac70589997c62
+SHA256: 05d02302c01f193dc1944f111e56dce82edbac830c51bb4b26107b00e9481c41
+Description-en: Photo management application
+ Ansel is a full featured photo management application.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 62bc45798c7f01e616e24ea2c3d7c7ef
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

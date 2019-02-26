@@ -1,0 +1,34 @@
+Package: php-horde
+Priority: extra
+Section: universe/php
+Installed-Size: 10074
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 5.2.9+debian0-1build1
+Provides: horde
+Depends: php-cli, php-common, php-horde-alarm (>= 2.1.0), php-horde-alarm (<< 3.0.0~alpha1), php-horde-argv (>= 2.0.0), php-horde-argv (<< 3.0.0~alpha1), php-horde-auth (>= 2.0.0), php-horde-auth (<< 3.0.0~alpha1), php-horde-autoloader (>= 2.1.0), php-horde-autoloader (<< 3.0.0~alpha1), php-horde-browser (>= 2.0.0), php-horde-browser (<< 3.0.0~alpha1), php-horde-core (>= 2.12.0), php-horde-core (<< 3.0.0~alpha1), php-horde-date (>= 2.0.0), php-horde-date (<< 3.0.0~alpha1), php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-form (>= 2.0.0), php-horde-form (<< 3.0.0~alpha1), php-horde-group (>= 2.0.0), php-horde-group (<< 3.0.0~alpha1), php-horde-http (>= 2.0.0), php-horde-http (<< 3.0.0~alpha1), php-horde-image (>= 2.0.0), php-horde-image (<< 3.0.0~alpha1), php-horde-logintasks (>= 2.0.0), php-horde-logintasks (<< 3.0.0~alpha1), php-horde-mail (>= 2.0.0), php-horde-mail (<< 3.0.0~alpha1), php-horde-mime (>= 2.0.0), php-horde-mime (<< 3.0.0~alpha1), php-horde-nls (>= 2.0.0), php-horde-nls (<< 3.0.0~alpha1), php-horde-perms (>= 2.1.5), php-horde-perms (<< 3.0.0~alpha1), php-horde-prefs (>= 2.0.0), php-horde-prefs (<< 3.0.0~alpha1), php-horde-rpc (>= 2.0.0), php-horde-rpc (<< 3.0.0~alpha1), php-horde-serialize (>= 2.0.0), php-horde-serialize (<< 3.0.0~alpha1), php-horde-support (>= 2.0.0), php-horde-support (<< 3.0.0~alpha1), php-horde-text-diff (>= 2.0.0), php-horde-text-diff (<< 3.0.0~alpha1), php-horde-token (>= 2.0.0), php-horde-token (<< 3.0.0~alpha1), php-horde-text-filter (>= 2.0.0), php-horde-text-filter (<< 3.0.0~alpha1), php-horde-tree (>= 2.0.0), php-horde-tree (<< 3.0.0~alpha1), php-horde-url (>= 2.0.0), php-horde-url (<< 3.0.0~alpha1), php-horde-util (>= 2.0.0), php-horde-util (<< 3.0.0~alpha1), php-horde-view (>= 2.0.0), php-horde-view (<< 3.0.0~alpha1), php-horde-vfs (>= 2.0.0), php-horde-vfs (<< 3.0.0~alpha1), php-horde-role (>= 1.0.1-2~)
+Pre-Depends: dpkg (>= 1.15.7.2)
+Recommends: php-net-dns2, php-services-weather, php-horde-activesync (>= 2.16.0), php-horde-activesync (<< 3.0.0~alpha1), php-horde-db (>= 2.0.0), php-horde-db (<< 3.0.0~alpha1), php-horde-feed (>= 2.0.0), php-horde-feed (<< 3.0.0~alpha1), php-horde-oauth (>= 2.0.0), php-horde-oauth (<< 3.0.0~alpha1), php-horde-openxchange (>= 1.0.0), php-horde-openxchange (<< 2.0.0~alpha1), php-horde-service-facebook (>= 2.0.0), php-horde-service-facebook (<< 3.0.0~alpha1), php-horde-service-twitter (>= 2.1.0), php-horde-service-twitter (<< 3.0.0~alpha1), php-horde-service-weather (>= 2.2.0), php-horde-service-weather (<< 3.0.0~alpha1), php-horde-syncml (>= 2.0.0), php-horde-syncml (<< 3.0.0~alpha1), php-console-getopt, php-console-table, php-file-find, php-file-fstab, apache2 | httpd
+Filename: pool/universe/p/php-horde/php-horde_5.2.9+debian0-1build1_all.deb
+Size: 1685648
+MD5sum: 9e07afcdcc2cf75e0b7ff3888721cfaf
+SHA1: b849f065f919c6e2d045e0e6dc7d3f3494eb6b9d
+SHA256: a7399f509ce014c37f650dbd6840a2c60d03b268d2c51168c7191fe0d1b485f5
+Description-en: Horde Application Framework
+ The Horde Application Framework is a flexible, modular, general-purpose web
+ application framework written in PHP. It provides an extensive array of
+ components that are targeted at the common problems and tasks involved in
+ developing modern web applications. It is the basis for a large number of
+ production-level web applications, notably the Horde Groupware suites. For
+ more information on Horde or the Horde Groupware suites, visit
+ http://www.horde.org.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: c2a1e5664f18aea95500fe39c2375408
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

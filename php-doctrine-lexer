@@ -1,0 +1,25 @@
+Package: php-doctrine-lexer
+Priority: optional
+Section: universe/php
+Installed-Size: 23
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.0.1-3build1
+Depends: php-common
+Filename: pool/universe/p/php-doctrine-lexer/php-doctrine-lexer_1.0.1-3build1_all.deb
+Size: 4884
+MD5sum: 800016775b7fdd788fbedde60ad44d8e
+SHA1: f0d6837150d3ed70bc3094264936321c8b6d98df
+SHA256: bbb3e06f5c1a4f65f7ef5719eadef5e6be5364e814946cb11e7786a55fbcc5b7
+Description-en: base lexer library - Doctrine component
+ Base library for a lexer that can be used in Top-Down, Recursive Descent
+ Parsers.
+ .
+ The Doctrine Project provides several libraries primarily focused on
+ database storage and object mapping.
+Description-md5: ecbfef1c26796ce4c0f200a70166377a
+Homepage: http://www.doctrine-project.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

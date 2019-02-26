@@ -1,0 +1,58 @@
+Package: php-gmp
+Architecture: all
+Version: 1:7.0+35ubuntu6.1
+Priority: optional
+Section: php
+Source: php-defaults (35ubuntu6.1)
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 11
+Depends: php-common, php7.0-gmp
+Filename: pool/main/p/php-defaults/php-gmp_7.0+35ubuntu6.1_all.deb
+Size: 1924
+MD5sum: 7c7fd87e0442b85e07c43be5f1bc491e
+SHA1: 57687c308feb32f610bd22a1f648b9865944f3f7
+SHA256: e8a8d1de50ccd52eff9b4d8cf6dc6652d6866fbef063b89a06181769822e2312
+Description-en_CA: GMP module for PHP [default]
+ This package provides a GMP module for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+ .
+ This package is a dependency package, which depends on Debian's default
+ PHP version (currently 7.0).
+Description-md5: 6fec024be9a3747162fa7499cfae4c52
+Supported: 5y
+
+Package: php-gmp
+Priority: optional
+Section: php
+Installed-Size: 11
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Architecture: all
+Source: php-defaults (35ubuntu6)
+Version: 1:7.0+35ubuntu6
+Depends: php-common, php7.0-gmp
+Filename: pool/main/p/php-defaults/php-gmp_7.0+35ubuntu6_all.deb
+Size: 1930
+MD5sum: f9c7112436ae2db15f211ac4ee24ab38
+SHA1: 75f4dc9cc201344240451379f8c9a93711ede160
+SHA256: a1f8a915936939e4ce233d3cf09895a0a435917ae86eb5b3b291c585fd869f03
+Description-en_CA: GMP module for PHP [default]
+ This package provides a GMP module for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+ .
+ This package is a dependency package, which depends on Debian's default
+ PHP version (currently 7.0).
+Description-md5: 6fec024be9a3747162fa7499cfae4c52
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+Supported: 5y
+

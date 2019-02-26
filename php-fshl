@@ -1,0 +1,23 @@
+Package: php-fshl
+Priority: optional
+Section: universe/php
+Installed-Size: 488
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 2.1.0-2build1
+Depends: php-common
+Filename: pool/universe/p/php-fshl/php-fshl_2.1.0-2build1_all.deb
+Size: 54076
+MD5sum: 773aef14355456475dd7ed7e6569e18e
+SHA1: 3bd3fdbb94cfda52ec8f8d6f74f59e7767f99dc1
+SHA256: d3d0a89e857e66806b4febd6faededf68c101245279559529103ebc0fcc9ad7e
+Description-en: Fast Syntax HighLighter
+ FSHL is a free, open source, universal, fast syntax highlighter written in
+ PHP. A very fast parser performs syntax highlighting for few languages and
+ produces a HTML output.
+Description-md5: d80398a8a4e4de71216ef7fb75ba918a
+Homepage: http://fshl.kukulich.cz/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

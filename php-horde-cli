@@ -1,0 +1,25 @@
+Package: php-horde-cli
+Priority: extra
+Section: universe/php
+Installed-Size: 300
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.0.6-3build1
+Depends: php-common, php-horde-support (>= 2.0.0), php-horde-support (<< 3.0.0~alpha1), php-horde-translation (>= 2.2.0), php-horde-translation (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-cli/php-horde-cli_2.0.6-3build1_all.deb
+Size: 26752
+MD5sum: 2d7cafa3a2c397723a52d2110398b7c0
+SHA1: 08fdde9477afcf265d2a77fd0b5f262519b80c16
+SHA256: 056368226b67c103f6550e6c505f4aa808d2458374528732196f64a01eff51ab
+Description-en: Horde Command Line Interface API
+ Horde_Cli:: API for basic command-line functionality/checks
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 92ea77a875e16fd418106c0706909b94
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

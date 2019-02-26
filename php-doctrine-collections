@@ -1,0 +1,25 @@
+Package: php-doctrine-collections
+Priority: optional
+Section: universe/php
+Installed-Size: 76
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.3.0-2ubuntu1
+Depends: php-common
+Filename: pool/universe/p/php-doctrine-collections/php-doctrine-collections_1.3.0-2ubuntu1_all.deb
+Size: 10680
+MD5sum: 0b7e14553c3f879128a7f0315c3b4342
+SHA1: 57cde80255803841b7486c220b7e74f259e737c1
+SHA256: 04187c63f0cce9dadc4bc26ec3f4a60c754d596a4ba38733db01a844a22a92f4
+Description-en: Collections Abstraction library - Doctrine component
+ This package provides collections abstraction library used by other
+ Doctrine components.
+ .
+ The Doctrine Project provides several libraries primarily focused on
+ database storage and object mapping.
+Description-md5: bd64330410bb1616711b07b2efe7a556
+Homepage: http://www.doctrine-project.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

@@ -1,0 +1,25 @@
+Package: php-file-iterator
+Priority: extra
+Section: universe/php
+Installed-Size: 23
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.4.1-1build1
+Depends: php-common
+Filename: pool/universe/p/php-file-iterator/php-file-iterator_1.4.1-1build1_all.deb
+Size: 5504
+MD5sum: 6d3c0348f393d6910f673495aefaf3e8
+SHA1: c59045f9556074955746cb8d70be50ddfd0403af
+SHA256: e080ae848e6fea5eb44398cb9ee0e5e92701c75783d214cc37d338d9dca2c934
+Description-en: FilterIterator implementation for PHP
+ FilterIterator implementation that filters files based on a list of suffixes,
+ prefixes, and other exclusion criteria used by PHPUnit.
+ .
+ PHPUnit is a unit testing suite for the PHP language, modelled
+ on the xUnit testing framework.
+Description-md5: 32e8749e4eac8e7f214337152c01d979
+Homepage: https://github.com/sebastianbergmann/php-file-iterator
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

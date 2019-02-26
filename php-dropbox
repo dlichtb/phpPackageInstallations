@@ -1,0 +1,27 @@
+Package: php-dropbox
+Priority: optional
+Section: universe/php
+Installed-Size: 100
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.0.0-4ubuntu1
+Depends: php-json, php-common
+Recommends: php-http-oauth (>= 0.1.18), php-oauth
+Filename: pool/universe/p/php-dropbox/php-dropbox_1.0.0-4ubuntu1_all.deb
+Size: 17928
+MD5sum: 4a8cc2eeeb5c2dca437042faa7e78943
+SHA1: 3c4bafd9af77b55c9eb6e7e425e817aa9dcaee7d
+SHA256: 63b81e3eb1ea7e1b5c6715e132979cfc13b306b2111f0676cc31a3faf3a007a9
+Description-en: Dropbox API library
+ PHP SDK that provides access to the Dropbox REST API. The SDK conforms
+ to the PSR-0 standard for autoloading interoperability.
+ .
+ The Dropbox API class is the main class to interact with the Dropbox
+ API. It has all the convenience methods to access and modify Dropbox
+ information.
+Description-md5: ac3a40ff2a8986e898320eff5185e2c0
+Homepage: http://www.dropbox-php.com/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

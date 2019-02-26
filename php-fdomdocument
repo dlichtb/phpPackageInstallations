@@ -1,0 +1,27 @@
+Package: php-fdomdocument
+Priority: optional
+Section: universe/php
+Installed-Size: 122
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.6.1-1build1
+Depends: php-common, php-xml
+Filename: pool/universe/p/php-fdomdocument/php-fdomdocument_1.6.1-1build1_all.deb
+Size: 16276
+MD5sum: 34cc7aad77f527e78afe148edf3cbdf8
+SHA1: fd0ddb543d279c7db3830a30294cb40edf84c026
+SHA256: b076c7f1935a9c9a2ed479da1d7697d28ef8c083e7ff6a044160656dba06b8fa
+Description-en: extension to PHP's standard DOM
+ An Extension to PHP's standard DOM to add various convenience methods and
+ exceptions by default.
+ .
+ The fDOMDocument classes extend the standard DOM to use exceptions at
+ all occasions of errors instead of PHP warnings or notices. They also
+ add various custom methods and shortcuts for convenience and to
+ simplify the usage of DOM.
+Description-md5: 25e9396229de4e71bda4d9d12fdbf952
+Homepage: https://github.com/theseer/fDOMDocument
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

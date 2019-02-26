@@ -1,0 +1,32 @@
+Package: php-horde-data
+Priority: extra
+Section: universe/php
+Installed-Size: 408
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.1.4-1ubuntu1
+Depends: php-common, php-horde-browser (>= 2.0.0), php-horde-browser (<< 3.0.0~alpha1), php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-icalendar (>= 2.0.0), php-horde-icalendar (<< 3.0.0~alpha1), php-horde-mail (>= 2.0.0), php-horde-mail (<< 3.0.0~alpha1), php-horde-mime (>= 2.0.0), php-horde-mime (<< 3.0.0~alpha1), php-horde-translation (>= 2.2.0), php-horde-translation (<< 3.0.0~alpha1), php-horde-util (>= 2.0.0), php-horde-util (<< 3.0.0~alpha1)
+Recommends: php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1)
+Filename: pool/universe/p/php-horde-data/php-horde-data_2.1.4-1ubuntu1_all.deb
+Size: 41252
+MD5sum: b5479e44ba96592ae10322f430fbad5e
+SHA1: f9889a86c1409b36da48a6f58e2a1add89abe4de
+SHA256: 2620a4d49d681fbe33c4c149c700c8d45e30ff4738f98e6e40c68afb23a0a04f
+Description-en: Horde Data API
+ A data import and export API, with backends for:
+  * CSV
+  * TSV
+  * iCalendar
+  * vCard
+  * vNote
+  * vTodo
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 5fc6c03f6c7e34cae792139bb5d3e568
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

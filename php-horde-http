@@ -1,0 +1,26 @@
+Package: php-horde-http
+Priority: extra
+Section: universe/php
+Installed-Size: 115
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.1.5-3ubuntu2
+Depends: php-common, php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-support (>= 2.0.0), php-horde-support (<< 3.0.0~alpha1)
+Recommends: php-horde-test (>= 2.1.0), php-horde-test (<< 3.0.0~alpha1), php-pecl-http (>= 1.7.0), php-pecl-http (<< 3.0.0~alpha1), php-curl
+Filename: pool/universe/p/php-horde-http/php-horde-http_2.1.5-3ubuntu2_all.deb
+Size: 19674
+MD5sum: 08a6a9443bc72e4d6678939758079cd9
+SHA1: 3e07c3a23ff998dbff6890a74e52710beb329a57
+SHA256: fb6feaa33c4403303d32fe4767f897fd82a9f6ba864944e282dcd6c29d5085bf
+Description-en: Horde HTTP libraries
+ An API for making HTTP requests.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 36677671b06b9e31a81edf95b6a2032d
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

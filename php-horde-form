@@ -1,0 +1,26 @@
+Package: php-horde-form
+Priority: extra
+Section: universe/php
+Installed-Size: 1266
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Horde Maintainers <pkg-horde-hackers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.0.12-1build1
+Depends: php-common, php-horde-core (>= 2.0.0), php-horde-core (<< 3.0.0~alpha1), php-horde-date (>= 2.0.0), php-horde-date (<< 3.0.0~alpha1), php-horde-exception (>= 2.0.0), php-horde-exception (<< 3.0.0~alpha1), php-horde-mail (>= 2.0.0), php-horde-mail (<< 3.0.0~alpha1), php-horde-mime (>= 2.0.0), php-horde-mime (<< 3.0.0~alpha1), php-horde-nls (>= 2.0.0), php-horde-nls (<< 3.0.0~alpha1), php-horde-token (>= 2.0.0), php-horde-token (<< 3.0.0~alpha1), php-horde-translation (>= 2.2.0), php-horde-translation (<< 3.0.0~alpha1), php-horde-util (>= 2.3.0), php-horde-util (<< 3.0.0~alpha1), php-json
+Filename: pool/universe/p/php-horde-form/php-horde-form_2.0.12-1build1_all.deb
+Size: 137588
+MD5sum: 13f0b34dbcd060a6ffec5fec7e242da5
+SHA1: d1535e07a8040da25867f9cf17d441da6129347e
+SHA256: 8b8e2846ad6f65e143eb8ae6b91e036813e9bfa8c64a3dcd1eea16747c3ab5b1
+Description-en: Horde Form API
+ The Horde_Form package provides form rendering, validation, and other
+ functionality for the Horde Application Framework.
+ .
+ This package is part of Horde, a web application Framework written in PHP with
+ modules like IMP (webmail), Turba (contacts), Kronolith (calendar), Nag (task
+ list), Gollem (file manager), etc.
+Description-md5: 32de527a3a9e5475198a4a5998f8baee
+Homepage: http://www.horde.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

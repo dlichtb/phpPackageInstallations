@@ -1,0 +1,32 @@
+Package: php-dompdf
+Priority: optional
+Section: universe/php
+Installed-Size: 6554
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 0.6.1+dfsg-2ubuntu1
+Depends: fonts-dejavu, php | php-cli, php-gd, sdop, php-common, php-font-lib (>= 0.2), php-font-lib (<< 0.3~~)
+Suggests: php-tcpdf, php-apcu | php-xcache, php-cli
+Filename: pool/universe/p/php-dompdf/php-dompdf_0.6.1+dfsg-2ubuntu1_all.deb
+Size: 914856
+MD5sum: 31bf06de2b8508cda93123c1e88a737c
+SHA1: 33c8cb068f8c2eb004000d2623f4353ef2c84ef8
+SHA256: bfbe4f53874947bf4ee7b9ab06a101a9e1455f49d82ab1c5c7e75c79dbcf19f1
+Description-en: HTML to PDF converter
+ DOMPDF is a CSS 2.1 compliant HTML to PDF converter. It:
+  * handles most CSS 2.1 and a few CSS3 properties, including @import,
+    @media & @page rules
+  * supports most presentational HTML 4.0 attributes
+  * supports external stylesheets, either local or through HTTP/FTP
+    (via fopen-wrappers)
+  * supports complex tables, including row and column spans, separate
+    and collapsed border models, individual cell styling
+  * supports images: GIF, PNG (8-, 24- and 32-bit with alpha channel),
+    BMP, and JPEG
+  * supports inline PHP
+Description-md5: 6821839ce3055066660c3e648448f666
+Homepage: http://dompdf.github.io/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

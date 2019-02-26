@@ -1,0 +1,23 @@
+Package: php-guzzlehttp-psr7
+Priority: optional
+Section: universe/php
+Installed-Size: 124
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.2.2-1ubuntu1
+Provides: php-psr-http-message-implementation (= 1.0)
+Depends: php-common, php-psr-http-message (>= 1.0), php-psr-http-message (<< 2~~)
+Filename: pool/universe/p/php-guzzlehttp-psr7/php-guzzlehttp-psr7_1.2.2-1ubuntu1_all.deb
+Size: 28366
+MD5sum: f86e03bd5b2ed5cedcf7cfac477947f9
+SHA1: 4ae5a41ff965101d774acf54b89409bc2dd1c420
+SHA256: e2d99dc61fd40aff28610b669e3bc6dabe422b0b1d30921a03ab0fcde56aff80
+Description-en: PSR-7 message implementation
+ Partial PSR-7 message implementation, several stream decorators, and
+ some helpful functionality like query string parsing.
+Description-md5: 7fc231e3c3809bb528872ca3fa39d80a
+Homepage: https://github.com/guzzle/psr7
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+
