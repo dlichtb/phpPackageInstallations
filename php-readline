@@ -1,0 +1,56 @@
+Package: php-readline
+Architecture: all
+Version: 1:7.0+35ubuntu6.1
+Priority: optional
+Section: universe/php
+Source: php-defaults (35ubuntu6.1)
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 11
+Depends: php-common, php7.0-readline
+Filename: pool/universe/p/php-defaults/php-readline_7.0+35ubuntu6.1_all.deb
+Size: 1930
+MD5sum: 33410dfe822128cd84c334e35fda4ac1
+SHA1: 654e052db930b929c2fd0eef0f10efe21d99beda
+SHA256: 4fae8d4187bd5f1eea7df1d666a22fe824a9491a4d8fc27d6a70a6243ee0885d
+Description-en: readline module for PHP [default]
+ This package provides a readline module for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+ .
+ This package is a dependency package, which depends on Debian's default
+ PHP version (currently 7.0).
+Description-md5: 1e9d0dbf948278c86f3012e88b8bacd6
+
+Package: php-readline
+Priority: optional
+Section: universe/php
+Installed-Size: 11
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Architecture: all
+Source: php-defaults (35ubuntu6)
+Version: 1:7.0+35ubuntu6
+Depends: php-common, php7.0-readline
+Filename: pool/universe/p/php-defaults/php-readline_7.0+35ubuntu6_all.deb
+Size: 1932
+MD5sum: d06d9950da2ae9184ea595786d08123c
+SHA1: c15fc501ed75cee7387f1f7054a69097b5f9875d
+SHA256: 7cbcdb987d355cb588fd8a2024f5cfcf2b7ac65957801a59c03173cf19bc405f
+Description-en: readline module for PHP [default]
+ This package provides a readline module for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+ .
+ This package is a dependency package, which depends on Debian's default
+ PHP version (currently 7.0).
+Description-md5: 1e9d0dbf948278c86f3012e88b8bacd6
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

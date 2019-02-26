@@ -1,0 +1,52 @@
+Package: php-mythtv
+Architecture: all
+Version: 2:0.28.0+fixes.20160413.15cf421-0ubuntu2.16.04.1
+Priority: optional
+Section: multiverse/graphics
+Source: mythtv
+Origin: Ubuntu
+Maintainer: MythTV Ubuntu Maintainers <ubuntu-mythtv@lists.ubuntu.com>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 130
+Filename: pool/multiverse/m/mythtv/php-mythtv_0.28.0+fixes.20160413.15cf421-0ubuntu2.16.04.1_all.deb
+Size: 14054
+MD5sum: 63dfb248a6ab98d9daf25298aa5fdcdb
+SHA1: 56170e3edc8493667efb2b993912b1af7f97f41f
+SHA256: 6cd3d66b7ec17ce86e8630ef6361a75496951946184178f8fad87ed60c45faa1
+Homepage: http://www.mythtv.org
+Description-en: PHP Bindings for MythTV
+ MythTV provides a unified graphical interface for recording and viewing
+ television programs. Refer to the mythtv package for more information.
+ .
+ This package contains files needed for using PHP based applications that
+ connect to MythTV backends.
+Description-md5: cc74af3e7f32031e0ca3aeeac2981c9b
+Task: mythbuntu-frontend, mythbuntu-desktop, mythbuntu-backend-slave, mythbuntu-backend-master, mythbuntu-backend-master
+Supported: 3y
+
+Package: php-mythtv
+Priority: optional
+Section: multiverse/graphics
+Installed-Size: 130
+Maintainer: MythTV Ubuntu Maintainers <ubuntu-mythtv@lists.ubuntu.com>
+Architecture: all
+Source: mythtv
+Version: 2:0.28.0+fixes.20160413.15cf421-0ubuntu2
+Filename: pool/multiverse/m/mythtv/php-mythtv_0.28.0+fixes.20160413.15cf421-0ubuntu2_all.deb
+Size: 13968
+MD5sum: 11c089ba63cc840bd9f08b8b5417cdd1
+SHA1: d0b4fc4b0fccbaccce2e56df1ba1147af157281f
+SHA256: 7dcbf9323dd09a09b399bae06f53216c7838ded384f6462ed59e28c106293081
+Description-en: PHP Bindings for MythTV
+ MythTV provides a unified graphical interface for recording and viewing
+ television programs. Refer to the mythtv package for more information.
+ .
+ This package contains files needed for using PHP based applications that
+ connect to MythTV backends.
+Description-md5: cc74af3e7f32031e0ca3aeeac2981c9b
+Homepage: http://www.mythtv.org
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+Supported: 3y
+Task: mythbuntu-frontend, mythbuntu-desktop, mythbuntu-backend-slave, mythbuntu-backend-master, mythbuntu-backend-master
+

@@ -1,0 +1,51 @@
+Package: php-mdb2
+Priority: optional
+Section: universe/web
+Installed-Size: 517
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: PKG-PHP-PEAR team <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 2.5.0b5-1build1
+Depends: php-pear
+Filename: pool/universe/p/php-mdb2/php-mdb2_2.5.0b5-1build1_all.deb
+Size: 96578
+MD5sum: c1e8b969359d3d26886da24511948fb3
+SHA1: be5ab452092aac170f753ebd2a725255f72486df
+SHA256: 344d56a97b723b737f00284d04473b040a3527f0bd7f1aca070e8bd1fcf6696a
+Description-en: merge of the PEAR DB and Metabase php database abstraction layers
+ MDB2 is a merge of PEAR DB and Metabases that provides a unified DB API,
+ database abstraction, and a common API for all supported RDBMS, for PHP
+ applications.
+ .
+ The main difference to most other DB abstraction packages is that MDB2 goes
+ much further to ensure portability. MDB2 provides most of its many features
+ optionally that can be used to construct portable SQL statements:
+  * Object-Oriented API
+  * A DSN (data source name) or array format for specifying database servers
+  * Datatype abstraction and on demand datatype conversion
+  * Various optional fetch modes to fix portability issues
+  * Portable error codes
+  * Sequential and non sequential row fetching as well as bulk fetching
+  * Ability to make buffered and unbuffered queries
+  * Ordered array and associative array for the fetched rows
+  * Prepare/execute (bind) named and unnamed placeholder emulation
+  * Sequence/autoincrement emulation
+  * Replace emulation
+  * Limited sub select emulation
+  * Row limit emulation
+  * Transactions/savepoint support
+  * Large Object support
+  * Index/Unique Key/Primary Key support
+  * Pattern matching abstraction
+  * Module framework to load advanced functionality on demand
+  * Ability to read the information schema
+  * RDBMS management methods (creating, dropping, altering)
+  * Reverse engineering schemas from an existing database
+  * SQL function call abstraction
+  * Full integration into the PEAR Framework
+  * PHPDoc API documentation
+Description-md5: 00a0a06a9fdb3317d3abaa67eba0319e
+Homepage: http://pear.php.net/package/MDB2/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

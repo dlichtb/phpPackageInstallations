@@ -1,0 +1,25 @@
+Package: php-letodms-core
+Priority: optional
+Section: universe/web
+Installed-Size: 264
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 3.3.11-3build1
+Depends: php-common
+Recommends: letodms (>= 3.3.9+dfsg-1)
+Filename: pool/universe/p/php-letodms-core/php-letodms-core_3.3.11-3build1_all.deb
+Size: 38702
+MD5sum: b7def78607cafc75c6c8b491cbfb3980
+SHA1: d852bd3ce4843ee09247779a4c4ce71662f3fe53
+SHA256: 903e10d7e319fd76f67981af0a8eb745e22b28933c698843a626b3bc6a7f68fb
+Description-en: Document management system - Core files
+ LetoDMS is a web based document management system (DMS). This is
+  the core of it, providing the basic functionality to create/update
+  and delete folders and documents. It also contains the user and
+  group management
+Description-md5: b4d00033a82226db7a2aa5be3c2099ec
+Homepage: http://www.letodms.com/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

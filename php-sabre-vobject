@@ -1,0 +1,27 @@
+Package: php-sabre-vobject
+Priority: optional
+Section: universe/php
+Installed-Size: 199
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: ownCloud for Debian maintainers <pkg-owncloud-maintainers@lists.alioth.debian.org>
+Architecture: all
+Version: 2.1.7-1ubuntu1
+Depends: php-cli, php-common, php-mbstring
+Filename: pool/universe/p/php-sabre-vobject/php-sabre-vobject_2.1.7-1ubuntu1_all.deb
+Size: 35746
+MD5sum: ed0aa5fa2b27adfaad7cc935ea71fad6
+SHA1: 1bc0f9bc2d2d21bc3533d2fb007f7712c02d6c14
+SHA256: 35364e482990c87dd38b8f3cb0b25e3cf26ce493eb13dd7c5a630694e1da8a5a
+Description-en: library to parse and manipulate iCalendar and vCard objects
+ The SabreTooth VObject library allows one to easily parse and
+ manipulate iCalendar and vCard objects using PHP. The goal of the
+ VObject library is to create a very complete library, with an easy to
+ use API.
+ .
+ This project is a spin-off from SabreDAV, where it has been used for
+ several years.
+Description-md5: 5578f1f602c86259c7558101fb403c0a
+Homepage: http://sabre.io/vobject/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

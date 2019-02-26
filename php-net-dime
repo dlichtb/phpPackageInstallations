@@ -1,0 +1,23 @@
+Package: php-net-dime
+Priority: optional
+Section: universe/web
+Installed-Size: 61
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.0.2-2build1
+Depends: php-pear
+Filename: pool/universe/p/php-net-dime/php-net-dime_1.0.2-2build1_all.deb
+Size: 24226
+MD5sum: 0354a7e978264ebc5a5358b6c24055a8
+SHA1: f485d918e152fc7fe61b2fb81f6bddc8ecdec9ab
+SHA256: 8d055aeb401348e70e3a988dcf5a42256e58b8059c9b60433d7c3beb9f8452f2
+Description-en: class that implements DIME encoding
+ Provides an implementation of DIME as defined at
+ http://xml.coverpages.org/draft-nielsen-dime-02.txt
+ https://datatracker.ietf.org/public/idindex.cgi?command=id_detail&id=7983
+Description-md5: da25cf64f6672b5ef3b3b97602095ede
+Homepage: http://pear.php.net/package/Net_DIME
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

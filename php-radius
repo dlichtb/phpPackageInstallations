@@ -1,0 +1,27 @@
+Package: php-radius
+Priority: optional
+Section: universe/web
+Installed-Size: 128
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PECL Maintainers <pkg-php-pecl@lists.alioth.debian.org>
+Architecture: amd64
+Version: 1.4.0~b1-0ubuntu1
+Depends: php-common (>= 1:7.0+33~), phpapi-20151012, libc6 (>= 2.15)
+Filename: pool/universe/p/php-radius/php-radius_1.4.0~b1-0ubuntu1_amd64.deb
+Size: 40520
+MD5sum: bb816411b21ab892ebf4290bd2334491
+SHA1: f262b6697c33d5ddc6552fcf71f6f33867e55845
+SHA256: 48d400ab1bb144a39ad0481d9c64a44e2775577fdb9c4118c05ab17e7f571843
+Description-en: Radius client library
+ This package is based on the libradius of FreeBSD, with some modifications and
+ extensions.
+ This PECL provides full support for RADIUS authentication (RFC 2865) and
+ RADIUS accounting (RFC 2866),
+ works on Unix and on Windows. Its an easy way to authenticate your users
+ against the user-database of your
+ OS (for example against Windows Active-Directory via IAS).
+Description-md5: 94fbca7ef529187ca9b06f785efff759
+Homepage: http://pecl.php.net/package/radius
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

@@ -1,0 +1,24 @@
+Package: php-raphf
+Priority: optional
+Section: universe/php
+Installed-Size: 47
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Facundo Guerrero <guerremdq@gmail.com>
+Architecture: amd64
+Version: 2.0.0-0ubuntu1
+Depends: libc6 (>= 2.14), php-common (>= 1:7.0+33~), phpapi-20151012
+Filename: pool/universe/p/php-raphf/php-raphf_2.0.0-0ubuntu1_amd64.deb
+Size: 9962
+MD5sum: 0b860d63e856c3b78f14b56a5ead594a
+SHA1: 4eb4790fe0a447457542bc13ce26aa084640bae9
+SHA256: 75ab0999d1789c94a9fa143730dc813e5db893f8045aa30224ccdff6ebf5ddc1
+Description-en: raphf module for PHP
+ Resource and persistent handles factory
+ .
+ A reusable split-off of pecl_http's persistent handle and resource factory
+ API.
+Description-md5: aa9563a9c0f2c154c2ae5655fd889fe1
+Homepage: http://pecl.php.net/package/raphf
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

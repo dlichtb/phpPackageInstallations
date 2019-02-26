@@ -1,0 +1,27 @@
+Package: php-phpspec-prophecy
+Priority: optional
+Section: universe/php
+Installed-Size: 245
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.6.0-1build1
+Depends: php-common, php-phpdocumentor-reflection-docblock (>= 2.0), php-phpdocumentor-reflection-docblock (<< 4~~), phpunit-comparator (>= 1.1), phpunit-comparator (<< 2~~), php-doctrine-instantiator (>= 1.0.2), php-doctrine-instantiator (<< 2~~), phpunit-recursion-context (>= 1.0), phpunit-recursion-context (<< 2~~)
+Filename: pool/universe/p/php-phpspec-prophecy/php-phpspec-prophecy_1.6.0-1build1_all.deb
+Size: 34128
+MD5sum: 85be27ad002fb4c76ebe102292feeb36
+SHA1: 1ab3bb14d9f0e6516647c37cbd6b166e9c837687
+SHA256: 0e57952ff744a6458fcc3e2b4656f3cb1490bc019130d7d4f6e9fb596be1131d
+Description-en: object mocking framework - phpspec component
+ Prophecy is an opinionated and flexible PHP object mocking framework.
+ .
+ It was initially created to fulfil phpspec2 needs, but is flexible enough
+ to be used inside any testing framework out there with minimal effort.
+ .
+ phpspec can help write clean and working PHP code using behaviour driven
+ development or BDD. BDD is a technique derived from test-first development.
+Description-md5: 82e4c154c4a88830bc98d025060bb43f
+Homepage: https://github.com/phpspec/prophecy
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

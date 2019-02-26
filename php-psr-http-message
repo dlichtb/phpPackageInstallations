@@ -1,0 +1,23 @@
+Package: php-psr-http-message
+Priority: optional
+Section: universe/php
+Installed-Size: 65
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.0-1build1
+Depends: php-common
+Filename: pool/universe/p/php-psr-http-message/php-psr-http-message_1.0-1build1_all.deb
+Size: 12136
+MD5sum: ec52ddc2e309296002e107bfaa71edff
+SHA1: 1217aac553afb25bae893de3fdd3c41b16803b08
+SHA256: 917faf395782585ab367c3c4391f3b8df2363ab4ddeaf05aeeb23a338ce98f7c
+Description-en: Common interface for HTTP messages
+ All interfaces/classes/traits related to PSR-7. Note that this is not
+ an HTTP message implementation of its own. It is merely an interface
+ that describes a HTTP message. See the specification for more details.
+Description-md5: 0d5aaa8632c6405f33706deef9977acc
+Homepage: https://github.com/php-fig/http-message
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

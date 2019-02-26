@@ -1,0 +1,32 @@
+Package: php-net-nntp
+Priority: optional
+Section: universe/php
+Installed-Size: 231
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.5.0-1build1
+Depends: php-common, php-pear (>= 1.4.0)
+Recommends: php-log (>= 1.8.7)
+Filename: pool/universe/p/php-net-nntp/php-net-nntp_1.5.0-1build1_all.deb
+Size: 53216
+MD5sum: ad0eff9999800f82a5d082e7f3b3f238
+SHA1: f9970a5b639f23ba82bd0a8d0ba35b2b2c74e9dc
+SHA256: aba6eeaab8f2de92ffb52a6945150618b593374f6b18bf28a28592c0e3467735
+Description-en: PHP Pear module for NNTP
+ PEAR's package for communication with NNTP/Usenet servers.
+ Net_NNTP handles the connection and protocol level commands (RFC977),
+ including many commonly implemented non-standard commands (RFC2980).
+ Net_NNTP includes an unserfriendly API for intermediate user, who don't want
+ to work directly at the command level. However, Net_NNTP does require some
+ knowlege about the NNTP protocol (RFC 977), and general knowledge about email
+ (RFC(2)822) and MIME (2045-2048), since any handling of both content and
+ headers is left up to the user!
+ The protocol implementation does not parse the actual article data, but at the
+ command level it splits returned data at protocol specified boundaries where
+ appropriate.
+Description-md5: 43aa971b57efc23611f6618a039744c0
+Homepage: http://pear.php.net/package/Net_NNTP/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

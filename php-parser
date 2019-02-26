@@ -1,0 +1,23 @@
+Package: php-parser
+Priority: optional
+Section: universe/php
+Installed-Size: 566
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.4.1-1ubuntu1
+Depends: php-cli, php-common
+Filename: pool/universe/p/php-parser/php-parser_1.4.1-1ubuntu1_all.deb
+Size: 74384
+MD5sum: a2a9bf52b3448eb1f4881dfcc81e69d6
+SHA1: 0f8cc3f89d1e485d4939c7824c82ca012d08f2aa
+SHA256: a38add6d4336d4246398c2d74692ff5f437bd564202c9786738b62107c8daae3
+Description-en: convert PHP code into abstract syntax tree
+ PHP Parser’s purpose is to simplify static code analysis and
+ manipulation. It turns some PHP code into an abstract syntax tree, and
+ vice versa.
+Description-md5: 2a2ec05f3a827de92af5fe2fc8deffd3
+Homepage: https://github.com/nikic/PHP-Parser
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

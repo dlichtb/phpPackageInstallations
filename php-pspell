@@ -1,0 +1,58 @@
+Package: php-pspell
+Architecture: all
+Version: 1:7.0+35ubuntu6.1
+Priority: optional
+Section: php
+Source: php-defaults (35ubuntu6.1)
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 11
+Depends: php-common, php7.0-pspell
+Filename: pool/main/p/php-defaults/php-pspell_7.0+35ubuntu6.1_all.deb
+Size: 1928
+MD5sum: db39c07eac47d3e9fef103cc324e245c
+SHA1: bdd54a89a4c1fd0cc560b8985911052d31e7d1b0
+SHA256: d14f3eadf328a09640a63d970e29ef0be7befd90f1ea40eac5a45a3f100f0604
+Description-en_CA: pspell module for PHP [default]
+ This package provides a pspell module for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+ .
+ This package is a dependency package, which depends on Debian's default
+ PHP version (currently 7.0).
+Description-md5: e5624a0ff6fe7c7d79392c15d1a12763
+Supported: 5y
+
+Package: php-pspell
+Priority: optional
+Section: php
+Installed-Size: 11
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Architecture: all
+Source: php-defaults (35ubuntu6)
+Version: 1:7.0+35ubuntu6
+Depends: php-common, php7.0-pspell
+Filename: pool/main/p/php-defaults/php-pspell_7.0+35ubuntu6_all.deb
+Size: 1930
+MD5sum: 95445c57fc64ca2856693294fbb3f015
+SHA1: 0e2d88c883d7482c241f04794252ca341c954feb
+SHA256: 8ee2a5164968e8f82558f8f0fb975eac6dcddc10744822dd6490c47529e83d95
+Description-en_CA: pspell module for PHP [default]
+ This package provides a pspell module for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+ .
+ This package is a dependency package, which depends on Debian's default
+ PHP version (currently 7.0).
+Description-md5: e5624a0ff6fe7c7d79392c15d1a12763
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+Supported: 5y
+

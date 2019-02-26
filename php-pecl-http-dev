@@ -1,0 +1,40 @@
+Package: php-pecl-http-dev
+Priority: optional
+Section: universe/web
+Installed-Size: 150
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Facundo Guerrero <guerremdq@gmail.com>
+Architecture: amd64
+Source: php-pecl-http
+Version: 3.0.1-0ubuntu5
+Depends: php-common, php-raphf (>= 2.0.0), php-propro (>= 2.0.0), phpapi-20151012
+Filename: pool/universe/p/php-pecl-http/php-pecl-http-dev_3.0.1-0ubuntu5_amd64.deb
+Size: 21722
+MD5sum: 20da8c394f8be406e69be516b080658a
+SHA1: 48ffc0a3972f793a62c600808632e78be47f0315
+SHA256: 52278689f23d2c01b4c47b64995e5b6ba5dbe279f60542faa63064af6ef6a986
+Description-en: pecl_http module for PHP 5 Extended HTTP Support development headers
+ Extended HTTP Support
+ This HTTP extension aims to provide a convenient and powerful
+ set of functionality for one of PHPs major applications.
+ .
+ It eases handling of HTTP urls, headers and messages, provides
+ means for negotiation of a client's preferred content type,
+ language and charset, as well as a convenient way to send any
+ arbitrary data with caching and resuming capabilities.
+ .
+ It provides powerful request functionality with support for
+ parallel requests.
+ .
+ Documentation:
+ https://mdref.m6w6.name/http
+ .
+ Code Coverage:
+ http://dev.iworks.at/ext-http/lcov/ext/http/
+ .
+ This package provides pecl-http development headers
+Description-md5: 24884c20dadf2052d5fb9c5c4e8c3824
+Homepage: http://pecl.php.net/package/pecl_http
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

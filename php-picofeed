@@ -1,0 +1,33 @@
+Package: php-picofeed
+Priority: optional
+Section: universe/php
+Installed-Size: 461
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 0.1.18-1ubuntu1
+Depends: php-zend-xml, php-cli, php-common
+Suggests: php-curl
+Filename: pool/universe/p/php-picofeed/php-picofeed_0.1.18-1ubuntu1_all.deb
+Size: 58716
+MD5sum: 55ff0ea904363cb7443db2dfa827f1b4
+SHA1: eda747c534bff5c8213293e0e06c91f9f30ea051
+SHA256: 4d0be83f46f7904e9edc603c7af8b81a9a60c85311de61a77223e055152754e6
+Description-en: Modern library to handle RSS/Atom feeds
+ PicoFeed provides the following features:
+  * Simple and fast
+  * Feed parser for Atom 1.0 and RSS 0.91, 0.92, 1.0 and 2.0
+  * Feed writer for Atom 1.0 and RSS 2.0
+  * Favicon fetcher
+  * Import/Export OPML subscriptions
+  * Content filter: HTML cleanup, remove pixel trackers and Ads
+  * Multiple HTTP client adapters: cURL or Stream Context
+  * Proxy support
+  * Content grabber: download from the original website the full content
+  * Enclosure detection
+  * RTL languages support
+Description-md5: 6bafa10f3903376a971b245723c10a61
+Homepage: https://github.com/fguillot/picoFeed
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

@@ -1,0 +1,31 @@
+Package: php-nette
+Priority: optional
+Section: universe/php
+Installed-Size: 1840
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 2.3.8-1ubuntu1
+Depends: php-common, php-intl, php-json
+Recommends: php-gd, php-memcache
+Breaks: php-apigen (<< 2.8.0+dfsg-3+)
+Filename: pool/universe/p/php-nette/php-nette_2.3.8-1ubuntu1_all.deb
+Size: 324414
+MD5sum: e17e506d2ccc709f03230cb09bb301ce
+SHA1: e00583c1cf607551803e020bb18d8108f649777b
+SHA256: da3e3e48cbe11694f1149f3caa05ce18cac7ac379c66e8385aa488a79e43008d
+Description-en: Nette Framework
+ Nette Framework is a powerful, component-based and event-driven
+ framework for creating web applications and services in PHP.
+ Nette Framework is designed with simplicity, speed and flexibility in
+ mind. It allows developers to easy built better websites.
+ .
+ Nette Framework focuses on security and performance and is definitely
+ one of the safest and fastest PHP frameworks. Nette Framework support
+ the latest technologies and approaches like AJAX, HTML5, SEO, DRY,
+ KISS, MVC, etc.
+Description-md5: e35ae6857149d1f4b49e5b5a60c725b9
+Homepage: https://nette.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

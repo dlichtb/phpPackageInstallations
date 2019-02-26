@@ -1,0 +1,29 @@
+Package: php-proxy-manager
+Priority: optional
+Section: universe/php
+Installed-Size: 524
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 2.0.0-1ubuntu1
+Provides: php-ocramius-proxy-manager
+Depends: php-common, php-zend-code (>= 3.0), php-zend-code (<< 4~~)
+Suggests: php-ocramius-generated-hydrator, php-zend-xmlrpc, php-zend-json, php-zend-soap
+Filename: pool/universe/p/php-proxy-manager/php-proxy-manager_2.0.0-1ubuntu1_all.deb
+Size: 49058
+MD5sum: 24b458b29614c79d1c1d856663040b9c
+SHA1: 7236ab4a0079d37482d105838f06e80c8ee8d5c8
+SHA256: 876ebd91ae9b49a1301c8f9f666a19e066e16cff5b9f4f26b9a92af13e636ccd
+Description-en: library providing utilities to operate with Object Proxies
+ This library aims at providing abstraction for generating various
+ kinds of proxy classes.
+ .
+ Currently, this project supports generation of Virtual Proxies and
+ Smart References. Additionally, it can generate a small
+ high-performance Hydrator class to optimize transition of data from
+ and into your objects.
+Description-md5: 3ded5074384997c0a178f0da0734c93a
+Homepage: https://github.com/Ocramius/ProxyManager
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

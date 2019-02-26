@@ -1,0 +1,29 @@
+Package: php-memcache
+Priority: optional
+Section: universe/php
+Installed-Size: 141
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PECL Maintainers <pkg-php-pecl@lists.alioth.debian.org>
+Architecture: amd64
+Version: 3.0.9~20151130.fdbd46b-2
+Depends: php-common (>= 1:7.0+33~), phpapi-20151012, libc6 (>= 2.15), zlib1g (>= 1:1.1.4)
+Suggests: memcached
+Filename: pool/universe/p/php-memcache/php-memcache_3.0.9~20151130.fdbd46b-2_amd64.deb
+Size: 53202
+MD5sum: 9c16b0394bcd9a54befbddcbc8b7f23d
+SHA1: 1e75eb030ad44ea064760a8ef56700b64496c826
+SHA256: 7f41534dbfea665a9966f834e69a402d7c573069433d4708c713c6e7432e11af
+Description-en: memcache extension module for PHP5
+ Memcached is a caching daemon designed especially for dynamic web applications
+ to decrease database load by storing objects in memory.
+ .
+ This extension allows you to work with memcached through handy OO and
+ procedural interfaces in your php5 applications.
+ .
+ This is an update version for PHP 7 with non-blocking I/O taken from
+ https://github.com/websupport-sk/pecl-memcache
+Description-md5: 8db0654c04032feccadbbe87951346d3
+Homepage: https://github.com/websupport-sk/pecl-memcache
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

@@ -1,0 +1,26 @@
+Package: php-oauth
+Priority: extra
+Section: universe/php
+Installed-Size: 107
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PECL Maintainers <pkg-php-pecl@lists.alioth.debian.org>
+Architecture: amd64
+Version: 2.0.1+1.2.3-1
+Depends: php-common (>= 1:7.0+33~), phpapi-20151012, libc6 (>= 2.14)
+Filename: pool/universe/p/php-oauth/php-oauth_2.0.1+1.2.3-1_amd64.deb
+Size: 33080
+MD5sum: 38ac717ebb05a0e2857dffabaa22d711
+SHA1: 5ff6562eafe0176f80c784dc0e9231392b489c1a
+SHA256: 77e01466c06a8dd1216f10e017d64bea115445648bec1a73e63aa678ae7603d8
+Description-en: OAuth 1.0 consumer and provider extension
+ OAuth is an authorization protocol built on top of HTTP which allows
+ applications to securely access data without having to store
+ usernames and passwords.
+ .
+ This package provides an API for fetching and serving OAuth
+ protected resources.
+Description-md5: fb3d073fa1941bfdc8fb470a0bc6a56c
+Homepage: http://pecl.php.net/package/oauth
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

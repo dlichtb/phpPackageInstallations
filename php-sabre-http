@@ -1,0 +1,38 @@
+Package: php-sabre-http
+Priority: optional
+Section: universe/php
+Installed-Size: 142
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 4.2.1-3ubuntu1
+Replaces: php-sabre-dav (<< 1.9)
+Depends: php-common, php-sabre-event (>= 1.0.0), php-sabre-event (<< 4.0.0~~), php-sabre-uri (>= 1.0), php-sabre-uri (<< 2~~), php-mbstring
+Suggests: php-curl
+Breaks: php-sabre-dav (<< 1.9)
+Filename: pool/universe/p/php-sabre-http/php-sabre-http_4.2.1-3ubuntu1_all.deb
+Size: 29992
+MD5sum: 94a6b055e2b3e53ee47f33d7dba3fff3
+SHA1: 0c7768ebe7b94b4032da0595f786c737467b2764
+SHA256: fcef35c308a023e4c3643f71146e528f1718bcbe7a7aff24f1c73768666754b4
+Description-en: library to ease the work with HTTP protocol
+ sabre/http provides a toolkit to ease the work with HTTP protocol.
+ .
+ This library is a wrapper around the following PHP constructs:
+ .
+ For Input:
+  * $_GET
+  * $_POST
+  * $_SERVER
+  * php://input or $HTTP_RAW_POST_DATA.
+ For output:
+  * php://output or echo.
+  * header()
+ .
+ It provides a Request object, and a Response object. The objects are
+ extensible and easily mockable.
+Description-md5: d64c1d4aefbad7f1c69ac47dc2ed23cb
+Homepage: https://github.com/fruux/sabre-http
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

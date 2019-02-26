@@ -1,0 +1,25 @@
+Package: php-redis
+Priority: optional
+Section: universe/php
+Installed-Size: 457
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PECL Maintainers <pkg-php-pecl@lists.alioth.debian.org>
+Architecture: amd64
+Version: 2.2.7-389-g2887ad1+2.2.7-1
+Depends: php-common (>= 1:7.0+33~), phpapi-20151012, libc6 (>= 2.14)
+Recommends: php-igbinary
+Suggests: redis-server
+Filename: pool/universe/p/php-redis/php-redis_2.2.7-389-g2887ad1+2.2.7-1_amd64.deb
+Size: 109890
+MD5sum: 306de2c65f14d04f483bd919f1b4addc
+SHA1: 8b83cb904cc8eb4ac200c9c2fbf387bc0606fa49
+SHA256: af3f4f79708a6363d87c9120477682ee20340975a01aae0a2939fa0d14f8cca3
+Description-en: PHP extension for interfacing with Redis
+ This extension allows php applications to communicate with the Redis
+ persistent key-value store.  The php-redis module provides an easy
+ object oriented interface.
+Description-md5: b8a3de89cf7f4311899f1f5751dbc60a
+Homepage: http://pecl.php.net/package/redis
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

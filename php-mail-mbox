@@ -1,0 +1,23 @@
+Package: php-mail-mbox
+Priority: optional
+Section: universe/php
+Installed-Size: 58
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 0.6.3-1build1
+Depends: php-pear, php-common
+Filename: pool/universe/p/php-mail-mbox/php-mail-mbox_0.6.3-1build1_all.deb
+Size: 13416
+MD5sum: f834aff2a95578aff5db164ea58c9fc4
+SHA1: 739cd232a9350604352ac459396c8436c4aa8fde
+SHA256: 629dde0c6f803ab3d748bf37573b5aaea33adc327913b3044f54086620cfecf1
+Description-en: Read and modify Unix MBOXes
+ This Mail_Mbox PHP PEAR package can split messages inside a Mbox file, and
+ return the number of messages, return, update or remove an specific message,
+ or add a message on the Mbox.
+Description-md5: d12fdc573249c000d6e1e4f1ce504d40
+Homepage: http://pear.php.net/package/Mail_Mbox
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

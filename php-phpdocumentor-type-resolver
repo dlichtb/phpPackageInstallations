@@ -1,0 +1,27 @@
+Package: php-phpdocumentor-type-resolver
+Priority: optional
+Section: universe/php
+Installed-Size: 62
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 0.1.6-2
+Depends: php-common, php-phpdocumentor-reflection-common (>= 1.0), php-phpdocumentor-reflection-common (<< 2~~)
+Filename: pool/universe/p/php-phpdocumentor-type-resolver/php-phpdocumentor-type-resolver_0.1.6-2_all.deb
+Size: 9854
+MD5sum: 08063537324ca317d661181223b1e276
+SHA1: bf57aedaff1718401ef67f92f80c7a5366352745
+SHA256: 0ac614d6dfcc0ed6d4a372d7cc928e82d8dc2029e406df4bc619ef24d44755e7
+Description-en: TypeResolver and FqsenResolver - phpDocumentor component
+ This package provides two Resolvers that are capable of:
+  * Returning a series of Value Object for given expression while
+    resolving any partial class names;
+  * Returning an FQSEN object after resolving any partial Structural
+    Element Names into Fully Qualified Structural Element names.
+ .
+ phpDocumentor makes it possible to generate documentation from PHP source code.
+Description-md5: 8ea888c644881864ea6347b9f8b03c34
+Homepage: http://phpdoc.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

@@ -1,0 +1,22 @@
+Package: php-propro
+Priority: optional
+Section: universe/php
+Installed-Size: 43
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Facundo Guerrero <guerremdq@gmail.com>
+Architecture: amd64
+Version: 2.0.0-0ubuntu1
+Depends: libc6 (>= 2.4), php-common (>= 1:7.0+33~), phpapi-20151012
+Filename: pool/universe/p/php-propro/php-propro_2.0.0-0ubuntu1_amd64.deb
+Size: 8496
+MD5sum: 91c332126152c33e9a44a2625b3f75d8
+SHA1: 9b0eb016b885585bbf1d796e0aaec67c8863c40b
+SHA256: ad43b8f84df68f5e843d3de0831b5739cab8c662dc6305f9608711d68c68abc5
+Description-en: propro module for PHP
+ Property proxy
+ A reusable split-off of pecl_http's property proxy API.
+Description-md5: ec1e246691eaa78dc5288e3838b3e8cf
+Homepage: http://pecl.php.net/package/propro
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

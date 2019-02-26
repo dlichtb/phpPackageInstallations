@@ -1,0 +1,28 @@
+Package: php-phpdocumentor-reflection-docblock
+Priority: optional
+Section: universe/php
+Installed-Size: 112
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 2.0.4-1build1
+Depends: php-common
+Suggests: php-dflydev-markdown (>= 1.0), php-dflydev-markdown (<< 2~~), php-erusev-parsedown (>= 1.0), php-erusev-parsedown (<< 2~~)
+Filename: pool/universe/p/php-phpdocumentor-reflection-docblock/php-phpdocumentor-reflection-docblock_2.0.4-1build1_all.deb
+Size: 17782
+MD5sum: f4bff3e9d86b99fcd8f1794b5bcb6ce7
+SHA1: 3453e476615761c72451c2569b08a557fd472b93
+SHA256: beb2b9d91100f0a5e9a986fac08468d5b7ce5946e76d428b00e5cad38b7c600a
+Description-en: DocBlock parser - phpDocumentor component
+ The ReflectionDocBlock component of phpDocumentor provides a DocBlock parser
+ that is 100% compatible with the PHPDoc standard.
+ .
+ With this component, a library can provide support for annotations via
+ DocBlocks or otherwise retrieve information that is embedded in a DocBlock.
+ .
+ phpDocumentor makes it possible to generate documentation from PHP source code.
+Description-md5: dd43b4a0db119bdb960d49b46a14973c
+Homepage: http://phpdoc.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

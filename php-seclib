@@ -1,0 +1,56 @@
+Package: php-seclib
+Architecture: all
+Version: 1.0.1-3ubuntu0.1
+Priority: optional
+Section: universe/php
+Source: phpseclib
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 1223
+Provides: php-math-biginteger (= 1.0.2+phpseclib), php-phpseclib, php-phpseclib-crypt-aes, php-phpseclib-crypt-base, php-phpseclib-crypt-blowfish, php-phpseclib-crypt-des, php-phpseclib-crypt-hash, php-phpseclib-crypt-random, php-phpseclib-crypt-rc4, php-phpseclib-crypt-rijndael, php-phpseclib-crypt-rsa, php-phpseclib-crypt-tripledes, php-phpseclib-crypt-twofish, php-phpseclib-file-ansi, php-phpseclib-file-asn1, php-phpseclib-file-x509, php-phpseclib-math-biginteger, php-phpseclib-net-sftp, php-phpseclib-net-ssh1, php-phpseclib-net-ssh2, php-phpseclib-system-ssh-agent
+Depends: php-common
+Suggests: php-mcrypt, php-gmp, php-compat
+Conflicts: php-math-biginteger
+Replaces: php-math-biginteger
+Filename: pool/universe/p/phpseclib/php-seclib_1.0.1-3ubuntu0.1_all.deb
+Size: 173566
+MD5sum: ae81265e2498bc4f9e5000f7179f6443
+SHA1: f0972eb427cd5a9757d73e3dbe28ca55e0fd67c0
+SHA256: 5d39d26d8409f638ddac64f92d9c9287df0590939a31e464bde3ee147d55b0c5
+Homepage: http://phpseclib.sourceforge.net/
+Description-en: implementations of an arbitrary-precision integer arithmetic library
+ The PHP Secure Communications Library are fully PKCS#1 (v2.1) compliant
+ RSA, DES, 3DES, RC4, Rijndael, AES, Blowfish, Twofish, SSH-1, SSH-2, SFTP, and
+ X.509 implementations.
+Description-md5: 10e7f76b4666e87ee17d51c011b757e1
+
+Package: php-seclib
+Priority: optional
+Section: universe/php
+Installed-Size: 1223
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Source: phpseclib
+Version: 1.0.1-3
+Replaces: php-math-biginteger
+Provides: php-math-biginteger (= 1.0.2+phpseclib), php-phpseclib, php-phpseclib-crypt-aes, php-phpseclib-crypt-base, php-phpseclib-crypt-blowfish, php-phpseclib-crypt-des, php-phpseclib-crypt-hash, php-phpseclib-crypt-random, php-phpseclib-crypt-rc4, php-phpseclib-crypt-rijndael, php-phpseclib-crypt-rsa, php-phpseclib-crypt-tripledes, php-phpseclib-crypt-twofish, php-phpseclib-file-ansi, php-phpseclib-file-asn1, php-phpseclib-file-x509, php-phpseclib-math-biginteger, php-phpseclib-net-sftp, php-phpseclib-net-ssh1, php-phpseclib-net-ssh2, php-phpseclib-system-ssh-agent
+Depends: php-common
+Suggests: php-mcrypt, php-gmp, php-compat
+Conflicts: php-math-biginteger
+Filename: pool/universe/p/phpseclib/php-seclib_1.0.1-3_all.deb
+Size: 174002
+MD5sum: 460db4910a892f4bc23faaf3202290af
+SHA1: 91297fd102b31e63e5403256e1576b98eb3cccab
+SHA256: b236e9da7f6139ec1486925251f86d28f31c21cf3fab57ddf71cc7f2c671c0bc
+Description-en: implementations of an arbitrary-precision integer arithmetic library
+ The PHP Secure Communications Library are fully PKCS#1 (v2.1) compliant
+ RSA, DES, 3DES, RC4, Rijndael, AES, Blowfish, Twofish, SSH-1, SSH-2, SFTP, and
+ X.509 implementations.
+Description-md5: 10e7f76b4666e87ee17d51c011b757e1
+Homepage: http://phpseclib.sourceforge.net/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

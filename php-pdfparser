@@ -1,0 +1,32 @@
+Package: php-pdfparser
+Priority: optional
+Section: universe/php
+Installed-Size: 169
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 0.9.25+dfsg-1build1
+Depends: php-common, php-tcpdf (>= 6.0.050)
+Filename: pool/universe/p/php-pdfparser/php-pdfparser_0.9.25+dfsg-1build1_all.deb
+Size: 18776
+MD5sum: 3744607f89b55d4a2abf0cb75e884438
+SHA1: 0f9448c361a6a4930db36a2fd041e4a5881c8f50
+SHA256: bc441f483051234e02007e7ca78e2d07afcae9734bf93d412d05237b16cc9f78
+Description-en: PHP library to parse PDF files and extract elements like text
+ PdfParser is a standalone PHP library that provides various tools to extract
+ data from a PDF file.
+ .
+ Features:
+  * Load and parse objects and headers
+  * Extract metadata (author, description, keywords, etc.)
+  * Extract text from ordered pages
+  * Support for compressed PDF
+  * Support charset encoding (WinAnsi, MacRoman)
+  * Handling hexa and octal content encoding
+ .
+ Currently, secured documents are not supported.
+Description-md5: f4829df60aaf73a7418d06fba8be8f59
+Homepage: http://www.pdfparser.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

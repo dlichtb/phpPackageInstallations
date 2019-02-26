@@ -1,0 +1,27 @@
+Package: php-phpseclib
+Priority: optional
+Section: universe/php
+Installed-Size: 1172
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 2.0.1-1build1
+Replaces: php-seclib (>= 2)
+Provides: php-seclib (= 2.0.1-1build1)
+Depends: php-common
+Suggests: php-libsodium, php-mcrypt, php-gmp
+Conflicts: php-seclib (>= 2)
+Filename: pool/universe/p/php-phpseclib/php-phpseclib_2.0.1-1build1_all.deb
+Size: 172732
+MD5sum: d367d16b9cf4039b4fc59b6c37a5a620
+SHA1: ef09ec78148f1234dd942679ede31b65be67a2bb
+SHA256: 74769a9ff9057eec6388440211f002ab1af2f03db370f8304d8788ccc0eda4f9
+Description-en: implementations of an arbitrary-precision integer arithmetic library
+ The PHP Secure Communications Library are fully PKCS#1 (v2.1) compliant
+ RSA, DES, 3DES, RC4, Rijndael, AES, Blowfish, Twofish, SSH-1, SSH-2, SFTP, and
+ X.509 implementations.
+Description-md5: 10e7f76b4666e87ee17d51c011b757e1
+Homepage: http://phpseclib.sourceforge.net/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

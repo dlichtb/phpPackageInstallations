@@ -1,0 +1,23 @@
+Package: php-net-publicsuffix
+Priority: optional
+Section: universe/web
+Installed-Size: 20
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Daniel Kahn Gillmor <dkg@fifthhorseman.net>
+Architecture: all
+Version: 0.1-1ubuntu1
+Depends: publicsuffix, php | php-cli
+Filename: pool/universe/p/php-net-publicsuffix/php-net-publicsuffix_0.1-1ubuntu1_all.deb
+Size: 4250
+MD5sum: fce4af8ca5a324427fdca030031d5c0b
+SHA1: 81805fd63cc0e8385b08a7d33e541ccae297a93e
+SHA256: d9f9d83958e7134211524898978dabe5360a8b88ed01b7157f68aa0661284ddf
+Description-en: PHP module for detecting registered domains and public suffixes
+ This PHP library provides an interface for detecting registered
+ domains and public suffixes of domain names.  This can be useful for
+ determining cookie domain boundaries, other same-origin policies,
+ domain aggregation for spam scores, etc.
+Description-md5: b0341ced770d792fdeb77d3c42a1bfee
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

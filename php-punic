@@ -1,0 +1,24 @@
+Package: php-punic
+Priority: optional
+Section: universe/php
+Installed-Size: 6192
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.6.3-1build1
+Replaces: php-punic-calendar, php-punic-common
+Depends: php-common
+Breaks: php-punic-calendar, php-punic-common
+Filename: pool/universe/p/php-punic/php-punic_1.6.3-1build1_all.deb
+Size: 622574
+MD5sum: b1a745c774588d97245223a808cf2a49
+SHA1: ba69e3d1c03ca2abf2c83a5db18b9330ea567862
+SHA256: 8c3328884b7797329bb733b18c762b7dd1f6f744b480ac4bc53e24a727b33530
+Description-en: PHP-Unicode CLDR toolkit
+ Punic is a PHP library using the CLDR data to help localize various
+ variables like numbers, dates, units, lists, etc.
+Description-md5: 6364ba6646138a40fda7acbc42bb9e57
+Homepage: https://punic.github.io/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

@@ -1,0 +1,23 @@
+Package: php-phpdocumentor-reflection-common
+Priority: optional
+Section: universe/php
+Installed-Size: 23
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.0-2build1
+Depends: php-common
+Filename: pool/universe/p/php-phpdocumentor-reflection-common/php-phpdocumentor-reflection-common_1.0-2build1_all.deb
+Size: 4226
+MD5sum: 621d36a1714aec775fb23e602a2097fa
+SHA1: 6442019d142809dea36535c2f9d5f545496e9c47
+SHA256: faa1039db3bf392265ea8d02747b20480c973987149d180570852f8855a246c7
+Description-en: Common reflection classes - phpDocumentor component
+ Common reflection classes used by phpdocumentor to reflect the code structure.
+ .
+ phpDocumentor makes it possible to generate documentation from PHP source code.
+Description-md5: 75380b40676c1bc4aad85a540d2fab9e
+Homepage: http://phpdoc.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

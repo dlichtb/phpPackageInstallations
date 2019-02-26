@@ -1,0 +1,25 @@
+Package: php-phpdocumentor-reflection
+Priority: optional
+Section: universe/php
+Installed-Size: 84
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.0.7-1build1
+Depends: php-common, php-psr-log (>= 1.0), php-psr-log (<< 2~~), php-parser (<< 2~~), php-phpdocumentor-reflection-docblock (>= 2.0), php-phpdocumentor-reflection-docblock (<< 3~~)
+Filename: pool/universe/p/php-phpdocumentor-reflection/php-phpdocumentor-reflection_1.0.7-1build1_all.deb
+Size: 13246
+MD5sum: bf70154bc1ce8c25fbd9fff75555a283
+SHA1: 72e88d13cf3b9f06ae6b583a13b344553af41c17
+SHA256: ec6d49f87a4cf9e8c637a27c01706348bd7353adeb12e9e1676ffbc5d13233f9
+Description-en: Reflection library to do Static Analysis for PHP Projects
+ This library makes it possible to statically reflect one or more files
+ and create an object graph representing your application's structure,
+ including accompanying in-source documentation using DocBlocks.
+ .
+ phpDocumentor makes it possible to generate documentation from PHP source code.
+Description-md5: 296dea1df5ad60b9921c7dbb3f0b4521
+Homepage: http://phpdoc.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

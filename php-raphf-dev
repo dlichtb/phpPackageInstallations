@@ -1,0 +1,25 @@
+Package: php-raphf-dev
+Priority: optional
+Section: universe/php
+Installed-Size: 31
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Facundo Guerrero <guerremdq@gmail.com>
+Architecture: amd64
+Source: php-raphf
+Version: 2.0.0-0ubuntu1
+Depends: php-common, phpapi-20151012
+Filename: pool/universe/p/php-raphf/php-raphf-dev_2.0.0-0ubuntu1_amd64.deb
+Size: 5906
+MD5sum: 3e8bf66e81b64c5b32f132e95a809188
+SHA1: db531be8b34745a711e8ec20a5870cd6c366fd34
+SHA256: 70db72fd5941fd46c79df84ee5e30fd59090b69a9abb319d7f35d53ed9ade337
+Description-en: raphf module for PHP development headers
+ A reusable split-off of pecl_http's persistent handle and resource factory
+ API.
+ .
+ This package provides pecl-http development headers
+Description-md5: 18f5739a421e1468168313a428bc299c
+Homepage: http://pecl.php.net/package/raphf
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

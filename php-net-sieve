@@ -1,0 +1,24 @@
+Package: php-net-sieve
+Priority: optional
+Section: universe/web
+Installed-Size: 81
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.3.4-2build1
+Depends: php-common, php-net-socket (>= 1.0), php-pear (>= 1.0)
+Recommends: php-auth-sasl (>= 1.0)
+Filename: pool/universe/p/php-net-sieve/php-net-sieve_1.3.4-2build1_all.deb
+Size: 17512
+MD5sum: 083de4c1aa3fd769ab8eb5a69e1f3953
+SHA1: 20ae0aa32bea3f9284693f6b4cf7dc4d805f3eb4
+SHA256: 6a38121834ac7a61894a3551c960009aca9364e248acd4ebeb4c99c75485a1fe
+Description-en: Handles talking to a sieve server
+ This package provides an API to talk to servers implementing the managesieve
+ protocol. It can be used to install and remove sieve scripts, mark them active
+ etc.
+Description-md5: b32816c7a6d5e3b5c342cfc7e75a4102
+Homepage: http://pear.php.net/package/Net_Sieve
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

@@ -1,0 +1,27 @@
+Package: php-sabre-xml
+Priority: optional
+Section: universe/php
+Installed-Size: 90
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.4.0-1build1
+Depends: php-common, php-xml, libxml2 (>= 2.6.20), php-sabre-uri (>= 1.0), php-sabre-uri (<< 2~~)
+Filename: pool/universe/p/php-sabre-xml/php-sabre-xml_1.4.0-1build1_all.deb
+Size: 15914
+MD5sum: a915100d05c05f8a942b920ddbc316b6
+SHA1: 7cceb6cd1e9b02801975a49f2f1369276278ec32
+SHA256: 06c5b4fdd7b456676b820c6298317fa41df4f0796cf8e8ab687a22440b31c67e
+Description-en: specialized XML reader and writer
+ sabre/xml wraps XMLReader and XMLWriter, and provides standard design
+ patterns around:
+  * Quickly generating XML based on simple array structures,
+  * Providing a super simple XML-to-object mapping,
+  * Re-usability of parsers.
+ .
+ It aims at being simpler to use than SimpleXML or the DOM.
+Description-md5: 709a3a0b384630a63d386f83f5b8c20d
+Homepage: http://sabre.io/xml/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

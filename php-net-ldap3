@@ -1,0 +1,24 @@
+Package: php-net-ldap3
+Priority: optional
+Section: universe/php
+Installed-Size: 123
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.0.3-1build1
+Depends: php-common, php-net-ldap2 (>= 2.0.12)
+Filename: pool/universe/p/php-net-ldap3/php-net-ldap3_1.0.3-1build1_all.deb
+Size: 22608
+MD5sum: eb6df5251e45a8a911bcdb37e6dae6b2
+SHA1: 5ecc56662a075c56fecc21bceefdd2e5c1a8b21a
+SHA256: 91a085b8a9fab966248f700213fbf216f1f842c49a06f12229bf9d19041c7855
+Description-en: Object oriented interface for searching and manipulating LDAP entries
+ A successor of the PEAR:Net_LDAP2 module providing advanced functionality for
+ accessing LDAP directories. It enables access to LDAP directories
+ with an object-oriented interface. It layers on top of
+ PEAR:Net_LDAP2.
+Description-md5: 94ba82218e0e8976a722fd4c87e661e6
+Homepage: http://git.kolab.org/pear/Net_LDAP3/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

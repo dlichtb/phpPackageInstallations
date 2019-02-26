@@ -1,0 +1,27 @@
+Package: php-monolog
+Priority: optional
+Section: universe/php
+Installed-Size: 351
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.17.2-1ubuntu4
+Provides: php-psr-log-implementation (= 1.0.0)
+Depends: php-psr-log (>= 1.0.0-2~), php-common, php-psr-log (<< 2~~)
+Suggests: git, php-graylog2-gelf-php, php-raven, php-doctrine-couchdb, php-ruflin-elastica, php-amqplib, php-amqp, php-mongo, php-aws-sdk, php-rollbar, php-console
+Filename: pool/universe/p/php-monolog/php-monolog_1.17.2-1ubuntu4_all.deb
+Size: 60244
+MD5sum: 3897f029b7ceac322339e70af096b1b9
+SHA1: a3da18d28a25b0479e70710f9d79aa5d31a458f5
+SHA256: ac2ac66f2f5fe0a10884bf46c2fd5c5c2c1e249da7532016f750ab89b4ff8b20
+Description-en: send logs to various destination and web services
+ Sends your logs to files, sockets, inboxes, databases and various web services
+ .
+ This library implements the PSR-3 interface that can be used in other
+ libraries and applications to keep a maximum of interoperability, and
+ make sure another compatible logger can always be used at a later time.
+Description-md5: 807f0b12016d1df687cf549ea4c34bb5
+Homepage: https://github.com/Seldaek/monolog
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

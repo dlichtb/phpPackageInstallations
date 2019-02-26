@@ -1,0 +1,60 @@
+Package: php-mysql
+Architecture: all
+Version: 1:7.0+35ubuntu6.1
+Priority: optional
+Section: php
+Source: php-defaults (35ubuntu6.1)
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 11
+Depends: php-common, php7.0-mysql
+Filename: pool/main/p/php-defaults/php-mysql_7.0+35ubuntu6.1_all.deb
+Size: 1928
+MD5sum: 08ffdf215701cf78b0f4cab32b3ca3b2
+SHA1: dcf3d63f4bf5145c23790a3ff0e165e65ed68d94
+SHA256: 7a809076b1ffbf1a3355b1eb64d6a2afdba408396f70cb5fb34f1ac403f093b3
+Description-en_CA: MySQL module for PHP [default]
+ This package provides a MySQL module for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+ .
+ This package is a dependency package, which depends on Debian's default
+ PHP version (currently 7.0).
+Description-md5: 265a7711f424b33d41963a4e513338ea
+Task: lamp-server, mythbuntu-frontend, mythbuntu-desktop, mythbuntu-backend-slave, mythbuntu-backend-master, mythbuntu-backend-master
+Supported: 5y
+
+Package: php-mysql
+Priority: optional
+Section: php
+Installed-Size: 11
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Architecture: all
+Source: php-defaults (35ubuntu6)
+Version: 1:7.0+35ubuntu6
+Depends: php-common, php7.0-mysql
+Filename: pool/main/p/php-defaults/php-mysql_7.0+35ubuntu6_all.deb
+Size: 1936
+MD5sum: 0d2a792a0fe28c0e43c5afdf6bad2246
+SHA1: 530be5cd70c5a8c19810f426e733a270f4354e1b
+SHA256: a859b458aa1e6783d0c574f5dfbb0f8022bb30fa7cdfcdabafa676bc902723ec
+Description-en_CA: MySQL module for PHP [default]
+ This package provides a MySQL module for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+ .
+ This package is a dependency package, which depends on Debian's default
+ PHP version (currently 7.0).
+Description-md5: 265a7711f424b33d41963a4e513338ea
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+Supported: 5y
+Task: lamp-server, mythbuntu-frontend, mythbuntu-desktop, mythbuntu-backend-slave, mythbuntu-backend-master, mythbuntu-backend-master
+

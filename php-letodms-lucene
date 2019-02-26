@@ -1,0 +1,26 @@
+Package: php-letodms-lucene
+Priority: optional
+Section: universe/web
+Installed-Size: 35
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.1.1-1
+Depends: php-common
+Recommends: letodms (>= 3.3.9+dfsg-1)
+Suggests: id3
+Filename: pool/universe/p/php-letodms-lucene/php-letodms-lucene_1.1.1-1_all.deb
+Size: 6810
+MD5sum: 5e7d6d2c2a94d7f50b3ab289ea4d5fdd
+SHA1: 01bab61f6a67ab83fa3c22c852d6c24908b69f46
+SHA256: ca5e3669d2b5e18db6d82c03de9c24a103a273b517520a61236096b2e4e79eba
+Description-en: Document management system - Fulltext search
+ LetoDMS is a web based document management system (DMS). This is
+  the fulltext search engine for it, based on Lucene.
+  .
+  Lucene is an Apache subproject. Zend_Search_Lucene is part of Zend Framework,
+  a general purpose text search engine written entirely in PHP5.
+Description-md5: d19d172c29b10661b667e05f501961be
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

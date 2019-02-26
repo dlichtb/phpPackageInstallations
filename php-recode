@@ -1,0 +1,58 @@
+Package: php-recode
+Architecture: all
+Version: 1:7.0+35ubuntu6.1
+Priority: optional
+Section: php
+Source: php-defaults (35ubuntu6.1)
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 11
+Depends: php-common, php7.0-recode
+Filename: pool/main/p/php-defaults/php-recode_7.0+35ubuntu6.1_all.deb
+Size: 1930
+MD5sum: 29d9afd5d3a5b4b55b60825d2ce2a498
+SHA1: dc47bb0a056a427a125d3e536a8112c6846078fc
+SHA256: 48ea4e9e78bcf717a8beedce9a58abcebafdd50e942a8a592ef484b09df47395
+Description-en_CA: recode module for PHP [default]
+ This package provides a recode module for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+ .
+ This package is a dependency package, which depends on Debian's default
+ PHP version (currently 7.0).
+Description-md5: 03c7da55dc1c0dc1b766354e610893fb
+Supported: 5y
+
+Package: php-recode
+Priority: optional
+Section: php
+Installed-Size: 11
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP Maintainers <pkg-php-maint@lists.alioth.debian.org>
+Architecture: all
+Source: php-defaults (35ubuntu6)
+Version: 1:7.0+35ubuntu6
+Depends: php-common, php7.0-recode
+Filename: pool/main/p/php-defaults/php-recode_7.0+35ubuntu6_all.deb
+Size: 1928
+MD5sum: 515a5415807d79654ee729ed80e8992e
+SHA1: 478181bdf5ef9ef1ea705395a8b95f2d7634833d
+SHA256: 1e7a22971f02eb668002d2cb6a8bc66dba910169d3da8c3f821125e60c66073b
+Description-en_CA: recode module for PHP [default]
+ This package provides a recode module for PHP.
+ .
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used
+ open source general-purpose scripting language that is especially suited
+ for web development and can be embedded into HTML.
+ .
+ This package is a dependency package, which depends on Debian's default
+ PHP version (currently 7.0).
+Description-md5: 03c7da55dc1c0dc1b766354e610893fb
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+Supported: 5y
+

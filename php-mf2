@@ -1,0 +1,26 @@
+Package: php-mf2
+Priority: extra
+Section: universe/php
+Installed-Size: 79
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Bhuvan Krishna <bhuvan@swecha.net>
+Architecture: all
+Version: 0.2.12-1build1
+Depends: php-cli, php-common
+Suggests: php-barnabywalters-mf-cleaner
+Filename: pool/universe/p/php-mf2/php-mf2_0.2.12-1build1_all.deb
+Size: 22708
+MD5sum: 356d2c5713816d01f2e8bb145e58224d
+SHA1: aebed9cab08360f22f480d6cd2b0f4eb9899d965
+SHA256: 0b359b2a54d340a06a04dc52c09cb5faaf65e072e7c57c0d10018559ae205318
+Description-en: Microformats2 is the simplest way to markup structured information in HTML
+ A pure, generic microformats2 parser - makes HTML as easy to consume
+ as a JSON APIMicroformats2 is the simplest way to markup structured
+ information in HTML. Microformats2 improves ease of use and
+ implementation for both authors (publishers) and developers (parser
+ implementers).
+Description-md5: 952af6ac0dfc46fb949375659d2cc5c5
+Homepage: http://microformats.org/wiki/microformats-2
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

@@ -1,0 +1,28 @@
+Package: php-pclzip
+Priority: optional
+Section: universe/php
+Installed-Size: 222
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 2.8.2-3ubuntu1
+Depends: php-common
+Filename: pool/universe/p/php-pclzip/php-pclzip_2.8.2-3ubuntu1_all.deb
+Size: 27790
+MD5sum: 5727f9a8257527780cff6addc4840c4e
+SHA1: 5d3f3a1dd036c7043e0b28dedc68a075266fffb7
+SHA256: 00975280436d193b9750290aadae93ea49f0abe8e7de01701ac27f2712a52b97
+Description-en: ZIP archive manager class for PHP
+ This library offers compression and extraction functions for ZIP
+ formatted archives (WinZip, PKZIP). It gives you the ability to
+ manipulate ZIP formatted archives. You can create, list and extract
+ the contents of any ZIP file.
+ .
+ PclZip defines an object oriented interface to ZIP archives through
+ a PHP class. This class manages the archive properties and offers
+ access method and actions on it.
+Description-md5: c4ff4d28965865b3bc62aeb0367a2a24
+Homepage: http://www.phpconcept.net/pclzip/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

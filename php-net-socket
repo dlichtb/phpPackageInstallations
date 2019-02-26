@@ -1,0 +1,24 @@
+Package: php-net-socket
+Priority: optional
+Section: universe/web
+Installed-Size: 43
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.0.14-1build1
+Depends: php-pear
+Filename: pool/universe/p/php-net-socket/php-net-socket_1.0.14-1build1_all.deb
+Size: 10148
+MD5sum: c20a6203907db565c200e7bc04b775f4
+SHA1: 23658208cc1e1befcc487366fb5e246a9a19c760
+SHA256: becdaf1815a881793902a8e67e33c3803ad0da53b0c486fc0728fa7e13f6cf4b
+Description-en: PHP PEAR Network Socket Interface module
+ Net_Socket is a class interface to TCP sockets.  It provides
+ blocking and non-blocking operation, with different reading
+ and writing modes (byte-wise, block-wise, line-wise and special
+ formats like network byte-order ip addresses).
+Description-md5: 40e272a8714a5076713b7116cf9ffab1
+Homepage: http://pear.php.net/package/Net_Socket
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

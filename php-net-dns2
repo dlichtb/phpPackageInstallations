@@ -1,0 +1,26 @@
+Package: php-net-dns2
+Priority: optional
+Section: universe/php
+Installed-Size: 710
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.4.1-1build1
+Depends: php-pear, php-common
+Filename: pool/universe/p/php-net-dns2/php-net-dns2_1.4.1-1build1_all.deb
+Size: 71670
+MD5sum: 73a4eaf76f7e74ccb58da35c7921b01f
+SHA1: 2a1b24217fcff346ad40618746c1a8aab3bdca55
+SHA256: 0ad5baadd6c951625572e717beb4187ab47965fdfbd32da0bb3a5ca2c630e727
+Description-en: PHP5 Resolver library used to communicate with a DNS server
+ Provides (roughly) the same functionality as Net_DNS, but using PHP5 objects,
+ exceptions for error handling, better sockets support.
+ .
+ This release is (in most cases) 2x - 10x faster than Net_DNS, as well as
+ includes more RR's (including DNSSEC RR's), and improved sockets and streams
+ support.
+Description-md5: 32dea83a2752efc110b61ac73daac887
+Homepage: http://pear.php.net/package/Net_DNS2
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

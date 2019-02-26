@@ -1,0 +1,24 @@
+Package: php-net-url
+Priority: optional
+Section: universe/web
+Installed-Size: 48
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.0.15-3build1
+Depends: php-pear
+Filename: pool/universe/p/php-net-url/php-net-url_1.0.15-3build1_all.deb
+Size: 10828
+MD5sum: b9e22beb218fa14dc4d2b1e9cca17350
+SHA1: 33329e90fafd423eaaa08d2eda4b22eaa53d2656
+SHA256: f583e12956db269866dec7a17e67ab2aeead99763f47f20f5f8fc35a599a5912
+Description-en: easy parsing of Urls
+ Net URL provides easy parsing of URLs and their constituent parts.
+ .
+ NOTE: This module is declared obsolete by its upstream, and superseded
+ by the Net::URL2 module
+Description-md5: 4997435798c3cd3e7ad64c2c8df1d612
+Homepage: http://pear.php.net/package/Net_URL/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

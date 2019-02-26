@@ -1,0 +1,25 @@
+Package: php-net-ftp
+Priority: optional
+Section: universe/web
+Installed-Size: 159
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Dario Minnucci <midget@debian.org>
+Architecture: all
+Version: 1:1.4.0-1build1
+Depends: php-common
+Filename: pool/universe/p/php-net-ftp/php-net-ftp_1.4.0-1build1_all.deb
+Size: 34704
+MD5sum: 0400d439aacb9b228a5e6f99542b0cf9
+SHA1: c1afd07dd6d70046b9018a7027389ad4a3895b35
+SHA256: 998c0ee635c58ae613346cd6ec846ceb8e660d96e563aa34190c41afe4f84b7f
+Description-en: provides an OO interface to the PHP FTP functions
+ Net_FTP allows you to communicate with FTP servers in a more comfortable way
+ than the native FTP functions of PHP do. The class implements everything
+ nativly supported by PHP and additionally features like recursive up- and
+ downloading, dircreation and chmodding. It although implements an observer
+ pattern to allow for example the view of a progress bar.
+Description-md5: 0728421c874ab3f27da68072773e49a9
+Homepage: http://pear.php.net/package/Net_FTP/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

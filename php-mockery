@@ -1,0 +1,29 @@
+Package: php-mockery
+Priority: optional
+Section: universe/php
+Installed-Size: 253
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 0.9.4-1build1
+Depends: php-common, libpcre3 (>= 7.0), php-hamcrest (>= 1.1), php-hamcrest (<< 2~~)
+Suggests: php-mockery-doc
+Filename: pool/universe/p/php-mockery/php-mockery_0.9.4-1build1_all.deb
+Size: 35214
+MD5sum: 13de6423d79ff964411d1f9abc8a7559
+SHA1: 55e6f47ba3f13189b58761b78c4df71b16cb76bb
+SHA256: c8b9b8153929c5ec5f6818d846300a4f79050d09e7d105bf7a1a9a32b3aabf02
+Description-en: mock object framework for PHPUnit and other testing framework
+ Mockery is a simple yet flexible PHP mock object framework for use in unit
+ testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is
+ to offer a test double framework with a succinct API capable of clearly
+ defining all possible object operations and interactions using a human
+ readable Domain Specific Language (DSL). Designed as a drop in alternative to
+ PHPUnit's phpunit-mock-objects library, Mockery is easy to integrate with
+ PHPUnit and can operate alongside phpunit-mock-objects without the World
+ ending.
+Description-md5: 94c7e07c64e6bdf59ca98fad187a471f
+Homepage: http://docs.mockery.io
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

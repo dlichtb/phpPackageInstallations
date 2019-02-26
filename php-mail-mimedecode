@@ -1,0 +1,22 @@
+Package: php-mail-mimedecode
+Priority: optional
+Section: universe/web
+Installed-Size: 63
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.5.5-3build1
+Depends: php-common, php-mail-mime (>> 1.4.0)
+Filename: pool/universe/p/php-mail-mimedecode/php-mail-mimedecode_1.5.5-3build1_all.deb
+Size: 15028
+MD5sum: 4cb77518042353040d8296fbd049b635
+SHA1: 7cb2c48d4446327e349a595059760f148840ed54
+SHA256: b5bbc96aea26e6de90f00222c645ce246e376550a4f9ee03cf0af1de0bca0337
+Description-en: Provides a class to decode mime messages
+ Provides a class to deal with the decoding and interpreting of mime messages.
+ This package used to be part of the Mail_Mime package, but has been split off.
+Description-md5: 330143664159e16c0034a2577678bb65
+Homepage: http://pear.php.net/package/Mail_mimeDecode/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

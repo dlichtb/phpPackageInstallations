@@ -1,0 +1,26 @@
+Package: php-pimple
+Priority: optional
+Section: universe/php
+Installed-Size: 19
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.1.1-1build1
+Depends: php-common
+Filename: pool/universe/p/php-pimple/php-pimple_1.1.1-1build1_all.deb
+Size: 5550
+MD5sum: 53b77b965f051d718557485340ac04b1
+SHA1: d70e15bb92a8d7519a36c4fe5485ffaa1b626377
+SHA256: a22df5529bfbb9ac1d46dd282f06d02bb4530132a9ebd5dc0263cbdf9ccb92e2
+Description-en: simple dependency injection container
+ Pimple is a simple Dependency Injection Container for PHP 5.3
+ .
+ Creating a container is a matter of instating the Pimple class.
+ .
+ As many other dependency injection containers, Pimple is able to manage
+ two different kind of data: services and parameters.
+Description-md5: 95dbb19c63b004431f8a2bb78420a8da
+Homepage: http://pimple.sensiolabs.org/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

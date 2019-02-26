@@ -1,0 +1,25 @@
+Package: php-net-whois
+Priority: optional
+Section: universe/php
+Installed-Size: 42
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Dario Minnucci <midget@debian.org>
+Architecture: all
+Version: 1.0.5-3build1
+Depends: php-common, php-net-socket
+Filename: pool/universe/p/php-net-whois/php-net-whois_1.0.5-3build1_all.deb
+Size: 10566
+MD5sum: a0e6168ba9ebc18e6dae6bf21c1023af
+SHA1: 8294cb04625375953c8c184030ccfa3ca7bd6caf
+SHA256: 22cffdd4d10b1aff9be6e3830e655aeb45b681a5cb6dd3073c4cb8687d82654a
+Description-en: PHP PEAR module for querying whois services
+ The PEAR::Net_Whois class provides a tool to query internet domain name and
+ network number directory services.
+ .
+ This module looks up records in the databases maintained by several Network
+ Information Centers (NICs).
+Description-md5: dbde3e1721da082cac2392fc5791e653
+Homepage: http://pear.php.net/package/Net_Whois
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

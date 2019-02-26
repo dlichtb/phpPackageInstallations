@@ -1,0 +1,31 @@
+Package: php-net-ldap2
+Priority: optional
+Section: universe/web
+Installed-Size: 352
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 2.2.0-1ubuntu1
+Depends: php-common, php-ldap, php-pear
+Filename: pool/universe/p/php-net-ldap2/php-net-ldap2_2.2.0-1ubuntu1_all.deb
+Size: 76574
+MD5sum: 94e9d7ddc80f475d1b26a2f798b2d360
+SHA1: c0eb5ad8eaff48e5945bc8861ffbe4b6080ba693
+SHA256: 0728decad3c95cf03570805dfc3318acb448b196c4b4d91adc91286fa37debbe
+Description-en: Object oriented interface for searching and manipulating LDAP-entries
+ Net_LDAP2 is the successor of Net_LDAP which is a clone of Perls Net::LDAP
+ object interface to directory servers. It does contain most of Net::LDAPs
+ features but has some own too.
+ With Net_LDAP2 you have:
+  * A simple object-oriented interface to connections, searches entries and
+ filters.
+  * Support for TLS and LDAP v3.
+  * Simple modification, deletion and creation of LDAP entries.
+  * Support for schema handling.
+ .
+ Net_LDAP2 layers itself on top of PHP's existing ldap extensions.
+Description-md5: 89cc23d2adda643e10aafc8bb8043606
+Homepage: http://pear.php.net/package/Net_LDAP2/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

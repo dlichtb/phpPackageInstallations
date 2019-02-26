@@ -1,0 +1,26 @@
+Package: php-mail
+Priority: optional
+Section: universe/web
+Installed-Size: 125
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.3.0-1
+Depends: php-common
+Recommends: php-net-smtp (>= 1.4.1)
+Filename: pool/universe/p/php-mail/php-mail_1.3.0-1_all.deb
+Size: 24304
+MD5sum: bbc73f116ef281ff9665d47652126b0b
+SHA1: fcf6f29a0d161a35c22590a9543cb637516a5ab4
+SHA256: ae7de59a5e57aec0e9c00d97c4962bbfb5f7046b71b0aa8c32a9f2bd6d967af8
+Description-en: Class that provides multiple interfaces for sending emails
+ PEAR's Mail package defines an interface for implementing mailers under the
+ PEAR hierarchy. It also provides supporting functions useful to multiple
+ mailer backends. Currently supported backends include: PHP's native mail()
+ function, sendmail, and SMTP. This package also provides a RFC822 email
+ address list validation utility class.
+Description-md5: f59e72d480ff15d603b5afcee9b730b9
+Homepage: http://pear.php.net/package/Mail
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

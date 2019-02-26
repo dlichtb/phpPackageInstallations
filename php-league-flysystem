@@ -1,0 +1,34 @@
+Package: php-league-flysystem
+Priority: optional
+Section: universe/php
+Installed-Size: 150
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.0.16-1build1
+Depends: php-common
+Suggests: php-league-flysystem-eventable-filesystem, php-league-flysystem-rackspace, php-league-flysystem-copy, php-league-flysystem-azure, php-league-flysystem-webdav, php-league-flysystem-aws-s3-v2, php-league-flysystem-aws-s3-v3, php-league-flysystem-dropbox, php-league-flysystem-cached-adapter, php-league-flysystem-sftp, php-league-flysystem-ziparchive
+Filename: pool/universe/p/php-league-flysystem/php-league-flysystem_1.0.16-1build1_all.deb
+Size: 20666
+MD5sum: d6120474d7a1fc37855f9f3d6bc9f564
+SHA1: 4e4278f5b06c0598dce498694eb0dc0fac616af5
+SHA256: 03fa7dbe8d64fff2498b78debfce89f4d31f29d40fd2df2b3fe64091800a9cf6
+Description-en: filesystem abstraction offering one API to many filesystems
+ Flysystem is a filesystem abstraction which allows you to easily swap out a
+ local filesystem for a remote one.
+ .
+ Goals:
+  * Have a generic API for handling common tasks across multiple file
+    storage engines.
+  * Have consistent output which you can rely on.
+  * Integrate well with other packages and frameworks.
+  * Be cacheable.
+  * Emulate directories in systems that support none, like AwsS3.
+  * Support third party plugins.
+  * Make it easy to test your filesystem interactions.
+  * Support streams for big file handling.
+Description-md5: 102f259106eac5b7ed14e9d3bcba80ba
+Homepage: http://flysystem.thephpleague.com/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

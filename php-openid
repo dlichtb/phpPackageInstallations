@@ -1,0 +1,24 @@
+Package: php-openid
+Priority: optional
+Section: universe/web
+Installed-Size: 670
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Jan Hauke Rahm <jhr@debian.org>
+Architecture: all
+Version: 2.2.2-1.2ubuntu1
+Depends: php, php-gmp, php-curl
+Suggests: php-db
+Filename: pool/universe/p/php-openid/php-openid_2.2.2-1.2ubuntu1_all.deb
+Size: 209586
+MD5sum: f9818909e0ed99a8ddb1f2f487a6a32b
+SHA1: 25f5ae2cb4b2bd9a0f0bef7403d29c74f52cb7d3
+SHA256: f8a999df632e27eb32da1948a09f612f880c6ace3946af08289a120a789ce623
+Description-en: PHP OpenID library
+ The PHP OpenID library lets you enable OpenID authentication on sites built
+ using PHP. It features the OpenID consumer, Store implementations,
+ and an OpenID server.
+Description-md5: 4d5b474a4c70e4089717df27b0f21ed7
+Homepage: http://github.com/openid/php-openid
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

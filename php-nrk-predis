@@ -1,0 +1,32 @@
+Package: php-nrk-predis
+Priority: optional
+Section: universe/php
+Installed-Size: 614
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Cyril Bouthors <cyb@debian.org>
+Architecture: amd64
+Version: 1.0.0-1
+Replaces: libphp-predis
+Provides: libphp-predis
+Conflicts: libphp-predis
+Filename: pool/universe/p/php-nrk-predis/php-nrk-predis_1.0.0-1_amd64.deb
+Size: 62296
+MD5sum: 2972f1921689b14a0c1d269602e9450b
+SHA1: 4aae19909c6e28b573698cee1d6e50e93af4a3dd
+SHA256: e4492e46cc66c67c0626e16a5a3fc9e2a4baf4118b97bcfb459f3e442905ec22
+Description-en: Flexible and feature-complete PHP client library for the Redis key-value store
+ The library does not require any additional extension loaded in PHP but it can
+ be optionally paired with the phpiredis (https://github.com/nrk/phpiredis)
+ C-based extension to lower the overhead of serializing and parsing the Redis
+ protocol. Predis is also available in an asynchronous fashion through the
+ experimental client provided by the Predis\Async
+ (http://github.com/nrk/predis-async) library.
+ .
+ For a list of frequently asked questions about Predis see our FAQ
+ (https://github.com/nrk/predis/blob/master/FAQ.md). More details are available
+ on the official wiki (http://wiki.github.com/nrk/predis) of the project.
+Description-md5: 89d8866579519ce5a826cbe4dcccace1
+Homepage: https://github.com/nrk/predis
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

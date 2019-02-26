@@ -1,0 +1,27 @@
+Package: php-sabre-event
+Priority: optional
+Section: universe/php
+Installed-Size: 33
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 3.0.0~as2.0.2-1build1
+Depends: php-common
+Filename: pool/universe/p/php-sabre-event/php-sabre-event_3.0.0~as2.0.2-1build1_all.deb
+Size: 6922
+MD5sum: 924f7515c2bfe0615c2ceb1517bd9a12
+SHA1: f26549070a1dad78a823f6a21cca2e5770d9f02b
+SHA256: 8df5b157388f24da191e3cb3ddabba828b02654d825ba9c68cb21d2f3ef92275
+Description-en: lightweight library for event-based development
+ sabre/event is a library for lightweight event-based programming.
+ This library provides two patterns:
+  * EventEmitter
+  * Promises
+ .
+ It provides some features like prioritization, and the ability to stop
+ the event chain, like JavaScript’s preventDefault.
+Description-md5: 81443bc24a1e4ea8031ba9cf95f900e5
+Homepage: http://sabre.io/event/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

@@ -1,0 +1,25 @@
+Package: php-mdb2-driver-pgsql
+Priority: optional
+Section: universe/web
+Installed-Size: 255
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: PKG-PHP-PEAR team <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.5.0b4-1ubuntu1
+Depends: php-pear, php-mdb2 (>= 2.5.0b4), php-pgsql
+Filename: pool/universe/p/php-mdb2-driver-pgsql/php-mdb2-driver-pgsql_1.5.0b4-1ubuntu1_all.deb
+Size: 40908
+MD5sum: a5b5544b356f489de19216dc42c05bb2
+SHA1: ec992140f9b960863e0946e94cb738b485d22589
+SHA256: e09653d771a7c81b2ba082c4ff9bc964405bca96a45973da339614a2da50a5a7
+Description-en: PHP PEAR module to provide a PostgreSQL driver for MDB2
+ MDB2 provides a common API for all supported RDBMS. The main
+ difference to most other DB abstraction packages is that MDB2 goes
+ much further to ensure portability.
+ .
+ This package provides the PostgreSQL package for MDB2.
+Description-md5: a325aa9144075c37d413f4dc596cf4f8
+Homepage: http://pear.php.net/package/MDB2_Driver_pgsql
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

@@ -1,0 +1,30 @@
+Package: php-mail-mime
+Priority: extra
+Section: universe/web
+Installed-Size: 170
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Version: 1.10.0-2
+Depends: php-mbstring, php-pear, php-common
+Filename: pool/universe/p/php-mail-mime/php-mail-mime_1.10.0-2_all.deb
+Size: 33504
+MD5sum: 3380e02c9138b3ee30cae8788fdf218f
+SHA1: 419b8b6d2d8d9f24b1c4bfbe84346ecedf82e045
+SHA256: 2517af052ecc18e61a85015233b5a3551923f83722f63604a0261f5dae8621fa
+Description-en: PHP PEAR module for creating MIME messages
+ Provides classes to deal with creation and manipulation of mime messages. It
+ allows people to create e-mail messages consisting of:
+ .
+  - mime.php: Create mime email, with html, attachments, embedded images
+    etc.
+  - mimePart.php: Advanced method of creating mime messages.
+  - xmail.dtd: An XML DTD to acompany the getXML() method of the decoding
+    class.
+  - xmail.xsl: An XSLT stylesheet to transform the output of the getXML()
+    method back to an email
+Description-md5: 40962a7f4ac0f1bfde809167a5677834
+Homepage: http://pear.php.net/package/Mail_Mime/
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

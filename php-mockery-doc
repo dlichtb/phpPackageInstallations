@@ -1,0 +1,31 @@
+Package: php-mockery-doc
+Priority: optional
+Section: universe/doc
+Installed-Size: 483
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>
+Architecture: all
+Source: php-mockery
+Version: 0.9.4-1build1
+Depends: libjs-sphinxdoc (>= 1.0), sphinx-rtd-theme-common
+Filename: pool/universe/p/php-mockery/php-mockery-doc_0.9.4-1build1_all.deb
+Size: 53518
+MD5sum: 08062a2ae663c794effc8cbd466c6d41
+SHA1: a4bb35b3e8c76a77bc6959336a6d2eb9e012dcbe
+SHA256: 7950ed2df1057512c0e7203df4d2989638ca62e5d8d419ff892f0faf2502248f
+Description-en: mock object framework for PHPUnit - documentation
+ This package provides the documentation for php-opencloud.
+ .
+ Mockery is a simple yet flexible PHP mock object framework for use in unit
+ testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is
+ to offer a test double framework with a succinct API capable of clearly
+ defining all possible object operations and interactions using a human
+ readable Domain Specific Language (DSL). Designed as a drop in alternative to
+ PHPUnit's phpunit-mock-objects library, Mockery is easy to integrate with
+ PHPUnit and can operate alongside phpunit-mock-objects without the World
+ ending.
+Description-md5: e2116c8d151ea853131bd87dd246ab74
+Homepage: http://docs.mockery.io
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+

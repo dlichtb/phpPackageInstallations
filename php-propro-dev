@@ -1,0 +1,24 @@
+Package: php-propro-dev
+Priority: optional
+Section: universe/php
+Installed-Size: 22
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Facundo Guerrero <guerremdq@gmail.com>
+Architecture: amd64
+Source: php-propro
+Version: 2.0.0-0ubuntu1
+Filename: pool/universe/p/php-propro/php-propro-dev_2.0.0-0ubuntu1_amd64.deb
+Size: 4164
+MD5sum: 6bfeb9d93add873b5d49e6de81502f92
+SHA1: 2c873a985231564c762ecfea45cec524199b05a2
+SHA256: d45f1453818138519ae640099b8dc980dcd022b0dcb9abacbc4503190d76dac6
+Description-en: propro module for PHP development headers
+ Property proxy
+ A reusable split-off of pecl_http's property proxy API.
+ .
+ This package provides php-propro-dev development headers
+Description-md5: 4e4ff25c3152567374abc4b91411ffaa
+Homepage: http://pecl.php.net/package/propro
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Origin: Ubuntu
+
